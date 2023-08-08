@@ -1,33 +1,33 @@
 
-Tuesday, August 8, 2023 5:31:29 AM
+Tuesday, August 8, 2023 5:35:21 AM
 
 
 Pinging 8.8.4.4 with 4 bytes of data:
-Reply from 8.8.4.4: bytes=4 time=58ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=45ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=34ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=33ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=33ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=34ms TTL=53
 Reply from 8.8.4.4: bytes=4 time=39ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=37ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=49ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=52ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=57ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=46ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=56ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=41ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=35ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=33ms TTL=53
 Reply from 8.8.4.4: bytes=4 time=34ms TTL=53
 Reply from 8.8.4.4: bytes=4 time=33ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=35ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=33ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=32ms TTL=53
 Reply from 8.8.4.4: bytes=4 time=33ms TTL=53
 Reply from 8.8.4.4: bytes=4 time=33ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=48ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=33ms TTL=53
 Reply from 8.8.4.4: bytes=4 time=34ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=35ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=137ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=34ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=33ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=33ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=42ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=33ms TTL=53
+Reply from 35.146.244.54: Destination host unreachable.
 
 Ping statistics for 8.8.4.4:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 33ms, Maximum = 58ms, Average = 41ms
+    Minimum = 32ms, Maximum = 137ms, Average = 39ms
 
-Tuesday, August 8, 2023 5:31:48 AM
+Tuesday, August 8, 2023 5:35:40 AM
 
