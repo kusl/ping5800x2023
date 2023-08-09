@@ -1,33 +1,33 @@
 
-Wednesday, August 9, 2023 5:46:00 PM
+Wednesday, August 9, 2023 5:49:52 PM
 
 
 Pinging 8.20.247.20 with 4 bytes of data:
-Reply from 8.20.247.20: bytes=4 time=57ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=53ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=61ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=54ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=68ms TTL=45
 Reply from 8.20.247.20: bytes=4 time=54ms TTL=45
 Reply from 8.20.247.20: bytes=4 time=54ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=53ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=53ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=53ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=54ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=63ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=57ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=54ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=60ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=53ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=54ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=53ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=53ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=62ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=58ms TTL=45
 Reply from 8.20.247.20: bytes=4 time=54ms TTL=45
 Reply from 8.20.247.20: bytes=4 time=55ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=55ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=60ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=55ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=54ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=53ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=54ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=54ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=55ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=53ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=53ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=53ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=54ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=56ms TTL=45
 
 Ping statistics for 8.20.247.20:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 53ms, Maximum = 63ms, Average = 55ms
+    Minimum = 53ms, Maximum = 68ms, Average = 55ms
 
-Wednesday, August 9, 2023 5:46:19 PM
+Wednesday, August 9, 2023 5:50:12 PM
 
