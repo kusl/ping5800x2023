@@ -1,33 +1,33 @@
 
-Wednesday, August 9, 2023 12:23:37 PM
+Wednesday, August 9, 2023 12:27:30 PM
 
 
 Pinging 8.20.247.20 with 4 bytes of data:
 Reply from 8.20.247.20: bytes=4 time=52ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=51ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=51ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=51ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=51ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=67ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=51ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=52ms TTL=45
 Reply from 8.20.247.20: bytes=4 time=52ms TTL=45
 Reply from 8.20.247.20: bytes=4 time=51ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=58ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=50ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=51ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=50ms TTL=45
 Reply from 8.20.247.20: bytes=4 time=53ms TTL=45
 Reply from 8.20.247.20: bytes=4 time=52ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=50ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=50ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=51ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=50ms TTL=45
 Reply from 8.20.247.20: bytes=4 time=51ms TTL=45
 Reply from 8.20.247.20: bytes=4 time=50ms TTL=45
 Reply from 8.20.247.20: bytes=4 time=50ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=57ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=50ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=51ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=51ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=50ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=56ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=51ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=52ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=52ms TTL=45
 
 Ping statistics for 8.20.247.20:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 50ms, Maximum = 58ms, Average = 51ms
+    Minimum = 50ms, Maximum = 67ms, Average = 52ms
 
-Wednesday, August 9, 2023 12:23:57 PM
+Wednesday, August 9, 2023 12:27:50 PM
 
