@@ -1,33 +1,33 @@
 
-Friday, August 11, 2023 3:58:18 AM
+Friday, August 11, 2023 4:02:11 AM
 
 
 Pinging 8.26.56.26 with 4 bytes of data:
-Reply from 8.26.56.26: bytes=4 time=82ms TTL=41
-Reply from 8.26.56.26: bytes=4 time=73ms TTL=41
-Reply from 8.26.56.26: bytes=4 time=87ms TTL=41
-Reply from 8.26.56.26: bytes=4 time=86ms TTL=41
-Reply from 8.26.56.26: bytes=4 time=98ms TTL=41
-Reply from 8.26.56.26: bytes=4 time=89ms TTL=41
-Reply from 8.26.56.26: bytes=4 time=96ms TTL=41
-Reply from 8.26.56.26: bytes=4 time=103ms TTL=41
-Reply from 8.26.56.26: bytes=4 time=97ms TTL=45
-Reply from 8.26.56.26: bytes=4 time=68ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=60ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=62ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=58ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=95ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=250ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=63ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=74ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=56ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=69ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=51ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=372ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=64ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=76ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=329ms TTL=46
 Reply from 8.26.56.26: bytes=4 time=71ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=65ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=74ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=75ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=66ms TTL=46
 Reply from 8.26.56.26: bytes=4 time=77ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=88ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=491ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=84ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=94ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=53ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=59ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=67ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=74ms TTL=46
 
 Ping statistics for 8.26.56.26:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 53ms, Maximum = 491ms, Average = 100ms
+    Minimum = 51ms, Maximum = 372ms, Average = 106ms
 
-Friday, August 11, 2023 3:58:38 AM
+Friday, August 11, 2023 4:02:30 AM
 
