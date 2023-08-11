@@ -1,33 +1,33 @@
 
-Friday, August 11, 2023 2:52:26 AM
+Friday, August 11, 2023 2:56:19 AM
 
 
 Pinging 8.20.247.20 with 4 bytes of data:
-Reply from 8.20.247.20: bytes=4 time=51ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=53ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=61ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=52ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=50ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=56ms TTL=45
 Reply from 8.20.247.20: bytes=4 time=50ms TTL=45
 Reply from 8.20.247.20: bytes=4 time=51ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=55ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=51ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=61ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=70ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=51ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=56ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=50ms TTL=45
 Reply from 8.20.247.20: bytes=4 time=51ms TTL=45
 Reply from 8.20.247.20: bytes=4 time=52ms TTL=45
 Reply from 8.20.247.20: bytes=4 time=50ms TTL=45
 Reply from 8.20.247.20: bytes=4 time=51ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=51ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=274ms TTL=45
 Reply from 8.20.247.20: bytes=4 time=50ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=51ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=50ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=51ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=50ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=51ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=50ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=50ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=51ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=51ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=50ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=56ms TTL=45
 
 Ping statistics for 8.20.247.20:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 50ms, Maximum = 56ms, Average = 50ms
+    Minimum = 50ms, Maximum = 274ms, Average = 64ms
 
-Friday, August 11, 2023 2:52:45 AM
+Friday, August 11, 2023 2:56:38 AM
 
