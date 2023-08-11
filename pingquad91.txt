@@ -1,33 +1,33 @@
 
-Friday, August 11, 2023 6:36:10 AM
+Friday, August 11, 2023 6:40:03 AM
 
 
 Pinging 9.9.9.9 with 4 bytes of data:
-Reply from 9.9.9.9: bytes=4 time=29ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=40ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=42ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=30ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=39ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=22ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=15ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=37ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=33ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=22ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=28ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=43ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=54ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=37ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=112ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=59ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=87ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=32ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=14ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=20ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=18ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=269ms TTL=51
 Reply from 9.9.9.9: bytes=4 time=25ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=19ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=900ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=25ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=24ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=23ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=28ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=24ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=37ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=49ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=54ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=57ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=60ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=63ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=67ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=63ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=48ms TTL=51
 
 Ping statistics for 9.9.9.9:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 15ms, Maximum = 112ms, Average = 40ms
+    Minimum = 14ms, Maximum = 900ms, Average = 93ms
 
-Friday, August 11, 2023 6:36:29 AM
+Friday, August 11, 2023 6:40:22 AM
 
