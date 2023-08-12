@@ -1,33 +1,33 @@
 
-Friday, August 11, 2023 8:32:09 PM
+Friday, August 11, 2023 8:36:02 PM
 
 
 Pinging 1.0.0.1 with 4 bytes of data:
-Reply from 1.0.0.1: bytes=4 time=79ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=30ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=35ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=60ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=54ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=45ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=27ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=65ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=63ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=48ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=27ms TTL=50
 Reply from 1.0.0.1: bytes=4 time=42ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=34ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=37ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=30ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=19ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=36ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=54ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=17ms TTL=50
+Reply from 35.146.244.54: Destination host unreachable.
+Reply from 1.0.0.1: bytes=4 time=72ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=60ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=49ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=35ms TTL=50
 Reply from 1.0.0.1: bytes=4 time=69ms TTL=50
 Reply from 1.0.0.1: bytes=4 time=63ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=34ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=43ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=55ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=57ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=58ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=45ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=63ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=50ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=53ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=71ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=35ms TTL=50
 
 Ping statistics for 1.0.0.1:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 30ms, Maximum = 79ms, Average = 51ms
+    Minimum = 17ms, Maximum = 72ms, Average = 45ms
 
-Friday, August 11, 2023 8:32:28 PM
+Friday, August 11, 2023 8:36:21 PM
 
