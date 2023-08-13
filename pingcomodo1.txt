@@ -1,33 +1,33 @@
 
-Sunday, August 13, 2023 1:27:14 PM
+Sunday, August 13, 2023 1:31:07 PM
 
 
 Pinging 8.26.56.26 with 4 bytes of data:
-Reply from 8.26.56.26: bytes=4 time=57ms TTL=46
 Reply from 8.26.56.26: bytes=4 time=58ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=53ms TTL=46
 Reply from 8.26.56.26: bytes=4 time=54ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=55ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=54ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=62ms TTL=46
 Reply from 8.26.56.26: bytes=4 time=54ms TTL=46
 Reply from 8.26.56.26: bytes=4 time=53ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=57ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=60ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=54ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=54ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=56ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=54ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=54ms TTL=46
 Reply from 8.26.56.26: bytes=4 time=55ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=54ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=56ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=55ms TTL=46
 Reply from 8.26.56.26: bytes=4 time=53ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=55ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=54ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=53ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=53ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=54ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=59ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=59ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=54ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=53ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=53ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=54ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=53ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=53ms TTL=46
 
 Ping statistics for 8.26.56.26:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 53ms, Maximum = 62ms, Average = 55ms
+    Minimum = 53ms, Maximum = 59ms, Average = 54ms
 
-Sunday, August 13, 2023 1:27:33 PM
+Sunday, August 13, 2023 1:31:27 PM
 
