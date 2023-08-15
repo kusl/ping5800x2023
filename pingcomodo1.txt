@@ -1,27 +1,27 @@
 
-Tuesday, August 15, 2023 12:13:37 AM
+Tuesday, August 15, 2023 12:17:30 AM
 
 
 Pinging 8.26.56.26 with 4 bytes of data:
-Reply from 8.26.56.26: bytes=4 time=54ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=55ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=51ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=58ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=52ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=52ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=52ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=52ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=53ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=53ms TTL=46
 Reply from 8.26.56.26: bytes=4 time=51ms TTL=46
 Reply from 8.26.56.26: bytes=4 time=56ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=51ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=58ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=50ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=54ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=56ms TTL=46
 Reply from 8.26.56.26: bytes=4 time=50ms TTL=46
 Reply from 8.26.56.26: bytes=4 time=51ms TTL=46
 Reply from 8.26.56.26: bytes=4 time=51ms TTL=46
 Reply from 8.26.56.26: bytes=4 time=52ms TTL=46
 Reply from 8.26.56.26: bytes=4 time=51ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=52ms TTL=46
 Reply from 8.26.56.26: bytes=4 time=58ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=56ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=52ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=53ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=50ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=50ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=50ms TTL=46
 Reply from 8.26.56.26: bytes=4 time=51ms TTL=46
 
 Ping statistics for 8.26.56.26:
@@ -29,5 +29,5 @@ Ping statistics for 8.26.56.26:
 Approximate round trip times in milli-seconds:
     Minimum = 50ms, Maximum = 58ms, Average = 52ms
 
-Tuesday, August 15, 2023 12:13:57 AM
+Tuesday, August 15, 2023 12:17:49 AM
 
