@@ -1,33 +1,33 @@
 
-Wednesday, August 23, 2023 1:25:08 AM
+Wednesday, August 23, 2023 1:29:02 AM
 
 
 Pinging 1.0.0.1 with 4 bytes of data:
-Reply from 1.0.0.1: bytes=4 time=33ms TTL=49
-Reply from 1.0.0.1: bytes=4 time=29ms TTL=49
-Reply from 1.0.0.1: bytes=4 time=28ms TTL=49
-Reply from 1.0.0.1: bytes=4 time=28ms TTL=49
-Reply from 1.0.0.1: bytes=4 time=28ms TTL=49
 Reply from 1.0.0.1: bytes=4 time=31ms TTL=49
-Reply from 1.0.0.1: bytes=4 time=27ms TTL=49
 Reply from 1.0.0.1: bytes=4 time=28ms TTL=49
 Reply from 1.0.0.1: bytes=4 time=27ms TTL=49
+Reply from 1.0.0.1: bytes=4 time=28ms TTL=49
+Reply from 1.0.0.1: bytes=4 time=38ms TTL=49
+Reply from 1.0.0.1: bytes=4 time=28ms TTL=49
 Reply from 1.0.0.1: bytes=4 time=27ms TTL=49
-Reply from 1.0.0.1: bytes=4 time=28ms TTL=49
-Reply from 1.0.0.1: bytes=4 time=28ms TTL=49
-Reply from 1.0.0.1: bytes=4 time=28ms TTL=49
-Reply from 1.0.0.1: bytes=4 time=35ms TTL=49
+Reply from 1.0.0.1: bytes=4 time=27ms TTL=49
+Reply from 1.0.0.1: bytes=4 time=27ms TTL=49
 Reply from 1.0.0.1: bytes=4 time=32ms TTL=49
+Reply from 1.0.0.1: bytes=4 time=29ms TTL=49
+Reply from 1.0.0.1: bytes=4 time=27ms TTL=49
+Reply from 1.0.0.1: bytes=4 time=42ms TTL=49
+Reply from 1.0.0.1: bytes=4 time=28ms TTL=49
+Reply from 1.0.0.1: bytes=4 time=28ms TTL=49
 Reply from 1.0.0.1: bytes=4 time=27ms TTL=49
 Reply from 1.0.0.1: bytes=4 time=29ms TTL=49
 Reply from 1.0.0.1: bytes=4 time=28ms TTL=49
-Reply from 1.0.0.1: bytes=4 time=33ms TTL=49
+Reply from 1.0.0.1: bytes=4 time=28ms TTL=49
 Reply from 1.0.0.1: bytes=4 time=28ms TTL=49
 
 Ping statistics for 1.0.0.1:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 27ms, Maximum = 35ms, Average = 29ms
+    Minimum = 27ms, Maximum = 42ms, Average = 29ms
 
-Wednesday, August 23, 2023 1:25:28 AM
+Wednesday, August 23, 2023 1:29:21 AM
 
