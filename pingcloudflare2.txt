@@ -1,26 +1,26 @@
 
-Saturday, August 26, 2023 7:58:57 AM
+Saturday, August 26, 2023 8:02:50 AM
 
 
 Pinging 1.0.0.1 with 4 bytes of data:
 Reply from 1.0.0.1: bytes=4 time=17ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=16ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=16ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=16ms TTL=50
 Reply from 1.0.0.1: bytes=4 time=15ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=16ms TTL=50
 Reply from 1.0.0.1: bytes=4 time=17ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=16ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=15ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=15ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=16ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=17ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=16ms TTL=50
 Reply from 1.0.0.1: bytes=4 time=16ms TTL=50
 Reply from 1.0.0.1: bytes=4 time=15ms TTL=50
 Reply from 1.0.0.1: bytes=4 time=17ms TTL=50
 Reply from 1.0.0.1: bytes=4 time=15ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=15ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=15ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=16ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=16ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=16ms TTL=50
 Reply from 1.0.0.1: bytes=4 time=16ms TTL=50
 Reply from 1.0.0.1: bytes=4 time=15ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=15ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=16ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=16ms TTL=50
 Reply from 1.0.0.1: bytes=4 time=15ms TTL=50
 Reply from 1.0.0.1: bytes=4 time=15ms TTL=50
 
@@ -29,5 +29,5 @@ Ping statistics for 1.0.0.1:
 Approximate round trip times in milli-seconds:
     Minimum = 15ms, Maximum = 17ms, Average = 15ms
 
-Saturday, August 26, 2023 7:59:16 AM
+Saturday, August 26, 2023 8:03:09 AM
 
