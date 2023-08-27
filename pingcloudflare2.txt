@@ -1,33 +1,33 @@
 
-Sunday, August 27, 2023 11:21:34 AM
+Sunday, August 27, 2023 11:25:27 AM
 
 
 Pinging 1.0.0.1 with 4 bytes of data:
-Reply from 1.0.0.1: bytes=4 time=64ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=84ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=90ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=48ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=60ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=91ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=63ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=91ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=66ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=41ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=60ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=30ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=37ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=100ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=87ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=97ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=90ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=25ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=46ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=70ms TTL=50
 Reply from 1.0.0.1: bytes=4 time=82ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=83ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=145ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=37ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=58ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=95ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=85ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=133ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=101ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=36ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=68ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=83ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=45ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=173ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=43ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=116ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=47ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=67ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=97ms TTL=50
 
 Ping statistics for 1.0.0.1:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 25ms, Maximum = 100ms, Average = 67ms
+    Minimum = 36ms, Maximum = 173ms, Average = 83ms
 
-Sunday, August 27, 2023 11:21:53 AM
+Sunday, August 27, 2023 11:25:47 AM
 
