@@ -1,33 +1,33 @@
 
-Sunday, September 10, 2023 9:44:30 PM
+Sunday, September 10, 2023 9:48:27 PM
 
 
 Pinging 1.1.1.1 with 4 bytes of data:
-Reply from 1.1.1.1: bytes=4 time=64ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=47ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=34ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=37ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=37ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=79ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=48ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=152ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=63ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=194ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=224ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=251ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=271ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=301ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=323ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=356ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=383ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=411ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=471ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=482ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=71ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=39ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=53ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=75ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=612ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=107ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=227ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=46ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=45ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=42ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=46ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=41ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=38ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=74ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=96ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=40ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=44ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=29ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=55ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=45ms TTL=49
 
 Ping statistics for 1.1.1.1:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 34ms, Maximum = 482ms, Average = 211ms
+    Minimum = 29ms, Maximum = 612ms, Average = 91ms
 
-Sunday, September 10, 2023 9:44:50 PM
+Sunday, September 10, 2023 9:48:46 PM
 
