@@ -1,33 +1,33 @@
 
-Sunday, September 10, 2023 9:49:24 PM
+Sunday, September 10, 2023 9:53:17 PM
 
 
 Pinging 8.8.4.4 with 4 bytes of data:
-Reply from 8.8.4.4: bytes=4 time=73ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=43ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=66ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=243ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=40ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=54ms TTL=53
 Reply from 8.8.4.4: bytes=4 time=55ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=69ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=68ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=55ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=70ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=63ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=60ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=61ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=59ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=79ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=71ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=35ms TTL=53
 Reply from 8.8.4.4: bytes=4 time=62ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=50ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=70ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=67ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=63ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=57ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=285ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=302ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=59ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=60ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=49ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=45ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=61ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=229ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=259ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=311ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=318ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=354ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=290ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=48ms TTL=53
 
 Ping statistics for 8.8.4.4:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 43ms, Maximum = 243ms, Average = 72ms
+    Minimum = 35ms, Maximum = 354ms, Average = 148ms
 
-Sunday, September 10, 2023 9:49:44 PM
+Sunday, September 10, 2023 9:53:37 PM
 
