@@ -1,33 +1,33 @@
 
-Tuesday, October 17, 2023 8:26:43 PM
+Tuesday, October 17, 2023 8:30:36 PM
 
 
 Pinging 8.8.4.4 with 4 bytes of data:
-Reply from 8.8.4.4: bytes=4 time=162ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=102ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=153ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=94ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=69ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=52ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=34ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=33ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=33ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=35ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=40ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=38ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=34ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=34ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=32ms TTL=53
 Reply from 8.8.4.4: bytes=4 time=41ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=257ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=242ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=62ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=36ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=75ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=162ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=110ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=54ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=71ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=140ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=146ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=48ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=48ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=33ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=34ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=40ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=33ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=35ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=35ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=33ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=34ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=33ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=39ms TTL=53
 
 Ping statistics for 8.8.4.4:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 36ms, Maximum = 257ms, Average = 106ms
+    Minimum = 32ms, Maximum = 41ms, Average = 35ms
 
-Tuesday, October 17, 2023 8:27:03 PM
+Tuesday, October 17, 2023 8:30:55 PM
 
