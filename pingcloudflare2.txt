@@ -1,33 +1,33 @@
 
-Tuesday, November 14, 2023 9:24:42 PM
+Tuesday, November 14, 2023 9:31:29 PM
 
 
 Pinging 1.0.0.1 with 4 bytes of data:
+Request timed out.
+Reply from 1.0.0.1: bytes=4 time=24ms TTL=49
+Reply from 1.0.0.1: bytes=4 time=20ms TTL=49
 Reply from 1.0.0.1: bytes=4 time=19ms TTL=49
-Reply from 1.0.0.1: bytes=4 time=25ms TTL=49
-Reply from 1.0.0.1: bytes=4 time=15ms TTL=49
-Reply from 1.0.0.1: bytes=4 time=18ms TTL=49
-Reply from 1.0.0.1: bytes=4 time=22ms TTL=49
-Request timed out.
-Request timed out.
-Reply from 1.0.0.1: bytes=4 time=18ms TTL=49
+Reply from 1.0.0.1: bytes=4 time=16ms TTL=49
+Reply from 1.0.0.1: bytes=4 time=16ms TTL=49
+Reply from 1.0.0.1: bytes=4 time=24ms TTL=49
 Request timed out.
 Request timed out.
 Reply from 1.0.0.1: bytes=4 time=30ms TTL=49
-Reply from 1.0.0.1: bytes=4 time=19ms TTL=49
-Reply from 1.0.0.1: bytes=4 time=23ms TTL=49
+Reply from 1.0.0.1: bytes=4 time=33ms TTL=49
 Request timed out.
-Reply from 1.0.0.1: bytes=4 time=17ms TTL=49
-Reply from 1.0.0.1: bytes=4 time=19ms TTL=49
 Reply from 1.0.0.1: bytes=4 time=18ms TTL=49
+Reply from 1.0.0.1: bytes=4 time=23ms TTL=49
+Reply from 1.0.0.1: bytes=4 time=17ms TTL=49
+Reply from 1.0.0.1: bytes=4 time=15ms TTL=49
+Reply from 1.0.0.1: bytes=4 time=18ms TTL=49
+Reply from 1.0.0.1: bytes=4 time=22ms TTL=49
 Reply from 1.0.0.1: bytes=4 time=19ms TTL=49
-Request timed out.
-Reply from 1.0.0.1: bytes=4 time=19ms TTL=49
+Reply from 1.0.0.1: bytes=4 time=15ms TTL=49
 
 Ping statistics for 1.0.0.1:
-    Packets: Sent = 20, Received = 14, Lost = 6 (30% loss),
+    Packets: Sent = 20, Received = 16, Lost = 4 (20% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 15ms, Maximum = 30ms, Average = 20ms
+    Minimum = 15ms, Maximum = 33ms, Average = 20ms
 
-Tuesday, November 14, 2023 9:25:25 PM
+Tuesday, November 14, 2023 9:32:04 PM
 
