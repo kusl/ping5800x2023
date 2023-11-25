@@ -1,26 +1,26 @@
 
-Friday, November 24, 2023 6:01:37 PM
+Friday, November 24, 2023 6:05:30 PM
 
 
 Pinging 1.1.1.1 with 4 bytes of data:
-Reply from 1.1.1.1: bytes=4 time=19ms TTL=50
+Reply from 1.1.1.1: bytes=4 time=18ms TTL=50
+Reply from 1.1.1.1: bytes=4 time=16ms TTL=50
+Reply from 1.1.1.1: bytes=4 time=16ms TTL=50
+Reply from 1.1.1.1: bytes=4 time=14ms TTL=50
+Reply from 1.1.1.1: bytes=4 time=20ms TTL=50
 Reply from 1.1.1.1: bytes=4 time=17ms TTL=50
 Reply from 1.1.1.1: bytes=4 time=14ms TTL=50
 Reply from 1.1.1.1: bytes=4 time=16ms TTL=50
-Reply from 1.1.1.1: bytes=4 time=17ms TTL=50
-Reply from 1.1.1.1: bytes=4 time=16ms TTL=50
-Reply from 1.1.1.1: bytes=4 time=16ms TTL=50
-Reply from 1.1.1.1: bytes=4 time=15ms TTL=50
 Reply from 1.1.1.1: bytes=4 time=15ms TTL=50
 Reply from 1.1.1.1: bytes=4 time=15ms TTL=50
 Reply from 1.1.1.1: bytes=4 time=16ms TTL=50
-Reply from 1.1.1.1: bytes=4 time=20ms TTL=50
 Reply from 1.1.1.1: bytes=4 time=18ms TTL=50
-Reply from 1.1.1.1: bytes=4 time=18ms TTL=50
-Reply from 1.1.1.1: bytes=4 time=16ms TTL=50
+Reply from 1.1.1.1: bytes=4 time=14ms TTL=50
 Reply from 1.1.1.1: bytes=4 time=22ms TTL=50
-Reply from 1.1.1.1: bytes=4 time=18ms TTL=50
 Reply from 1.1.1.1: bytes=4 time=15ms TTL=50
+Reply from 1.1.1.1: bytes=4 time=19ms TTL=50
+Reply from 1.1.1.1: bytes=4 time=19ms TTL=50
+Reply from 1.1.1.1: bytes=4 time=18ms TTL=50
 Reply from 1.1.1.1: bytes=4 time=16ms TTL=50
 Reply from 1.1.1.1: bytes=4 time=16ms TTL=50
 
@@ -29,5 +29,5 @@ Ping statistics for 1.1.1.1:
 Approximate round trip times in milli-seconds:
     Minimum = 14ms, Maximum = 22ms, Average = 16ms
 
-Friday, November 24, 2023 6:01:56 PM
+Friday, November 24, 2023 6:05:49 PM
 
