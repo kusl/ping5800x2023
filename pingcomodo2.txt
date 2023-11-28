@@ -1,33 +1,33 @@
 
-Tuesday, November 28, 2023 1:52:23 AM
+Tuesday, November 28, 2023 1:56:15 AM
 
 
 Pinging 8.20.247.20 with 4 bytes of data:
-Reply from 8.20.247.20: bytes=4 time=17ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=15ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=15ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=14ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=15ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=20ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=16ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=15ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=18ms TTL=45
 Reply from 8.20.247.20: bytes=4 time=15ms TTL=45
 Reply from 8.20.247.20: bytes=4 time=16ms TTL=45
 Reply from 8.20.247.20: bytes=4 time=14ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=25ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=15ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=24ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=22ms TTL=45
 Reply from 8.20.247.20: bytes=4 time=18ms TTL=45
 Reply from 8.20.247.20: bytes=4 time=16ms TTL=45
 Reply from 8.20.247.20: bytes=4 time=14ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=20ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=15ms TTL=45
 Reply from 8.20.247.20: bytes=4 time=14ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=17ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=15ms TTL=45
 Reply from 8.20.247.20: bytes=4 time=16ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=16ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=16ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=14ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=15ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=20ms TTL=45
 Reply from 8.20.247.20: bytes=4 time=15ms TTL=45
 
 Ping statistics for 8.20.247.20:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 14ms, Maximum = 20ms, Average = 15ms
+    Minimum = 14ms, Maximum = 25ms, Average = 16ms
 
-Tuesday, November 28, 2023 1:52:42 AM
+Tuesday, November 28, 2023 1:56:35 AM
 
