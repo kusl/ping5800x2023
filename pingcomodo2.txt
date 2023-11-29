@@ -1,33 +1,33 @@
 
-Tuesday, November 28, 2023 9:31:40 PM
+Tuesday, November 28, 2023 9:35:31 PM
 
 
 Pinging 8.20.247.20 with 4 bytes of data:
 Reply from 8.20.247.20: bytes=4 time=55ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=53ms TTL=45
 Reply from 8.20.247.20: bytes=4 time=51ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=56ms TTL=45
 Reply from 8.20.247.20: bytes=4 time=52ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=50ms TTL=45
 Reply from 8.20.247.20: bytes=4 time=51ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=50ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=64ms TTL=45
 Reply from 8.20.247.20: bytes=4 time=52ms TTL=45
 Reply from 8.20.247.20: bytes=4 time=50ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=58ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=49ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=50ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=49ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=63ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=48ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=56ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=55ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=51ms TTL=45
 Reply from 8.20.247.20: bytes=4 time=52ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=64ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=15ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=18ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=20ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=19ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=17ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=16ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=18ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=15ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=16ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=17ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=16ms TTL=45
 
 Ping statistics for 8.20.247.20:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 48ms, Maximum = 64ms, Average = 53ms
+    Minimum = 15ms, Maximum = 55ms, Average = 32ms
 
-Tuesday, November 28, 2023 9:31:59 PM
+Tuesday, November 28, 2023 9:35:51 PM
 
