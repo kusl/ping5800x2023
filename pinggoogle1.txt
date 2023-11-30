@@ -1,33 +1,33 @@
 
-Thursday, November 30, 2023 2:16:36 PM
+Thursday, November 30, 2023 2:20:28 PM
 
 
 Pinging 8.8.8.8 with 4 bytes of data:
 Reply from 8.8.8.8: bytes=4 time=39ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=34ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=33ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=33ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=36ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=35ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=35ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=121ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=62ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=66ms TTL=53
 Reply from 8.8.8.8: bytes=4 time=37ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=55ms TTL=53
 Reply from 8.8.8.8: bytes=4 time=35ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=33ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=40ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=48ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=59ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=63ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=80ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=65ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=73ms TTL=53
 Reply from 8.8.8.8: bytes=4 time=36ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=34ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=34ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=35ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=34ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=46ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=37ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=35ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=34ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=35ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=35ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=36ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=52ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=68ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=47ms TTL=53
 
 Ping statistics for 8.8.8.8:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 33ms, Maximum = 46ms, Average = 35ms
+    Minimum = 35ms, Maximum = 121ms, Average = 55ms
 
-Thursday, November 30, 2023 2:16:56 PM
+Thursday, November 30, 2023 2:20:47 PM
 
