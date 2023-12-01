@@ -1,27 +1,27 @@
 
-Friday, December 1, 2023 7:58:26 AM
+Friday, December 1, 2023 8:02:19 AM
 
 
 Pinging 208.67.222.222 with 4 bytes of data:
-Reply from 208.67.222.222: bytes=4 time=17ms TTL=50
-Reply from 208.67.222.222: bytes=4 time=19ms TTL=50
-Reply from 208.67.222.222: bytes=4 time=15ms TTL=50
-Reply from 208.67.222.222: bytes=4 time=23ms TTL=50
-Reply from 208.67.222.222: bytes=4 time=19ms TTL=50
-Reply from 208.67.222.222: bytes=4 time=18ms TTL=50
-Reply from 208.67.222.222: bytes=4 time=16ms TTL=50
+Reply from 208.67.222.222: bytes=4 time=20ms TTL=50
+Reply from 208.67.222.222: bytes=4 time=14ms TTL=50
+Reply from 208.67.222.222: bytes=4 time=14ms TTL=50
 Reply from 208.67.222.222: bytes=4 time=15ms TTL=50
 Reply from 208.67.222.222: bytes=4 time=17ms TTL=50
-Reply from 208.67.222.222: bytes=4 time=18ms TTL=50
-Reply from 208.67.222.222: bytes=4 time=15ms TTL=50
-Reply from 208.67.222.222: bytes=4 time=16ms TTL=50
-Reply from 208.67.222.222: bytes=4 time=15ms TTL=50
 Reply from 208.67.222.222: bytes=4 time=15ms TTL=50
 Reply from 208.67.222.222: bytes=4 time=14ms TTL=50
+Reply from 208.67.222.222: bytes=4 time=15ms TTL=50
+Reply from 208.67.222.222: bytes=4 time=20ms TTL=50
+Reply from 208.67.222.222: bytes=4 time=23ms TTL=50
+Reply from 208.67.222.222: bytes=4 time=16ms TTL=50
 Reply from 208.67.222.222: bytes=4 time=17ms TTL=50
+Reply from 208.67.222.222: bytes=4 time=22ms TTL=50
+Reply from 208.67.222.222: bytes=4 time=14ms TTL=50
+Reply from 208.67.222.222: bytes=4 time=14ms TTL=50
 Reply from 208.67.222.222: bytes=4 time=16ms TTL=50
 Reply from 208.67.222.222: bytes=4 time=15ms TTL=50
-Reply from 208.67.222.222: bytes=4 time=15ms TTL=50
+Reply from 208.67.222.222: bytes=4 time=23ms TTL=50
+Reply from 208.67.222.222: bytes=4 time=18ms TTL=50
 Reply from 208.67.222.222: bytes=4 time=16ms TTL=50
 
 Ping statistics for 208.67.222.222:
@@ -29,5 +29,5 @@ Ping statistics for 208.67.222.222:
 Approximate round trip times in milli-seconds:
     Minimum = 14ms, Maximum = 23ms, Average = 16ms
 
-Friday, December 1, 2023 7:58:45 AM
+Friday, December 1, 2023 8:02:38 AM
 
