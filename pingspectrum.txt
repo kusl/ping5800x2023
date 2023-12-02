@@ -1,9 +1,9 @@
 
-Saturday, December 2, 2023 1:11:30 PM
+Saturday, December 2, 2023 1:15:22 PM
 
 
 Pinging 192.168.1.1 with 4 bytes of data:
-Reply from 192.168.1.1: bytes=4 time=324ms TTL=64
+Reply from 192.168.1.1: bytes=4 time=1ms TTL=64
 Reply from 192.168.1.1: bytes=4 time<1ms TTL=64
 Reply from 192.168.1.1: bytes=4 time<1ms TTL=64
 Reply from 192.168.1.1: bytes=4 time<1ms TTL=64
@@ -27,7 +27,7 @@ Reply from 192.168.1.1: bytes=4 time<1ms TTL=64
 Ping statistics for 192.168.1.1:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 0ms, Maximum = 324ms, Average = 16ms
+    Minimum = 0ms, Maximum = 1ms, Average = 0ms
 
-Saturday, December 2, 2023 1:11:49 PM
+Saturday, December 2, 2023 1:15:41 PM
 
