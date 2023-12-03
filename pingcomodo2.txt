@@ -1,33 +1,33 @@
 
-Sunday, December 3, 2023 1:26:53 AM
+Sunday, December 3, 2023 1:30:45 AM
 
 
 Pinging 8.20.247.20 with 4 bytes of data:
+Reply from 8.20.247.20: bytes=4 time=223ms TTL=46
 Reply from 8.20.247.20: bytes=4 time=226ms TTL=46
 Reply from 8.20.247.20: bytes=4 time=222ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=222ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=231ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=228ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=222ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=225ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=222ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=224ms TTL=46
 Reply from 8.20.247.20: bytes=4 time=223ms TTL=46
 Reply from 8.20.247.20: bytes=4 time=221ms TTL=46
 Reply from 8.20.247.20: bytes=4 time=221ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=224ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=224ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=223ms TTL=46
 Reply from 8.20.247.20: bytes=4 time=222ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=222ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=230ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=234ms TTL=46
 Reply from 8.20.247.20: bytes=4 time=225ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=233ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=223ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=223ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=223ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=223ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=230ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=223ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=224ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=224ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=221ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=228ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=224ms TTL=46
 
 Ping statistics for 8.20.247.20:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 221ms, Maximum = 234ms, Average = 225ms
+    Minimum = 221ms, Maximum = 230ms, Average = 223ms
 
-Sunday, December 3, 2023 1:27:12 AM
+Sunday, December 3, 2023 1:31:05 AM
 
