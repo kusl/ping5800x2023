@@ -1,33 +1,33 @@
 
-Sunday, December 3, 2023 8:46:25 AM
+Sunday, December 3, 2023 8:50:18 AM
 
 
 Pinging 149.112.112.112 with 4 bytes of data:
-Reply from 149.112.112.112: bytes=4 time=2171ms TTL=51
 Reply from 149.112.112.112: bytes=4 time=18ms TTL=51
 Reply from 149.112.112.112: bytes=4 time=15ms TTL=51
-Reply from 149.112.112.112: bytes=4 time=15ms TTL=51
-Reply from 149.112.112.112: bytes=4 time=15ms TTL=51
+Reply from 149.112.112.112: bytes=4 time=16ms TTL=51
+Reply from 149.112.112.112: bytes=4 time=137ms TTL=51
 Reply from 149.112.112.112: bytes=4 time=14ms TTL=51
 Reply from 149.112.112.112: bytes=4 time=19ms TTL=51
-Reply from 149.112.112.112: bytes=4 time=14ms TTL=51
 Reply from 149.112.112.112: bytes=4 time=16ms TTL=51
-Reply from 149.112.112.112: bytes=4 time=23ms TTL=51
-Reply from 149.112.112.112: bytes=4 time=16ms TTL=51
-Reply from 149.112.112.112: bytes=4 time=17ms TTL=51
-Reply from 149.112.112.112: bytes=4 time=15ms TTL=51
-Reply from 149.112.112.112: bytes=4 time=15ms TTL=51
-Reply from 149.112.112.112: bytes=4 time=15ms TTL=51
-Reply from 149.112.112.112: bytes=4 time=15ms TTL=51
 Reply from 149.112.112.112: bytes=4 time=17ms TTL=51
 Reply from 149.112.112.112: bytes=4 time=17ms TTL=51
 Reply from 149.112.112.112: bytes=4 time=15ms TTL=51
+Reply from 149.112.112.112: bytes=4 time=29ms TTL=51
+Reply from 149.112.112.112: bytes=4 time=18ms TTL=51
 Reply from 149.112.112.112: bytes=4 time=16ms TTL=51
+Reply from 149.112.112.112: bytes=4 time=17ms TTL=51
+Reply from 149.112.112.112: bytes=4 time=16ms TTL=51
+Reply from 149.112.112.112: bytes=4 time=16ms TTL=51
+Reply from 149.112.112.112: bytes=4 time=16ms TTL=51
+Reply from 149.112.112.112: bytes=4 time=16ms TTL=51
+Reply from 149.112.112.112: bytes=4 time=22ms TTL=51
+Reply from 149.112.112.112: bytes=4 time=15ms TTL=51
 
 Ping statistics for 149.112.112.112:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 14ms, Maximum = 2171ms, Average = 123ms
+    Minimum = 14ms, Maximum = 137ms, Average = 23ms
 
-Sunday, December 3, 2023 8:46:46 AM
+Sunday, December 3, 2023 8:50:38 AM
 
