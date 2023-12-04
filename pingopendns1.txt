@@ -1,27 +1,27 @@
 
-Monday, December 4, 2023 1:21:17 AM
+Monday, December 4, 2023 1:25:09 AM
 
 
 Pinging 208.67.222.222 with 4 bytes of data:
 Reply from 208.67.222.222: bytes=4 time=16ms TTL=50
+Reply from 208.67.222.222: bytes=4 time=15ms TTL=50
+Reply from 208.67.222.222: bytes=4 time=15ms TTL=50
+Reply from 208.67.222.222: bytes=4 time=15ms TTL=50
+Reply from 208.67.222.222: bytes=4 time=14ms TTL=50
 Reply from 208.67.222.222: bytes=4 time=14ms TTL=50
 Reply from 208.67.222.222: bytes=4 time=16ms TTL=50
-Reply from 208.67.222.222: bytes=4 time=14ms TTL=50
+Reply from 208.67.222.222: bytes=4 time=18ms TTL=50
 Reply from 208.67.222.222: bytes=4 time=15ms TTL=50
-Reply from 208.67.222.222: bytes=4 time=15ms TTL=50
-Reply from 208.67.222.222: bytes=4 time=15ms TTL=50
+Reply from 208.67.222.222: bytes=4 time=18ms TTL=50
+Reply from 208.67.222.222: bytes=4 time=16ms TTL=50
 Reply from 208.67.222.222: bytes=4 time=20ms TTL=50
-Reply from 208.67.222.222: bytes=4 time=16ms TTL=50
 Reply from 208.67.222.222: bytes=4 time=15ms TTL=50
-Reply from 208.67.222.222: bytes=4 time=15ms TTL=50
-Reply from 208.67.222.222: bytes=4 time=15ms TTL=50
-Reply from 208.67.222.222: bytes=4 time=16ms TTL=50
-Reply from 208.67.222.222: bytes=4 time=15ms TTL=50
-Reply from 208.67.222.222: bytes=4 time=15ms TTL=50
-Reply from 208.67.222.222: bytes=4 time=16ms TTL=50
-Reply from 208.67.222.222: bytes=4 time=14ms TTL=50
 Reply from 208.67.222.222: bytes=4 time=14ms TTL=50
 Reply from 208.67.222.222: bytes=4 time=16ms TTL=50
+Reply from 208.67.222.222: bytes=4 time=14ms TTL=50
+Reply from 208.67.222.222: bytes=4 time=19ms TTL=50
+Reply from 208.67.222.222: bytes=4 time=16ms TTL=50
+Reply from 208.67.222.222: bytes=4 time=15ms TTL=50
 Reply from 208.67.222.222: bytes=4 time=15ms TTL=50
 
 Ping statistics for 208.67.222.222:
@@ -29,5 +29,5 @@ Ping statistics for 208.67.222.222:
 Approximate round trip times in milli-seconds:
     Minimum = 14ms, Maximum = 20ms, Average = 15ms
 
-Monday, December 4, 2023 1:21:36 AM
+Monday, December 4, 2023 1:25:28 AM
 
