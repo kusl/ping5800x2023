@@ -1,33 +1,33 @@
 
-Monday, December 4, 2023 12:30:33 PM
+Monday, December 4, 2023 12:34:28 PM
 
 
 Pinging 8.8.8.8 with 4 bytes of data:
-Reply from 8.8.8.8: bytes=4 time=53ms TTL=112
-Reply from 8.8.8.8: bytes=4 time=54ms TTL=112
+Reply from 8.8.8.8: bytes=4 time=36ms TTL=112
 Reply from 8.8.8.8: bytes=4 time=38ms TTL=112
+Reply from 8.8.8.8: bytes=4 time=198ms TTL=112
+Reply from 8.8.8.8: bytes=4 time=123ms TTL=112
+Reply from 8.8.8.8: bytes=4 time=28ms TTL=112
+Reply from 8.8.8.8: bytes=4 time=44ms TTL=112
+Reply from 8.8.8.8: bytes=4 time=44ms TTL=112
+Reply from 8.8.8.8: bytes=4 time=30ms TTL=112
+Reply from 8.8.8.8: bytes=4 time=36ms TTL=112
+Reply from 8.8.8.8: bytes=4 time=23ms TTL=112
+Reply from 8.8.8.8: bytes=4 time=111ms TTL=112
+Reply from 8.8.8.8: bytes=4 time=117ms TTL=112
+Reply from 8.8.8.8: bytes=4 time=136ms TTL=112
+Reply from 8.8.8.8: bytes=4 time=156ms TTL=112
+Reply from 8.8.8.8: bytes=4 time=158ms TTL=112
+Reply from 8.8.8.8: bytes=4 time=30ms TTL=112
+Reply from 8.8.8.8: bytes=4 time=105ms TTL=112
+Reply from 8.8.8.8: bytes=4 time=47ms TTL=112
 Reply from 8.8.8.8: bytes=4 time=43ms TTL=112
-Reply from 8.8.8.8: bytes=4 time=44ms TTL=112
-Reply from 8.8.8.8: bytes=4 time=41ms TTL=112
-Reply from 8.8.8.8: bytes=4 time=44ms TTL=112
-Reply from 8.8.8.8: bytes=4 time=42ms TTL=112
-Reply from 8.8.8.8: bytes=4 time=41ms TTL=112
-Reply from 8.8.8.8: bytes=4 time=39ms TTL=112
-Reply from 8.8.8.8: bytes=4 time=44ms TTL=112
-Reply from 8.8.8.8: bytes=4 time=39ms TTL=112
-Reply from 8.8.8.8: bytes=4 time=363ms TTL=112
-Reply from 8.8.8.8: bytes=4 time=37ms TTL=112
-Reply from 8.8.8.8: bytes=4 time=434ms TTL=112
-Reply from 8.8.8.8: bytes=4 time=466ms TTL=112
-Reply from 8.8.8.8: bytes=4 time=493ms TTL=112
-Reply from 8.8.8.8: bytes=4 time=521ms TTL=112
-Reply from 8.8.8.8: bytes=4 time=310ms TTL=112
-Reply from 8.8.8.8: bytes=4 time=38ms TTL=112
+Reply from 8.8.8.8: bytes=4 time=341ms TTL=112
 
 Ping statistics for 8.8.8.8:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 37ms, Maximum = 521ms, Average = 159ms
+    Minimum = 23ms, Maximum = 341ms, Average = 92ms
 
-Monday, December 4, 2023 12:30:52 PM
+Monday, December 4, 2023 12:34:48 PM
 
