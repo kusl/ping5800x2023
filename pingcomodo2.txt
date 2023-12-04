@@ -1,33 +1,33 @@
 
-Sunday, December 3, 2023 7:10:24 PM
+Sunday, December 3, 2023 7:14:16 PM
 
 
 Pinging 8.20.247.20 with 4 bytes of data:
-Reply from 8.20.247.20: bytes=4 time=18ms TTL=44
-Reply from 8.20.247.20: bytes=4 time=15ms TTL=44
-Reply from 8.20.247.20: bytes=4 time=15ms TTL=44
-Reply from 8.20.247.20: bytes=4 time=18ms TTL=44
-Reply from 8.20.247.20: bytes=4 time=20ms TTL=44
-Reply from 8.20.247.20: bytes=4 time=16ms TTL=44
-Reply from 8.20.247.20: bytes=4 time=16ms TTL=44
-Reply from 8.20.247.20: bytes=4 time=14ms TTL=44
-Reply from 8.20.247.20: bytes=4 time=15ms TTL=44
 Reply from 8.20.247.20: bytes=4 time=17ms TTL=44
+Reply from 8.20.247.20: bytes=4 time=17ms TTL=44
+Reply from 8.20.247.20: bytes=4 time=14ms TTL=44
+Reply from 8.20.247.20: bytes=4 time=15ms TTL=44
 Reply from 8.20.247.20: bytes=4 time=16ms TTL=44
+Reply from 8.20.247.20: bytes=4 time=15ms TTL=44
+Reply from 8.20.247.20: bytes=4 time=15ms TTL=44
+Reply from 8.20.247.20: bytes=4 time=15ms TTL=44
 Reply from 8.20.247.20: bytes=4 time=15ms TTL=44
 Reply from 8.20.247.20: bytes=4 time=14ms TTL=44
 Reply from 8.20.247.20: bytes=4 time=15ms TTL=44
+Reply from 8.20.247.20: bytes=4 time=35ms TTL=44
+Reply from 8.20.247.20: bytes=4 time=14ms TTL=44
+Reply from 8.20.247.20: bytes=4 time=15ms TTL=44
+Reply from 8.20.247.20: bytes=4 time=18ms TTL=44
+Reply from 8.20.247.20: bytes=4 time=17ms TTL=44
 Reply from 8.20.247.20: bytes=4 time=20ms TTL=44
-Reply from 8.20.247.20: bytes=4 time=14ms TTL=44
+Reply from 8.20.247.20: bytes=4 time=17ms TTL=44
+Reply from 8.20.247.20: bytes=4 time=24ms TTL=44
 Reply from 8.20.247.20: bytes=4 time=16ms TTL=44
-Reply from 8.20.247.20: bytes=4 time=15ms TTL=44
-Reply from 8.20.247.20: bytes=4 time=16ms TTL=44
-Reply from 8.20.247.20: bytes=4 time=15ms TTL=44
 
 Ping statistics for 8.20.247.20:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 14ms, Maximum = 20ms, Average = 16ms
+    Minimum = 14ms, Maximum = 35ms, Average = 17ms
 
-Sunday, December 3, 2023 7:10:43 PM
+Sunday, December 3, 2023 7:14:35 PM
 
