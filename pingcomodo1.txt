@@ -1,33 +1,33 @@
 
-Tuesday, December 5, 2023 1:07:59 PM
+Tuesday, December 5, 2023 1:11:52 PM
 
 
 Pinging 8.26.56.26 with 4 bytes of data:
-Reply from 8.26.56.26: bytes=4 time=63ms TTL=45
-Reply from 8.26.56.26: bytes=4 time=60ms TTL=45
-Reply from 8.26.56.26: bytes=4 time=49ms TTL=45
-Reply from 8.26.56.26: bytes=4 time=83ms TTL=42
-Reply from 8.26.56.26: bytes=4 time=84ms TTL=42
-Reply from 8.26.56.26: bytes=4 time=71ms TTL=42
-Reply from 8.26.56.26: bytes=4 time=78ms TTL=42
-Reply from 8.26.56.26: bytes=4 time=69ms TTL=42
-Reply from 8.26.56.26: bytes=4 time=62ms TTL=42
-Reply from 8.26.56.26: bytes=4 time=63ms TTL=42
+Reply from 8.26.56.26: bytes=4 time=68ms TTL=45
+Reply from 8.26.56.26: bytes=4 time=80ms TTL=45
+Reply from 8.26.56.26: bytes=4 time=52ms TTL=45
+Request timed out.
 Reply from 8.26.56.26: bytes=4 time=86ms TTL=42
-Reply from 8.26.56.26: bytes=4 time=58ms TTL=42
-Reply from 8.26.56.26: bytes=4 time=77ms TTL=42
-Reply from 8.26.56.26: bytes=4 time=82ms TTL=42
-Reply from 8.26.56.26: bytes=4 time=67ms TTL=42
-Reply from 8.26.56.26: bytes=4 time=62ms TTL=45
-Reply from 8.26.56.26: bytes=4 time=66ms TTL=45
-Reply from 8.26.56.26: bytes=4 time=58ms TTL=45
-Reply from 8.26.56.26: bytes=4 time=64ms TTL=45
-Reply from 8.26.56.26: bytes=4 time=50ms TTL=45
+Reply from 8.26.56.26: bytes=4 time=71ms TTL=42
+Reply from 8.26.56.26: bytes=4 time=56ms TTL=42
+Reply from 8.26.56.26: bytes=4 time=66ms TTL=42
+Reply from 8.26.56.26: bytes=4 time=85ms TTL=42
+Reply from 8.26.56.26: bytes=4 time=84ms TTL=42
+Reply from 8.26.56.26: bytes=4 time=70ms TTL=42
+Reply from 8.26.56.26: bytes=4 time=60ms TTL=42
+Reply from 8.26.56.26: bytes=4 time=87ms TTL=42
+Reply from 8.26.56.26: bytes=4 time=89ms TTL=42
+Reply from 8.26.56.26: bytes=4 time=63ms TTL=42
+Reply from 8.26.56.26: bytes=4 time=71ms TTL=42
+Reply from 8.26.56.26: bytes=4 time=56ms TTL=42
+Reply from 8.26.56.26: bytes=4 time=69ms TTL=42
+Reply from 8.26.56.26: bytes=4 time=78ms TTL=42
+Reply from 8.26.56.26: bytes=4 time=98ms TTL=42
 
 Ping statistics for 8.26.56.26:
-    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+    Packets: Sent = 20, Received = 19, Lost = 1 (5% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 49ms, Maximum = 86ms, Average = 67ms
+    Minimum = 52ms, Maximum = 98ms, Average = 73ms
 
-Tuesday, December 5, 2023 1:08:18 PM
+Tuesday, December 5, 2023 1:12:15 PM
 
