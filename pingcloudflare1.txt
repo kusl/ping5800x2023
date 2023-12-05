@@ -1,33 +1,33 @@
 
-Monday, December 4, 2023 9:05:49 PM
+Monday, December 4, 2023 9:09:41 PM
 
 
 Pinging 1.1.1.1 with 4 bytes of data:
-Reply from 1.1.1.1: bytes=4 time=45ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=51ms TTL=49
 Reply from 1.1.1.1: bytes=4 time=24ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=38ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=41ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=36ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=31ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=42ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=33ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=50ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=49ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=54ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=25ms TTL=49
 Reply from 1.1.1.1: bytes=4 time=30ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=47ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=57ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=22ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=35ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=47ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=48ms TTL=49
 Reply from 1.1.1.1: bytes=4 time=39ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=56ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=37ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=36ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=46ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=38ms TTL=49
 Reply from 1.1.1.1: bytes=4 time=24ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=29ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=44ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=47ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=31ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=15ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=38ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=38ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=46ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=22ms TTL=49
 
 Ping statistics for 1.1.1.1:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 22ms, Maximum = 57ms, Average = 37ms
+    Minimum = 15ms, Maximum = 56ms, Average = 37ms
 
-Monday, December 4, 2023 9:06:08 PM
+Monday, December 4, 2023 9:10:00 PM
 
