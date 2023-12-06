@@ -1,33 +1,33 @@
 
-Tuesday, December 5, 2023 10:59:22 PM
+Tuesday, December 5, 2023 11:03:15 PM
 
 
 Pinging 8.8.4.4 with 4 bytes of data:
-Reply from 8.8.4.4: bytes=4 time=59ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=83ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=63ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=48ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=50ms TTL=53
 Reply from 8.8.4.4: bytes=4 time=66ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=42ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=54ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=59ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=60ms TTL=53
 Reply from 8.8.4.4: bytes=4 time=63ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=45ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=70ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=69ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=53ms TTL=53
 Reply from 8.8.4.4: bytes=4 time=64ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=48ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=70ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=56ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=36ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=67ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=60ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=71ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=54ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=56ms TTL=53
 Reply from 8.8.4.4: bytes=4 time=66ms TTL=53
 Reply from 8.8.4.4: bytes=4 time=65ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=70ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=63ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=57ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=67ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=63ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=65ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=87ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=74ms TTL=53
 
 Ping statistics for 8.8.4.4:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 42ms, Maximum = 83ms, Average = 61ms
+    Minimum = 36ms, Maximum = 87ms, Average = 61ms
 
-Tuesday, December 5, 2023 10:59:41 PM
+Tuesday, December 5, 2023 11:03:34 PM
 
