@@ -1,5 +1,5 @@
 
-Wednesday, December 6, 2023 5:08:38 PM
+Wednesday, December 6, 2023 5:12:35 PM
 
 
 Pinging 192.168.1.1 with 4 bytes of data:
@@ -17,17 +17,17 @@ Reply from 192.168.1.1: bytes=4 time<1ms TTL=64
 Reply from 192.168.1.1: bytes=4 time<1ms TTL=64
 Reply from 192.168.1.1: bytes=4 time<1ms TTL=64
 Reply from 192.168.1.1: bytes=4 time<1ms TTL=64
-Reply from 192.168.1.1: bytes=4 time=6ms TTL=64
 Reply from 192.168.1.1: bytes=4 time<1ms TTL=64
 Reply from 192.168.1.1: bytes=4 time<1ms TTL=64
 Reply from 192.168.1.1: bytes=4 time<1ms TTL=64
 Reply from 192.168.1.1: bytes=4 time<1ms TTL=64
-Reply from 192.168.1.1: bytes=4 time=1ms TTL=64
+Reply from 192.168.1.1: bytes=4 time<1ms TTL=64
+Reply from 192.168.1.1: bytes=4 time<1ms TTL=64
 
 Ping statistics for 192.168.1.1:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 0ms, Maximum = 6ms, Average = 0ms
+    Minimum = 0ms, Maximum = 1ms, Average = 0ms
 
-Wednesday, December 6, 2023 5:08:57 PM
+Wednesday, December 6, 2023 5:12:54 PM
 
