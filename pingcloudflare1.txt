@@ -1,33 +1,33 @@
 
-Tuesday, December 5, 2023 10:38:44 PM
+Tuesday, December 5, 2023 10:42:40 PM
 
 
 Pinging 1.1.1.1 with 4 bytes of data:
-Reply from 1.1.1.1: bytes=4 time=38ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=22ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=37ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=29ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=37ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=264ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=37ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=44ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=25ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=31ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=32ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=834ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=39ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=571ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=1808ms TTL=49
 Reply from 1.1.1.1: bytes=4 time=35ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=92ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=25ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=36ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=176ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=49ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=16ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=259ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=28ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=37ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=53ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=182ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=31ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=45ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=296ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=31ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=51ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=397ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=693ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=489ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=250ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=154ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=916ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=39ms TTL=49
 
 Ping statistics for 1.1.1.1:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 16ms, Maximum = 264ms, Average = 65ms
+    Minimum = 31ms, Maximum = 1808ms, Average = 347ms
 
-Tuesday, December 5, 2023 10:39:04 PM
+Tuesday, December 5, 2023 10:43:00 PM
 
