@@ -1,33 +1,33 @@
 
-Tuesday, December 5, 2023 8:29:01 PM
+Tuesday, December 5, 2023 8:32:56 PM
 
 
 Pinging 8.26.56.26 with 4 bytes of data:
-Reply from 8.26.56.26: bytes=4 time=243ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=235ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=258ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=238ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=239ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=241ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=250ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=235ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=246ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=241ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=227ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=236ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=236ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=244ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=234ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=242ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=257ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=238ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=262ms TTL=46
 Reply from 8.26.56.26: bytes=4 time=237ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=267ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=250ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=265ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=305ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=253ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=298ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=245ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=269ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=255ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=228ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=259ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=256ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=264ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=282ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=273ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=300ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=239ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=235ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=280ms TTL=46
 
 Ping statistics for 8.26.56.26:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 227ms, Maximum = 262ms, Average = 241ms
+    Minimum = 228ms, Maximum = 305ms, Average = 263ms
 
-Tuesday, December 5, 2023 8:29:21 PM
+Tuesday, December 5, 2023 8:33:15 PM
 
