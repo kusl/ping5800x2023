@@ -1,33 +1,33 @@
 
-Wednesday, December 6, 2023 6:14:58 AM
+Wednesday, December 6, 2023 6:19:00 AM
 
 
 Pinging 8.20.247.20 with 4 bytes of data:
+Reply from 8.20.247.20: bytes=4 time=254ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=262ms TTL=46
 Reply from 8.20.247.20: bytes=4 time=243ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=253ms TTL=46
-Request timed out.
-Reply from 8.20.247.20: bytes=4 time=242ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=257ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=253ms TTL=46
 Reply from 8.20.247.20: bytes=4 time=259ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=250ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=232ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=248ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=257ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=247ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=240ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=255ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=235ms TTL=46
 Request timed out.
+Reply from 8.20.247.20: bytes=4 time=252ms TTL=46
+Request timed out.
+Reply from 8.20.247.20: bytes=4 time=249ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=254ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=243ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=242ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=256ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=245ms TTL=46
 Reply from 8.20.247.20: bytes=4 time=245ms TTL=46
 Reply from 8.20.247.20: bytes=4 time=250ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=240ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=250ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=244ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=230ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=248ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=244ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=244ms TTL=46
 
 Ping statistics for 8.20.247.20:
     Packets: Sent = 20, Received = 18, Lost = 2 (10% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 230ms, Maximum = 259ms, Average = 246ms
+    Minimum = 235ms, Maximum = 262ms, Average = 249ms
 
-Wednesday, December 6, 2023 6:15:26 AM
+Wednesday, December 6, 2023 6:19:27 AM
 
