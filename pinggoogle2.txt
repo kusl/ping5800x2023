@@ -1,33 +1,33 @@
 
-Wednesday, December 6, 2023 12:32:54 AM
+Wednesday, December 6, 2023 12:36:47 AM
 
 
 Pinging 8.8.4.4 with 4 bytes of data:
-Reply from 8.8.4.4: bytes=4 time=64ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=44ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=51ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=47ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=47ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=42ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=50ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=52ms TTL=53
 Reply from 8.8.4.4: bytes=4 time=61ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=57ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=47ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=66ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=50ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=55ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=54ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=51ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=72ms TTL=53
 Reply from 8.8.4.4: bytes=4 time=49ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=48ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=53ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=80ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=104ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=36ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=90ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=77ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=57ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=60ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=74ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=374ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=414ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=437ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=42ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=65ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=60ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=37ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=64ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=54ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=50ms TTL=53
 
 Ping statistics for 8.8.4.4:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 36ms, Maximum = 104ms, Average = 57ms
+    Minimum = 37ms, Maximum = 437ms, Average = 110ms
 
-Wednesday, December 6, 2023 12:33:13 AM
+Wednesday, December 6, 2023 12:37:06 AM
 
