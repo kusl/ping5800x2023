@@ -1,33 +1,33 @@
 
-Wednesday, December 6, 2023 2:44:03 AM
+Wednesday, December 6, 2023 2:48:00 AM
 
 
 Pinging 8.20.247.20 with 4 bytes of data:
-Reply from 8.20.247.20: bytes=4 time=32ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=38ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=40ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=41ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=20ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=24ms TTL=46
 Reply from 8.20.247.20: bytes=4 time=34ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=27ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=46ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=29ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=27ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=43ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=26ms TTL=46
 Reply from 8.20.247.20: bytes=4 time=28ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=43ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=23ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=51ms TTL=45
 Reply from 8.20.247.20: bytes=4 time=42ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=32ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=20ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=35ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=30ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=37ms TTL=46
-Request timed out.
+Reply from 8.20.247.20: bytes=4 time=52ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=71ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=66ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=77ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=65ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=57ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=76ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=66ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=55ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=69ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=63ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=51ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=58ms TTL=45
 
 Ping statistics for 8.20.247.20:
-    Packets: Sent = 20, Received = 19, Lost = 1 (5% loss),
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 20ms, Maximum = 46ms, Average = 33ms
+    Minimum = 23ms, Maximum = 77ms, Average = 52ms
 
-Wednesday, December 6, 2023 2:44:26 AM
+Wednesday, December 6, 2023 2:48:19 AM
 
