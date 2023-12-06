@@ -1,33 +1,33 @@
 
-Wednesday, December 6, 2023 5:22:58 AM
+Wednesday, December 6, 2023 5:26:51 AM
 
 
 Pinging 8.20.247.20 with 4 bytes of data:
+Reply from 8.20.247.20: bytes=4 time=38ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=63ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=75ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=71ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=57ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=57ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=70ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=58ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=76ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=72ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=49ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=74ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=76ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=63ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=65ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=67ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=42ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=18ms TTL=46
 Reply from 8.20.247.20: bytes=4 time=36ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=32ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=37ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=43ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=40ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=37ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=38ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=38ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=32ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=35ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=45ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=41ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=37ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=39ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=19ms TTL=46
 Reply from 8.20.247.20: bytes=4 time=36ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=38ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=16ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=41ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=41ms TTL=46
 
 Ping statistics for 8.20.247.20:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 16ms, Maximum = 45ms, Average = 36ms
+    Minimum = 18ms, Maximum = 76ms, Average = 58ms
 
-Wednesday, December 6, 2023 5:23:17 AM
+Wednesday, December 6, 2023 5:27:10 AM
 
