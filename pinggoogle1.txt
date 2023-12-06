@@ -1,33 +1,33 @@
 
-Wednesday, December 6, 2023 12:40:22 AM
+Wednesday, December 6, 2023 12:44:15 AM
 
 
 Pinging 8.8.8.8 with 4 bytes of data:
-Reply from 8.8.8.8: bytes=4 time=50ms TTL=112
-Reply from 8.8.8.8: bytes=4 time=49ms TTL=112
-Reply from 8.8.8.8: bytes=4 time=45ms TTL=112
-Reply from 8.8.8.8: bytes=4 time=42ms TTL=112
-Reply from 8.8.8.8: bytes=4 time=35ms TTL=112
-Reply from 8.8.8.8: bytes=4 time=53ms TTL=112
-Reply from 8.8.8.8: bytes=4 time=39ms TTL=112
-Reply from 8.8.8.8: bytes=4 time=60ms TTL=112
-Reply from 8.8.8.8: bytes=4 time=60ms TTL=112
-Reply from 8.8.8.8: bytes=4 time=98ms TTL=112
-Reply from 8.8.8.8: bytes=4 time=31ms TTL=112
-Reply from 8.8.8.8: bytes=4 time=38ms TTL=112
-Reply from 8.8.8.8: bytes=4 time=34ms TTL=112
-Reply from 8.8.8.8: bytes=4 time=52ms TTL=112
-Reply from 8.8.8.8: bytes=4 time=47ms TTL=112
-Reply from 8.8.8.8: bytes=4 time=33ms TTL=112
-Reply from 8.8.8.8: bytes=4 time=59ms TTL=112
-Reply from 8.8.8.8: bytes=4 time=45ms TTL=112
-Reply from 8.8.8.8: bytes=4 time=47ms TTL=112
 Reply from 8.8.8.8: bytes=4 time=48ms TTL=112
+Reply from 8.8.8.8: bytes=4 time=19ms TTL=112
+Reply from 8.8.8.8: bytes=4 time=44ms TTL=112
+Reply from 8.8.8.8: bytes=4 time=51ms TTL=112
+Reply from 8.8.8.8: bytes=4 time=28ms TTL=112
+Reply from 8.8.8.8: bytes=4 time=45ms TTL=112
+Reply from 8.8.8.8: bytes=4 time=48ms TTL=112
+Reply from 8.8.8.8: bytes=4 time=45ms TTL=112
+Reply from 8.8.8.8: bytes=4 time=25ms TTL=112
+Reply from 8.8.8.8: bytes=4 time=41ms TTL=112
+Reply from 8.8.8.8: bytes=4 time=44ms TTL=112
+Reply from 8.8.8.8: bytes=4 time=42ms TTL=112
+Reply from 8.8.8.8: bytes=4 time=39ms TTL=112
+Reply from 8.8.8.8: bytes=4 time=53ms TTL=112
+Reply from 8.8.8.8: bytes=4 time=47ms TTL=112
+Reply from 8.8.8.8: bytes=4 time=38ms TTL=112
+Reply from 8.8.8.8: bytes=4 time=41ms TTL=112
+Reply from 8.8.8.8: bytes=4 time=116ms TTL=112
+Reply from 8.8.8.8: bytes=4 time=36ms TTL=112
+Reply from 8.8.8.8: bytes=4 time=377ms TTL=112
 
 Ping statistics for 8.8.8.8:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 31ms, Maximum = 98ms, Average = 48ms
+    Minimum = 19ms, Maximum = 377ms, Average = 61ms
 
-Wednesday, December 6, 2023 12:40:41 AM
+Wednesday, December 6, 2023 12:44:35 AM
 
