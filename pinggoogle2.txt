@@ -1,33 +1,33 @@
 
-Tuesday, December 5, 2023 8:31:19 PM
+Tuesday, December 5, 2023 8:35:13 PM
 
 
 Pinging 8.8.4.4 with 4 bytes of data:
-Reply from 8.8.4.4: bytes=4 time=79ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=49ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=81ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=70ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=75ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=140ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=72ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=97ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=64ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=65ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=73ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=78ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=70ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=57ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=108ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=76ms TTL=53
 Reply from 8.8.4.4: bytes=4 time=52ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=108ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=44ms TTL=53
-Reply from 8.8.4.4: bytes=4 time=70ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=67ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=73ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=53ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=91ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=49ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=86ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=43ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=74ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=39ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=81ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=90ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=66ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=86ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=58ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=99ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=37ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=76ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=33ms TTL=53
+Reply from 8.8.4.4: bytes=4 time=90ms TTL=53
 
 Ping statistics for 8.8.4.4:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 44ms, Maximum = 140ms, Average = 76ms
+    Minimum = 33ms, Maximum = 99ms, Average = 67ms
 
-Tuesday, December 5, 2023 8:31:39 PM
+Tuesday, December 5, 2023 8:35:32 PM
 
