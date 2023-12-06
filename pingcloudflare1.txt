@@ -1,33 +1,33 @@
 
-Tuesday, December 5, 2023 11:56:48 PM
+Wednesday, December 6, 2023 12:00:46 AM
 
 
 Pinging 1.1.1.1 with 4 bytes of data:
-Reply from 1.1.1.1: bytes=4 time=20ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=45ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=42ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=38ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=34ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=28ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=37ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=37ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=45ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=46ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=30ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=49ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=25ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=47ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=38ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=43ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=52ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=23ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=29ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=41ms TTL=49
 Reply from 1.1.1.1: bytes=4 time=39ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=29ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=35ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=29ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=35ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=33ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=515ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=26ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=563ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=47ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=621ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=25ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=682ms TTL=49
 Reply from 1.1.1.1: bytes=4 time=37ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=35ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=35ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=736ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=39ms TTL=49
 
 Ping statistics for 1.1.1.1:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 20ms, Maximum = 49ms, Average = 37ms
+    Minimum = 23ms, Maximum = 736ms, Average = 181ms
 
-Tuesday, December 5, 2023 11:57:08 PM
+Wednesday, December 6, 2023 12:01:05 AM
 
