@@ -1,33 +1,33 @@
 
-Friday, December 8, 2023 5:38:33 PM
+Friday, December 8, 2023 5:42:26 PM
 
 
 Pinging 8.8.8.8 with 4 bytes of data:
-Reply from 8.8.8.8: bytes=4 time=37ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=39ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=37ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=34ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=35ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=56ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=65ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=59ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=62ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=44ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=52ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=82ms TTL=53
 Reply from 8.8.8.8: bytes=4 time=36ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=39ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=42ms TTL=53
 Reply from 8.8.8.8: bytes=4 time=36ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=64ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=73ms TTL=53
 Reply from 8.8.8.8: bytes=4 time=50ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=39ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=96ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=34ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=35ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=35ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=43ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=43ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=33ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=41ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=78ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=48ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=62ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=75ms TTL=53
 Reply from 8.8.8.8: bytes=4 time=38ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=63ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=74ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=37ms TTL=53
 
 Ping statistics for 8.8.8.8:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 33ms, Maximum = 96ms, Average = 41ms
+    Minimum = 36ms, Maximum = 82ms, Average = 57ms
 
-Friday, December 8, 2023 5:38:52 PM
+Friday, December 8, 2023 5:42:45 PM
 
