@@ -1,33 +1,33 @@
 
-Sunday, December 10, 2023 4:11:48 PM
+Sunday, December 10, 2023 4:15:41 PM
 
 
 Pinging 8.8.8.8 with 4 bytes of data:
-Reply from 8.8.8.8: bytes=4 time=68ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=59ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=69ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=35ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=55ms TTL=53
 Reply from 8.8.8.8: bytes=4 time=51ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=65ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=68ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=73ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=35ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=54ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=64ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=55ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=32ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=46ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=62ms TTL=53
 Reply from 8.8.8.8: bytes=4 time=56ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=65ms TTL=53
 Reply from 8.8.8.8: bytes=4 time=50ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=53ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=67ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=69ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=41ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=50ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=63ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=66ms TTL=53
 Reply from 8.8.8.8: bytes=4 time=74ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=74ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=47ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=39ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=57ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=75ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=41ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=44ms TTL=53
 Reply from 8.8.8.8: bytes=4 time=50ms TTL=53
 
 Ping statistics for 8.8.8.8:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 35ms, Maximum = 75ms, Average = 57ms
+    Minimum = 32ms, Maximum = 74ms, Average = 55ms
 
-Sunday, December 10, 2023 4:12:08 PM
+Sunday, December 10, 2023 4:16:01 PM
 
