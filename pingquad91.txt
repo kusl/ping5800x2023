@@ -1,33 +1,33 @@
 
-Sunday, December 10, 2023 12:42:28 PM
+Sunday, December 10, 2023 12:46:21 PM
 
 
 Pinging 9.9.9.9 with 4 bytes of data:
-Reply from 9.9.9.9: bytes=4 time=18ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=16ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=16ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=16ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=14ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=14ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=15ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=15ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=11ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=14ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=20ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=15ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=15ms TTL=51
 Reply from 9.9.9.9: bytes=4 time=17ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=25ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=18ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=20ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=15ms TTL=51
 Reply from 9.9.9.9: bytes=4 time=15ms TTL=51
 Reply from 9.9.9.9: bytes=4 time=14ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=22ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=22ms TTL=51
 Reply from 9.9.9.9: bytes=4 time=14ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=23ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=20ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=16ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=22ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=16ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=16ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=16ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=18ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=14ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=24ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=16ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=15ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=16ms TTL=51
 
 Ping statistics for 9.9.9.9:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 11ms, Maximum = 25ms, Average = 16ms
+    Minimum = 14ms, Maximum = 24ms, Average = 17ms
 
-Sunday, December 10, 2023 12:42:47 PM
+Sunday, December 10, 2023 12:46:40 PM
 
