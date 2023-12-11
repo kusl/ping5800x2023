@@ -1,33 +1,33 @@
 
-Monday, December 11, 2023 3:14:44 AM
+Monday, December 11, 2023 3:18:37 AM
 
 
 Pinging 8.20.247.20 with 4 bytes of data:
-Reply from 8.20.247.20: bytes=4 time=217ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=215ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=214ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=221ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=215ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=217ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=221ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=18ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=22ms TTL=46
 Reply from 8.20.247.20: bytes=4 time=15ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=15ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=16ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=15ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=15ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=15ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=15ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=15ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=15ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=16ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=14ms TTL=46
 Reply from 8.20.247.20: bytes=4 time=17ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=15ms TTL=46
 Reply from 8.20.247.20: bytes=4 time=16ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=19ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=16ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=23ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=16ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=15ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=14ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=18ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=24ms TTL=46
 Reply from 8.20.247.20: bytes=4 time=16ms TTL=46
 Reply from 8.20.247.20: bytes=4 time=16ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=17ms TTL=46
-Reply from 8.20.247.20: bytes=4 time=15ms TTL=46
 
 Ping statistics for 8.20.247.20:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 15ms, Maximum = 221ms, Average = 86ms
+    Minimum = 14ms, Maximum = 24ms, Average = 16ms
 
-Monday, December 11, 2023 3:15:04 AM
+Monday, December 11, 2023 3:18:56 AM
 
