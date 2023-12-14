@@ -1,33 +1,33 @@
 
-Thursday, December 14, 2023 1:21:19 PM
+Thursday, December 14, 2023 1:25:11 PM
 
 
 Pinging 8.26.56.26 with 4 bytes of data:
-Reply from 8.26.56.26: bytes=4 time=209ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=207ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=205ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=211ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=206ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=206ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=211ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=207ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=210ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=205ms TTL=46
 Reply from 8.26.56.26: bytes=4 time=213ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=212ms TTL=46
 Reply from 8.26.56.26: bytes=4 time=214ms TTL=46
 Reply from 8.26.56.26: bytes=4 time=208ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=214ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=206ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=213ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=207ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=207ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=207ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=206ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=213ms TTL=46
 Reply from 8.26.56.26: bytes=4 time=208ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=208ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=211ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=208ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=208ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=215ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=212ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=212ms TTL=46
 Reply from 8.26.56.26: bytes=4 time=209ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=207ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=205ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=12ms TTL=45
+Reply from 8.26.56.26: bytes=4 time=19ms TTL=45
 
 Ping statistics for 8.26.56.26:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 205ms, Maximum = 214ms, Average = 208ms
+    Minimum = 12ms, Maximum = 215ms, Average = 190ms
 
-Thursday, December 14, 2023 1:21:38 PM
+Thursday, December 14, 2023 1:25:30 PM
 
