@@ -1,33 +1,33 @@
 
-Friday, December 15, 2023 10:27:43 PM
+Friday, December 15, 2023 10:31:35 PM
 
 
 Pinging 9.9.9.9 with 4 bytes of data:
-Reply from 9.9.9.9: bytes=4 time=37ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=44ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=55ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=27ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=46ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=30ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=43ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=73ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=38ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=25ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=43ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=56ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=39ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=32ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=59ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=56ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=28ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=41ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=32ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=74ms TTL=51
 Reply from 9.9.9.9: bytes=4 time=62ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=50ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=65ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=66ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=55ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=49ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=65ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=84ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=72ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=44ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=38ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=58ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=27ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=44ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=46ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=35ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=68ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=90ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=30ms TTL=51
 
 Ping statistics for 9.9.9.9:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 25ms, Maximum = 73ms, Average = 43ms
+    Minimum = 27ms, Maximum = 90ms, Average = 56ms
 
-Friday, December 15, 2023 10:28:02 PM
+Friday, December 15, 2023 10:31:54 PM
 
