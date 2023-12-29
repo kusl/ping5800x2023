@@ -1,33 +1,33 @@
 
-Friday, December 29, 2023 6:12:53 AM
+Friday, December 29, 2023 6:17:53 AM
 
 
 Pinging 149.112.112.112 with 4 bytes of data:
-Reply from 149.112.112.112: bytes=4 time=382ms TTL=51
+Reply from 149.112.112.112: bytes=4 time=299ms TTL=51
 Request timed out.
-Reply from 149.112.112.112: bytes=4 time=314ms TTL=51
-Reply from 149.112.112.112: bytes=4 time=307ms TTL=51
+Reply from 149.112.112.112: bytes=4 time=350ms TTL=51
+Request timed out.
+Reply from 149.112.112.112: bytes=4 time=15ms TTL=51
+Reply from 149.112.112.112: bytes=4 time=15ms TTL=51
+Reply from 149.112.112.112: bytes=4 time=17ms TTL=51
+Reply from 149.112.112.112: bytes=4 time=15ms TTL=51
 Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
-Reply from 149.112.112.112: bytes=4 time=312ms TTL=51
+Reply from 149.112.112.112: bytes=4 time=324ms TTL=51
 Request timed out.
+Reply from 149.112.112.112: bytes=4 time=335ms TTL=51
+Request timed out.
+Reply from 149.112.112.112: bytes=4 time=22ms TTL=51
+Reply from 149.112.112.112: bytes=4 time=30ms TTL=51
 Reply from 149.112.112.112: bytes=4 time=18ms TTL=51
-Request timed out.
-Request timed out.
-Reply from 149.112.112.112: bytes=4 time=330ms TTL=51
-Request timed out.
-Request timed out.
-Request timed out.
-Reply from 149.112.112.112: bytes=4 time=333ms TTL=51
-Reply from 149.112.112.112: bytes=4 time=319ms TTL=51
-Request timed out.
+Reply from 149.112.112.112: bytes=4 time=155ms TTL=51
 
 Ping statistics for 149.112.112.112:
-    Packets: Sent = 20, Received = 8, Lost = 12 (60% loss),
+    Packets: Sent = 20, Received = 12, Lost = 8 (40% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 18ms, Maximum = 382ms, Average = 289ms
+    Minimum = 15ms, Maximum = 350ms, Average = 132ms
 
-Friday, December 29, 2023 6:14:00 AM
+Friday, December 29, 2023 6:18:44 AM
 
