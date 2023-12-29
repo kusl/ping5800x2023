@@ -1,33 +1,33 @@
 
-Friday, December 29, 2023 7:32:42 AM
+Friday, December 29, 2023 7:36:34 AM
 
 
 Pinging 8.8.8.8 with 4 bytes of data:
-Reply from 8.8.8.8: bytes=4 time=12ms TTL=112
-Reply from 8.8.8.8: bytes=4 time=33ms TTL=112
+Reply from 8.8.8.8: bytes=4 time=14ms TTL=112
 Reply from 8.8.8.8: bytes=4 time=10ms TTL=112
 Reply from 8.8.8.8: bytes=4 time=12ms TTL=112
-Reply from 8.8.8.8: bytes=4 time=17ms TTL=112
-Reply from 8.8.8.8: bytes=4 time=13ms TTL=112
-Reply from 8.8.8.8: bytes=4 time=34ms TTL=112
-Reply from 8.8.8.8: bytes=4 time=10ms TTL=112
-Reply from 8.8.8.8: bytes=4 time=18ms TTL=112
-Reply from 8.8.8.8: bytes=4 time=23ms TTL=112
-Reply from 8.8.8.8: bytes=4 time=35ms TTL=112
-Reply from 8.8.8.8: bytes=4 time=12ms TTL=112
-Reply from 8.8.8.8: bytes=4 time=47ms TTL=112
-Reply from 8.8.8.8: bytes=4 time=11ms TTL=112
-Reply from 8.8.8.8: bytes=4 time=41ms TTL=112
-Reply from 8.8.8.8: bytes=4 time=11ms TTL=112
-Reply from 8.8.8.8: bytes=4 time=10ms TTL=112
-Reply from 8.8.8.8: bytes=4 time=11ms TTL=112
+Reply from 8.8.8.8: bytes=4 time=20ms TTL=112
 Reply from 8.8.8.8: bytes=4 time=16ms TTL=112
+Reply from 8.8.8.8: bytes=4 time=14ms TTL=112
 Reply from 8.8.8.8: bytes=4 time=13ms TTL=112
+Reply from 8.8.8.8: bytes=4 time=14ms TTL=112
+Reply from 8.8.8.8: bytes=4 time=11ms TTL=112
+Reply from 8.8.8.8: bytes=4 time=9ms TTL=112
+Reply from 8.8.8.8: bytes=4 time=9ms TTL=112
+Reply from 8.8.8.8: bytes=4 time=10ms TTL=112
+Reply from 8.8.8.8: bytes=4 time=11ms TTL=112
+Reply from 8.8.8.8: bytes=4 time=9ms TTL=112
+Reply from 8.8.8.8: bytes=4 time=10ms TTL=112
+Reply from 8.8.8.8: bytes=4 time=9ms TTL=112
+Reply from 8.8.8.8: bytes=4 time=14ms TTL=112
+Reply from 8.8.8.8: bytes=4 time=17ms TTL=112
+Reply from 8.8.8.8: bytes=4 time=10ms TTL=112
+Reply from 8.8.8.8: bytes=4 time=12ms TTL=112
 
 Ping statistics for 8.8.8.8:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 10ms, Maximum = 47ms, Average = 19ms
+    Minimum = 9ms, Maximum = 20ms, Average = 12ms
 
-Friday, December 29, 2023 7:33:01 AM
+Friday, December 29, 2023 7:36:54 AM
 
