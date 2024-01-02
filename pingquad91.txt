@@ -1,33 +1,33 @@
 
-Tuesday, January 2, 2024 5:03:44 AM
+Tuesday, January 2, 2024 5:07:51 AM
 
 
 Pinging 9.9.9.9 with 4 bytes of data:
-Reply from 9.9.9.9: bytes=4 time=287ms TTL=51
-Request timed out.
-Reply from 9.9.9.9: bytes=4 time=15ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=49ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=251ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=248ms TTL=51
 Reply from 9.9.9.9: bytes=4 time=17ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=15ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=40ms TTL=51
-Request timed out.
-Reply from 9.9.9.9: bytes=4 time=234ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=215ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=127ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=110ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=208ms TTL=51
-Request timed out.
+Reply from 9.9.9.9: bytes=4 time=14ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=19ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=22ms TTL=51
 Reply from 9.9.9.9: bytes=4 time=16ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=14ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=24ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=15ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=20ms TTL=51
 Reply from 9.9.9.9: bytes=4 time=15ms TTL=51
 Reply from 9.9.9.9: bytes=4 time=16ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=15ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=15ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=15ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=14ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=14ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=14ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=14ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=14ms TTL=51
 Reply from 9.9.9.9: bytes=4 time=15ms TTL=51
 
 Ping statistics for 9.9.9.9:
-    Packets: Sent = 20, Received = 17, Lost = 3 (15% loss),
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 15ms, Maximum = 287ms, Average = 110ms
+    Minimum = 14ms, Maximum = 24ms, Average = 16ms
 
-Tuesday, January 2, 2024 5:04:15 AM
+Tuesday, January 2, 2024 5:08:10 AM
 
