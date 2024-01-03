@@ -1,33 +1,33 @@
 
-Wednesday, January 3, 2024 2:31:08 AM
+Wednesday, January 3, 2024 2:35:41 AM
 
 
 Pinging 1.0.0.1 with 4 bytes of data:
-Reply from 1.0.0.1: bytes=4 time=18ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=15ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=15ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=24ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=15ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=354ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=359ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=295ms TTL=50
 Request timed out.
-Reply from 1.0.0.1: bytes=4 time=341ms TTL=50
-Request timed out.
-Reply from 1.0.0.1: bytes=4 time=340ms TTL=50
-Request timed out.
-Reply from 1.0.0.1: bytes=4 time=326ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=330ms TTL=50
 Reply from 1.0.0.1: bytes=4 time=334ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=342ms TTL=50
+Request timed out.
+Reply from 1.0.0.1: bytes=4 time=13ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=15ms TTL=50
+Request timed out.
+Reply from 1.0.0.1: bytes=4 time=336ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=306ms TTL=50
+Request timed out.
+Reply from 1.0.0.1: bytes=4 time=324ms TTL=50
 Reply from 1.0.0.1: bytes=4 time=332ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=327ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=312ms TTL=50
+Request timed out.
+Reply from 1.0.0.1: bytes=4 time=317ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=321ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=319ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=314ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=318ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=314ms TTL=50
 Reply from 1.0.0.1: bytes=4 time=320ms TTL=50
 
 Ping statistics for 1.0.0.1:
-    Packets: Sent = 20, Received = 17, Lost = 3 (15% loss),
+    Packets: Sent = 20, Received = 15, Lost = 5 (25% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 15ms, Maximum = 359ms, Average = 240ms
+    Minimum = 13ms, Maximum = 336ms, Average = 279ms
 
-Wednesday, January 3, 2024 2:31:40 AM
+Wednesday, January 3, 2024 2:36:20 AM
 
