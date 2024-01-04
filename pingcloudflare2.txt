@@ -1,33 +1,33 @@
 
-Thursday, January 4, 2024 1:51:05 AM
+Thursday, January 4, 2024 1:56:05 AM
 
 
 Pinging 1.0.0.1 with 4 bytes of data:
 Reply from 1.0.0.1: bytes=4 time=17ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=305ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=228ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=147ms TTL=50
 Reply from 1.0.0.1: bytes=4 time=16ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=33ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=45ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=15ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=15ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=18ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=34ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=18ms TTL=50
 Reply from 1.0.0.1: bytes=4 time=16ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=19ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=280ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=258ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=15ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=15ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=15ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=45ms TTL=50
 Reply from 1.0.0.1: bytes=4 time=24ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=16ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=240ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=196ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=259ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=39ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=16ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=203ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=17ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=184ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=82ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=29ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=22ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=285ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=154ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=15ms TTL=50
 
 Ping statistics for 1.0.0.1:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 16ms, Maximum = 305ms, Average = 122ms
+    Minimum = 15ms, Maximum = 285ms, Average = 48ms
 
-Thursday, January 4, 2024 1:51:25 AM
+Thursday, January 4, 2024 1:56:24 AM
 
