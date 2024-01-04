@@ -1,33 +1,33 @@
 
-Thursday, January 4, 2024 9:04:30 AM
+Thursday, January 4, 2024 9:08:58 AM
 
 
 Pinging 149.112.112.112 with 4 bytes of data:
-Reply from 149.112.112.112: bytes=4 time=306ms TTL=51
+Request timed out.
+Reply from 149.112.112.112: bytes=4 time=318ms TTL=51
 Reply from 149.112.112.112: bytes=4 time=307ms TTL=51
-Reply from 149.112.112.112: bytes=4 time=307ms TTL=51
-Reply from 149.112.112.112: bytes=4 time=303ms TTL=51
-Reply from 149.112.112.112: bytes=4 time=299ms TTL=51
-Request timed out.
-Request timed out.
-Reply from 149.112.112.112: bytes=4 time=17ms TTL=51
-Reply from 149.112.112.112: bytes=4 time=372ms TTL=51
-Reply from 149.112.112.112: bytes=4 time=191ms TTL=51
-Reply from 149.112.112.112: bytes=4 time=266ms TTL=51
-Reply from 149.112.112.112: bytes=4 time=294ms TTL=51
-Reply from 149.112.112.112: bytes=4 time=242ms TTL=51
-Reply from 149.112.112.112: bytes=4 time=311ms TTL=51
-Reply from 149.112.112.112: bytes=4 time=300ms TTL=51
-Reply from 149.112.112.112: bytes=4 time=293ms TTL=51
-Request timed out.
 Reply from 149.112.112.112: bytes=4 time=310ms TTL=51
+Reply from 149.112.112.112: bytes=4 time=328ms TTL=51
+Request timed out.
+Reply from 149.112.112.112: bytes=4 time=307ms TTL=51
+Reply from 149.112.112.112: bytes=4 time=323ms TTL=51
 Request timed out.
 Request timed out.
+Reply from 149.112.112.112: bytes=4 time=22ms TTL=51
+Reply from 149.112.112.112: bytes=4 time=16ms TTL=51
+Reply from 149.112.112.112: bytes=4 time=16ms TTL=51
+Request timed out.
+Reply from 149.112.112.112: bytes=4 time=232ms TTL=51
+Reply from 149.112.112.112: bytes=4 time=322ms TTL=51
+Request timed out.
+Reply from 149.112.112.112: bytes=4 time=291ms TTL=51
+Reply from 149.112.112.112: bytes=4 time=311ms TTL=51
+Reply from 149.112.112.112: bytes=4 time=313ms TTL=51
 
 Ping statistics for 149.112.112.112:
-    Packets: Sent = 20, Received = 15, Lost = 5 (25% loss),
+    Packets: Sent = 20, Received = 14, Lost = 6 (30% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 17ms, Maximum = 372ms, Average = 274ms
+    Minimum = 16ms, Maximum = 328ms, Average = 244ms
 
-Thursday, January 4, 2024 9:05:09 AM
+Thursday, January 4, 2024 9:09:41 AM
 
