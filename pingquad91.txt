@@ -1,33 +1,33 @@
 
-Thursday, January 4, 2024 8:45:35 AM
+Thursday, January 4, 2024 8:50:10 AM
 
 
 Pinging 9.9.9.9 with 4 bytes of data:
-Reply from 9.9.9.9: bytes=4 time=323ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=314ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=306ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=294ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=301ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=327ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=293ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=318ms TTL=51
 Reply from 9.9.9.9: bytes=4 time=303ms TTL=51
 Request timed out.
 Request timed out.
 Request timed out.
-Reply from 9.9.9.9: bytes=4 time=315ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=319ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=319ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=321ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=307ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=310ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=316ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=305ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=312ms TTL=51
 Request timed out.
-Reply from 9.9.9.9: bytes=4 time=16ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=375ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=306ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=154ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=22ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=17ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=15ms TTL=51
 Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
+Reply from 9.9.9.9: bytes=4 time=309ms TTL=51
 
 Ping statistics for 9.9.9.9:
-    Packets: Sent = 20, Received = 12, Lost = 8 (40% loss),
+    Packets: Sent = 20, Received = 15, Lost = 5 (25% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 16ms, Maximum = 375ms, Average = 280ms
+    Minimum = 15ms, Maximum = 327ms, Average = 249ms
 
-Thursday, January 4, 2024 8:46:26 AM
+Thursday, January 4, 2024 8:50:49 AM
 
