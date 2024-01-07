@@ -1,33 +1,33 @@
 
-Sunday, January 7, 2024 6:30:37 AM
+Sunday, January 7, 2024 6:35:56 AM
 
 
 Pinging 1.0.0.1 with 4 bytes of data:
 Request timed out.
 Reply from 1.0.0.1: bytes=4 time=18ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=15ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=17ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=15ms TTL=50
+Request timed out.
+Reply from 1.0.0.1: bytes=4 time=369ms TTL=50
 Request timed out.
 Request timed out.
+Reply from 1.0.0.1: bytes=4 time=364ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=377ms TTL=50
 Request timed out.
 Request timed out.
-Request timed out.
-Reply from 1.0.0.1: bytes=4 time=367ms TTL=50
 Request timed out.
 Reply from 1.0.0.1: bytes=4 time=18ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=15ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=17ms TTL=50
 Reply from 1.0.0.1: bytes=4 time=16ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=347ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=354ms TTL=50
+Request timed out.
+Reply from 1.0.0.1: bytes=4 time=362ms TTL=50
 Request timed out.
 Request timed out.
+Reply from 1.0.0.1: bytes=4 time=351ms TTL=50
 Request timed out.
 
 Ping statistics for 1.0.0.1:
-    Packets: Sent = 20, Received = 10, Lost = 10 (50% loss),
+    Packets: Sent = 20, Received = 9, Lost = 11 (55% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 15ms, Maximum = 367ms, Average = 84ms
+    Minimum = 16ms, Maximum = 377ms, Average = 247ms
 
-Sunday, January 7, 2024 6:31:36 AM
+Sunday, January 7, 2024 6:36:59 AM
 
