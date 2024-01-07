@@ -1,33 +1,33 @@
 
-Saturday, January 6, 2024 11:22:31 PM
+Saturday, January 6, 2024 11:27:42 PM
 
 
 Pinging 9.9.9.9 with 4 bytes of data:
-Reply from 9.9.9.9: bytes=4 time=34ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=54ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=36ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=40ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=23ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=49ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=34ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=55ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=63ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=59ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=35ms TTL=51
 Reply from 9.9.9.9: bytes=4 time=50ms TTL=51
 Reply from 9.9.9.9: bytes=4 time=47ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=46ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=37ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=47ms TTL=51
 Reply from 9.9.9.9: bytes=4 time=45ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=51ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=42ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=36ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=48ms TTL=51
 Reply from 9.9.9.9: bytes=4 time=39ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=57ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=46ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=44ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=43ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=56ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=45ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=42ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=45ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=44ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=16ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=44ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=35ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=59ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=47ms TTL=51
 
 Ping statistics for 9.9.9.9:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 23ms, Maximum = 63ms, Average = 44ms
+    Minimum = 16ms, Maximum = 59ms, Average = 43ms
 
-Saturday, January 6, 2024 11:22:50 PM
+Saturday, January 6, 2024 11:28:02 PM
 
