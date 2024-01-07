@@ -1,33 +1,33 @@
 
-Sunday, January 7, 2024 5:09:19 PM
+Sunday, January 7, 2024 5:13:12 PM
 
 
 Pinging 1.1.1.1 with 4 bytes of data:
+Reply from 1.1.1.1: bytes=4 time=56ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=23ms TTL=49
 Reply from 1.1.1.1: bytes=4 time=35ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=17ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=17ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=17ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=16ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=14ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=49ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=46ms TTL=49
 Reply from 1.1.1.1: bytes=4 time=22ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=13ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=15ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=17ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=19ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=16ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=20ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=22ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=19ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=17ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=20ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=15ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=15ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=16ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=17ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=42ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=14ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=38ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=55ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=49ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=27ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=45ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=52ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=27ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=40ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=48ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=23ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=29ms TTL=49
 
 Ping statistics for 1.1.1.1:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 13ms, Maximum = 35ms, Average = 18ms
+    Minimum = 14ms, Maximum = 56ms, Average = 36ms
 
-Sunday, January 7, 2024 5:09:39 PM
+Sunday, January 7, 2024 5:13:31 PM
 
