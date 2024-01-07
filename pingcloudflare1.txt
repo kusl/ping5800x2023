@@ -1,33 +1,33 @@
 
-Sunday, January 7, 2024 12:12:22 AM
+Sunday, January 7, 2024 12:17:46 AM
 
 
 Pinging 1.1.1.1 with 4 bytes of data:
 Request timed out.
 Request timed out.
 Request timed out.
+Reply from 1.1.1.1: bytes=4 time=371ms TTL=49
+Request timed out.
+Reply from 1.1.1.1: bytes=4 time=53ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=47ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=114ms TTL=49
 Request timed out.
 Request timed out.
 Request timed out.
-Reply from 1.1.1.1: bytes=4 time=36ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=52ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=404ms TTL=49
 Request timed out.
 Request timed out.
 Request timed out.
-Request timed out.
-Request timed out.
-Reply from 1.1.1.1: bytes=4 time=409ms TTL=49
-Request timed out.
-Reply from 1.1.1.1: bytes=4 time=55ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=17ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=42ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=35ms TTL=49
 Reply from 1.1.1.1: bytes=4 time=40ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=59ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=85ms TTL=49
 Request timed out.
 
 Ping statistics for 1.1.1.1:
-    Packets: Sent = 20, Received = 7, Lost = 13 (65% loss),
+    Packets: Sent = 20, Received = 9, Lost = 11 (55% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 36ms, Maximum = 409ms, Average = 150ms
+    Minimum = 17ms, Maximum = 371ms, Average = 89ms
 
-Sunday, January 7, 2024 12:13:33 AM
+Sunday, January 7, 2024 12:18:49 AM
 
