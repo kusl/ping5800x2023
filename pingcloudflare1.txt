@@ -1,33 +1,33 @@
 
-Sunday, January 7, 2024 1:00:24 AM
+Sunday, January 7, 2024 1:05:43 AM
 
 
 Pinging 1.1.1.1 with 4 bytes of data:
-Reply from 1.1.1.1: bytes=4 time=382ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=389ms TTL=49
 Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
-Reply from 1.1.1.1: bytes=4 time=50ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=38ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=48ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=30ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=374ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=35ms TTL=50
+Reply from 1.1.1.1: bytes=4 time=48ms TTL=50
 Request timed out.
 Request timed out.
 Request timed out.
+Reply from 1.1.1.1: bytes=4 time=415ms TTL=50
+Reply from 1.1.1.1: bytes=4 time=399ms TTL=50
+Reply from 1.1.1.1: bytes=4 time=376ms TTL=50
+Reply from 1.1.1.1: bytes=4 time=381ms TTL=50
 Request timed out.
 Request timed out.
-Request timed out.
-Reply from 1.1.1.1: bytes=4 time=42ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=29ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=36ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=409ms TTL=50
+Reply from 1.1.1.1: bytes=4 time=29ms TTL=50
+Reply from 1.1.1.1: bytes=4 time=36ms TTL=50
+Reply from 1.1.1.1: bytes=4 time=35ms TTL=50
+Reply from 1.1.1.1: bytes=4 time=51ms TTL=50
 
 Ping statistics for 1.1.1.1:
-    Packets: Sent = 20, Received = 10, Lost = 10 (50% loss),
+    Packets: Sent = 20, Received = 11, Lost = 9 (45% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 29ms, Maximum = 389ms, Average = 141ms
+    Minimum = 29ms, Maximum = 415ms, Average = 201ms
 
-Sunday, January 7, 2024 1:01:23 AM
+Sunday, January 7, 2024 1:06:38 AM
 
