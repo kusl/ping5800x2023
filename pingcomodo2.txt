@@ -1,33 +1,33 @@
 
-Wednesday, January 17, 2024 5:02:53 PM
+Wednesday, January 17, 2024 5:06:46 PM
 
 
 Pinging 8.20.247.20 with 4 bytes of data:
-Reply from 8.20.247.20: bytes=4 time=39ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=37ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=35ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=18ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=17ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=17ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=18ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=19ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=22ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=19ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=60ms TTL=45
-Reply from 8.20.247.20: bytes=4 time=48ms TTL=43
-Reply from 8.20.247.20: bytes=4 time=42ms TTL=43
-Reply from 8.20.247.20: bytes=4 time=41ms TTL=43
-Reply from 8.20.247.20: bytes=4 time=42ms TTL=43
-Reply from 8.20.247.20: bytes=4 time=45ms TTL=43
-Reply from 8.20.247.20: bytes=4 time=53ms TTL=43
-Reply from 8.20.247.20: bytes=4 time=87ms TTL=43
-Reply from 8.20.247.20: bytes=4 time=52ms TTL=43
-Reply from 8.20.247.20: bytes=4 time=53ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=217ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=212ms TTL=46
+Request timed out.
+Reply from 8.20.247.20: bytes=4 time=70ms TTL=42
+Reply from 8.20.247.20: bytes=4 time=108ms TTL=42
+Reply from 8.20.247.20: bytes=4 time=71ms TTL=42
+Reply from 8.20.247.20: bytes=4 time=59ms TTL=42
+Reply from 8.20.247.20: bytes=4 time=65ms TTL=42
+Reply from 8.20.247.20: bytes=4 time=57ms TTL=42
+Reply from 8.20.247.20: bytes=4 time=54ms TTL=42
+Reply from 8.20.247.20: bytes=4 time=55ms TTL=42
+Reply from 8.20.247.20: bytes=4 time=56ms TTL=42
+Reply from 8.20.247.20: bytes=4 time=54ms TTL=42
+Reply from 8.20.247.20: bytes=4 time=211ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=213ms TTL=45
+Reply from 8.20.247.20: bytes=4 time=218ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=212ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=228ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=214ms TTL=46
+Reply from 8.20.247.20: bytes=4 time=220ms TTL=46
 
 Ping statistics for 8.20.247.20:
-    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+    Packets: Sent = 20, Received = 19, Lost = 1 (5% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 17ms, Maximum = 87ms, Average = 38ms
+    Minimum = 54ms, Maximum = 228ms, Average = 136ms
 
-Wednesday, January 17, 2024 5:03:13 PM
+Wednesday, January 17, 2024 5:07:09 PM
 
