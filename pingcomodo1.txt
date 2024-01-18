@@ -1,33 +1,33 @@
 
-Wednesday, January 17, 2024 6:48:52 PM
+Wednesday, January 17, 2024 6:52:51 PM
 
 
 Pinging 8.26.56.26 with 4 bytes of data:
-Reply from 8.26.56.26: bytes=4 time=63ms TTL=43
-Reply from 8.26.56.26: bytes=4 time=65ms TTL=43
-Reply from 8.26.56.26: bytes=4 time=56ms TTL=43
-Reply from 8.26.56.26: bytes=4 time=60ms TTL=43
-Reply from 8.26.56.26: bytes=4 time=60ms TTL=43
-Reply from 8.26.56.26: bytes=4 time=55ms TTL=43
-Reply from 8.26.56.26: bytes=4 time=55ms TTL=43
-Reply from 8.26.56.26: bytes=4 time=15ms TTL=44
-Reply from 8.26.56.26: bytes=4 time=15ms TTL=44
-Reply from 8.26.56.26: bytes=4 time=19ms TTL=44
-Reply from 8.26.56.26: bytes=4 time=19ms TTL=44
-Reply from 8.26.56.26: bytes=4 time=16ms TTL=44
-Reply from 8.26.56.26: bytes=4 time=18ms TTL=44
-Reply from 8.26.56.26: bytes=4 time=15ms TTL=44
-Reply from 8.26.56.26: bytes=4 time=16ms TTL=44
-Reply from 8.26.56.26: bytes=4 time=16ms TTL=44
-Request timed out.
 Reply from 8.26.56.26: bytes=4 time=34ms TTL=44
+Reply from 8.26.56.26: bytes=4 time=29ms TTL=44
+Reply from 8.26.56.26: bytes=4 time=29ms TTL=44
 Reply from 8.26.56.26: bytes=4 time=28ms TTL=44
-Reply from 8.26.56.26: bytes=4 time=28ms TTL=44
+Reply from 8.26.56.26: bytes=4 time=30ms TTL=44
+Request timed out.
+Reply from 8.26.56.26: bytes=4 time=38ms TTL=43
+Reply from 8.26.56.26: bytes=4 time=38ms TTL=43
+Reply from 8.26.56.26: bytes=4 time=38ms TTL=43
+Reply from 8.26.56.26: bytes=4 time=42ms TTL=43
+Reply from 8.26.56.26: bytes=4 time=37ms TTL=43
+Reply from 8.26.56.26: bytes=4 time=36ms TTL=43
+Reply from 8.26.56.26: bytes=4 time=58ms TTL=43
+Reply from 8.26.56.26: bytes=4 time=37ms TTL=43
+Reply from 8.26.56.26: bytes=4 time=37ms TTL=43
+Reply from 8.26.56.26: bytes=4 time=41ms TTL=43
+Reply from 8.26.56.26: bytes=4 time=39ms TTL=43
+Reply from 8.26.56.26: bytes=4 time=45ms TTL=43
+Reply from 8.26.56.26: bytes=4 time=41ms TTL=43
+Reply from 8.26.56.26: bytes=4 time=38ms TTL=43
 
 Ping statistics for 8.26.56.26:
     Packets: Sent = 20, Received = 19, Lost = 1 (5% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 15ms, Maximum = 65ms, Average = 34ms
+    Minimum = 28ms, Maximum = 58ms, Average = 37ms
 
-Wednesday, January 17, 2024 6:49:15 PM
+Wednesday, January 17, 2024 6:53:14 PM
 
