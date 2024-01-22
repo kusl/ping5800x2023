@@ -1,33 +1,33 @@
 
-Monday, January 22, 2024 5:22:54 PM
+Monday, January 22, 2024 5:26:47 PM
 
 
 Pinging 1.0.0.1 with 4 bytes of data:
-Reply from 1.0.0.1: bytes=4 time=42ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=44ms TTL=50
 Reply from 1.0.0.1: bytes=4 time=38ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=20ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=20ms TTL=50
 Reply from 1.0.0.1: bytes=4 time=47ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=46ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=60ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=65ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=58ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=41ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=40ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=47ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=28ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=50ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=34ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=32ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=164ms TTL=50
 Reply from 1.0.0.1: bytes=4 time=39ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=52ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=52ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=25ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=17ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=34ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=34ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=38ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=24ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=18ms TTL=50
 Reply from 1.0.0.1: bytes=4 time=40ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=83ms TTL=50
-Reply from 1.0.0.1: bytes=4 time=65ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=46ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=20ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=28ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=34ms TTL=50
+Reply from 1.0.0.1: bytes=4 time=42ms TTL=50
 
 Ping statistics for 1.0.0.1:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 17ms, Maximum = 83ms, Average = 45ms
+    Minimum = 18ms, Maximum = 164ms, Average = 40ms
 
-Monday, January 22, 2024 5:23:13 PM
+Monday, January 22, 2024 5:27:06 PM
 
