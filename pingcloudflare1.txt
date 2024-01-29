@@ -1,5 +1,5 @@
 
-Monday, January 29, 2024 6:27:09 AM
+Monday, January 29, 2024 6:44:18 AM
 
 
 Pinging 1.1.1.1 with 4 bytes of data:
@@ -11,6 +11,7 @@ Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
+Reply from 192.168.1.1: Destination net unreachable.
 Request timed out.
 Request timed out.
 Request timed out.
@@ -18,14 +19,15 @@ Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
+Reply from 1.1.1.1: bytes=4 time=20ms TTL=50
+Reply from 1.1.1.1: bytes=4 time=29ms TTL=50
+Reply from 1.1.1.1: bytes=4 time=20ms TTL=50
+Reply from 1.1.1.1: bytes=4 time=14ms TTL=50
 
 Ping statistics for 1.1.1.1:
-    Packets: Sent = 20, Received = 0, Lost = 20 (100% loss),
+    Packets: Sent = 20, Received = 5, Lost = 15 (75% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 14ms, Maximum = 29ms, Average = 20ms
 
-Monday, January 29, 2024 6:28:48 AM
+Monday, January 29, 2024 6:45:36 AM
 
