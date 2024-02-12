@@ -1,31 +1,31 @@
 
-Monday, February 12, 2024 4:58:43 AM
+Monday, February 12, 2024 5:11:48 AM
 
 
 Pinging 149.112.112.112 with 4 bytes of data:
+Reply from 192.168.1.218: Destination host unreachable.
+Reply from 192.168.1.218: Destination host unreachable.
 Request timed out.
+Reply from 192.168.1.218: Destination host unreachable.
+Reply from 192.168.1.218: Destination host unreachable.
+Reply from 192.168.1.218: Destination host unreachable.
+Reply from 192.168.1.218: Destination host unreachable.
+Reply from 192.168.1.218: Destination host unreachable.
+Reply from 192.168.1.218: Destination host unreachable.
+Reply from 192.168.1.218: Destination host unreachable.
+Reply from 192.168.1.218: Destination host unreachable.
+Reply from 192.168.1.218: Destination host unreachable.
+Reply from 192.168.1.218: Destination host unreachable.
+Reply from 192.168.1.218: Destination host unreachable.
+Reply from 192.168.1.218: Destination host unreachable.
+Reply from 192.168.1.218: Destination host unreachable.
 Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
+Reply from 192.168.1.218: Destination host unreachable.
+Reply from 192.168.1.218: Destination host unreachable.
+Reply from 192.168.1.218: Destination host unreachable.
 
 Ping statistics for 149.112.112.112:
-    Packets: Sent = 20, Received = 0, Lost = 20 (100% loss),
+    Packets: Sent = 20, Received = 18, Lost = 2 (10% loss),
 
-Monday, February 12, 2024 5:00:22 AM
+Monday, February 12, 2024 5:12:52 AM
 
