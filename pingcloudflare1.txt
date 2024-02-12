@@ -1,12 +1,12 @@
 
-Monday, February 12, 2024 3:56:23 AM
+Monday, February 12, 2024 4:09:39 AM
 
 
 Pinging 1.1.1.1 with 4 bytes of data:
-Reply from 192.168.1.218: Destination host unreachable.
-Reply from 192.168.1.218: Destination host unreachable.
-Reply from 192.168.1.218: Destination host unreachable.
-Reply from 192.168.1.218: Destination host unreachable.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
@@ -25,7 +25,7 @@ Request timed out.
 Request timed out.
 
 Ping statistics for 1.1.1.1:
-    Packets: Sent = 20, Received = 4, Lost = 16 (80% loss),
+    Packets: Sent = 20, Received = 0, Lost = 20 (100% loss),
 
-Monday, February 12, 2024 3:57:52 AM
+Monday, February 12, 2024 4:11:18 AM
 
