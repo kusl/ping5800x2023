@@ -1,31 +1,31 @@
 
-Monday, February 12, 2024 3:40:48 AM
+Monday, February 12, 2024 3:53:04 AM
 
 
 Pinging 8.26.56.26 with 4 bytes of data:
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-General failure.
-General failure.
-General failure.
-General failure.
-General failure.
-General failure.
-General failure.
-Request timed out.
-Request timed out.
+Reply from 192.168.1.218: Destination host unreachable.
+Reply from 192.168.1.218: Destination host unreachable.
+Reply from 192.168.1.218: Destination host unreachable.
+Reply from 192.168.1.218: Destination host unreachable.
+Reply from 192.168.1.218: Destination host unreachable.
+Reply from 192.168.1.218: Destination host unreachable.
+Reply from 192.168.1.218: Destination host unreachable.
+Reply from 192.168.1.218: Destination host unreachable.
+Reply from 192.168.1.218: Destination host unreachable.
+Reply from 192.168.1.218: Destination host unreachable.
+Reply from 192.168.1.218: Destination host unreachable.
+Reply from 192.168.1.218: Destination host unreachable.
+Reply from 192.168.1.218: Destination host unreachable.
+Reply from 192.168.1.218: Destination host unreachable.
+Reply from 192.168.1.218: Destination host unreachable.
+Reply from 192.168.1.218: Destination host unreachable.
+Reply from 192.168.1.218: Destination host unreachable.
+Reply from 192.168.1.218: Destination host unreachable.
+Reply from 192.168.1.218: Destination host unreachable.
+Reply from 192.168.1.218: Destination host unreachable.
 
 Ping statistics for 8.26.56.26:
-    Packets: Sent = 20, Received = 0, Lost = 20 (100% loss),
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 
-Monday, February 12, 2024 3:41:59 AM
+Monday, February 12, 2024 3:54:04 AM
 

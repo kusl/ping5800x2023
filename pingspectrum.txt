@@ -1,33 +1,31 @@
 
-Monday, February 12, 2024 3:29:56 AM
+Monday, February 12, 2024 3:43:46 AM
 
 
 Pinging 192.168.1.1 with 4 bytes of data:
-Reply from 192.168.1.1: bytes=4 time=1ms TTL=64
-Reply from 192.168.1.1: bytes=4 time<1ms TTL=64
-Reply from 192.168.1.1: bytes=4 time<1ms TTL=64
-Reply from 192.168.1.1: bytes=4 time<1ms TTL=64
-Reply from 192.168.1.1: bytes=4 time<1ms TTL=64
-Reply from 192.168.1.1: bytes=4 time<1ms TTL=64
-Reply from 192.168.1.1: bytes=4 time<1ms TTL=64
-Reply from 192.168.1.1: bytes=4 time<1ms TTL=64
-Reply from 192.168.1.1: bytes=4 time<1ms TTL=64
-Reply from 192.168.1.1: bytes=4 time<1ms TTL=64
-Reply from 192.168.1.1: bytes=4 time<1ms TTL=64
-Reply from 192.168.1.1: bytes=4 time<1ms TTL=64
-Reply from 192.168.1.1: bytes=4 time<1ms TTL=64
-Reply from 192.168.1.1: bytes=4 time<1ms TTL=64
-Reply from 192.168.1.1: bytes=4 time<1ms TTL=64
-Reply from 192.168.1.1: bytes=4 time<1ms TTL=64
-Reply from 192.168.1.1: bytes=4 time<1ms TTL=64
-Reply from 192.168.1.1: bytes=4 time<1ms TTL=64
-Reply from 192.168.1.1: bytes=4 time<1ms TTL=64
-Reply from 192.168.1.1: bytes=4 time=1ms TTL=64
+Reply from 192.168.1.218: Destination host unreachable.
+Request timed out.
+Request timed out.
+Reply from 192.168.1.218: Destination host unreachable.
+Reply from 192.168.1.218: Destination host unreachable.
+Reply from 192.168.1.218: Destination host unreachable.
+Reply from 192.168.1.218: Destination host unreachable.
+Reply from 192.168.1.218: Destination host unreachable.
+Reply from 192.168.1.218: Destination host unreachable.
+Reply from 192.168.1.218: Destination host unreachable.
+Reply from 192.168.1.218: Destination host unreachable.
+Reply from 192.168.1.218: Destination host unreachable.
+Reply from 192.168.1.218: Destination host unreachable.
+Reply from 192.168.1.218: Destination host unreachable.
+Reply from 192.168.1.218: Destination host unreachable.
+Reply from 192.168.1.218: Destination host unreachable.
+Reply from 192.168.1.218: Destination host unreachable.
+Reply from 192.168.1.218: Destination host unreachable.
+Request timed out.
+Reply from 192.168.1.218: Destination host unreachable.
 
 Ping statistics for 192.168.1.1:
-    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
-Approximate round trip times in milli-seconds:
-    Minimum = 0ms, Maximum = 1ms, Average = 0ms
+    Packets: Sent = 20, Received = 17, Lost = 3 (15% loss),
 
-Monday, February 12, 2024 3:30:16 AM
+Monday, February 12, 2024 3:44:50 AM
 
