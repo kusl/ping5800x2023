@@ -1,5 +1,5 @@
 
-Friday, February 23, 2024 9:39:53 PM
+Friday, February 23, 2024 9:43:45 PM
 
 
 Pinging 192.168.1.1 with 4 bytes of data:
@@ -15,10 +15,10 @@ Reply from 192.168.1.1: bytes=4 time<1ms TTL=64
 Reply from 192.168.1.1: bytes=4 time<1ms TTL=64
 Reply from 192.168.1.1: bytes=4 time<1ms TTL=64
 Reply from 192.168.1.1: bytes=4 time<1ms TTL=64
+Reply from 192.168.1.1: bytes=4 time=7ms TTL=64
 Reply from 192.168.1.1: bytes=4 time<1ms TTL=64
-Reply from 192.168.1.1: bytes=4 time<1ms TTL=64
-Reply from 192.168.1.1: bytes=4 time<1ms TTL=64
-Reply from 192.168.1.1: bytes=4 time<1ms TTL=64
+Reply from 192.168.1.1: bytes=4 time=9ms TTL=64
+Reply from 192.168.1.1: bytes=4 time=6ms TTL=64
 Reply from 192.168.1.1: bytes=4 time<1ms TTL=64
 Reply from 192.168.1.1: bytes=4 time<1ms TTL=64
 Reply from 192.168.1.1: bytes=4 time<1ms TTL=64
@@ -27,7 +27,7 @@ Reply from 192.168.1.1: bytes=4 time<1ms TTL=64
 Ping statistics for 192.168.1.1:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 0ms, Maximum = 1ms, Average = 0ms
+    Minimum = 0ms, Maximum = 9ms, Average = 1ms
 
-Friday, February 23, 2024 9:40:12 PM
+Friday, February 23, 2024 9:44:04 PM
 
