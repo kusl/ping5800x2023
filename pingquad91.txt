@@ -1,33 +1,33 @@
 
-Tuesday, February 27, 2024 9:50:46 PM
+Tuesday, February 27, 2024 9:54:43 PM
 
 
 Pinging 9.9.9.9 with 4 bytes of data:
-Reply from 9.9.9.9: bytes=4 time=28ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=45ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=134ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=81ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=138ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=109ms TTL=51
-Request timed out.
-Reply from 9.9.9.9: bytes=4 time=139ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=43ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=103ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=73ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=98ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=136ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=83ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=94ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=149ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=77ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=72ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=83ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=115ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=128ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=132ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=84ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=121ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=93ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=55ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=69ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=115ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=106ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=108ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=155ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=202ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=70ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=59ms TTL=51
 Reply from 9.9.9.9: bytes=4 time=135ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=135ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=134ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=167ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=94ms TTL=51
 
 Ping statistics for 9.9.9.9:
-    Packets: Sent = 20, Received = 19, Lost = 1 (5% loss),
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 28ms, Maximum = 149ms, Average = 95ms
+    Minimum = 55ms, Maximum = 202ms, Average = 113ms
 
-Tuesday, February 27, 2024 9:51:10 PM
+Tuesday, February 27, 2024 9:55:03 PM
 
