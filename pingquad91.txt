@@ -1,33 +1,33 @@
 
-Wednesday, February 28, 2024 12:52:37 AM
+Wednesday, February 28, 2024 12:56:33 AM
 
 
 Pinging 9.9.9.9 with 4 bytes of data:
-Reply from 9.9.9.9: bytes=4 time=47ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=40ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=28ms TTL=51
-Request timed out.
-Reply from 9.9.9.9: bytes=4 time=59ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=58ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=55ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=68ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=73ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=24ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=70ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=55ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=20ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=24ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=38ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=38ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=38ms TTL=51
-Reply from 9.9.9.9: bytes=4 time=40ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=34ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=42ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=37ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=30ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=17ms TTL=51
 Reply from 9.9.9.9: bytes=4 time=45ms TTL=51
 Reply from 9.9.9.9: bytes=4 time=38ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=22ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=33ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=45ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=51ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=48ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=39ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=67ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=23ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=34ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=42ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=46ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=38ms TTL=51
+Reply from 9.9.9.9: bytes=4 time=45ms TTL=51
 
 Ping statistics for 9.9.9.9:
-    Packets: Sent = 20, Received = 19, Lost = 1 (5% loss),
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 20ms, Maximum = 73ms, Average = 45ms
+    Minimum = 17ms, Maximum = 67ms, Average = 38ms
 
-Wednesday, February 28, 2024 12:53:00 AM
+Wednesday, February 28, 2024 12:56:52 AM
 
