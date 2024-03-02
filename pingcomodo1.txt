@@ -1,33 +1,33 @@
 
-Saturday, March 2, 2024 12:12:47 PM
+Saturday, March 2, 2024 12:16:43 PM
 
 
 Pinging 8.26.56.26 with 4 bytes of data:
-Reply from 8.26.56.26: bytes=4 time=224ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=221ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=223ms TTL=46
 Reply from 8.26.56.26: bytes=4 time=219ms TTL=46
 Reply from 8.26.56.26: bytes=4 time=219ms TTL=46
 Reply from 8.26.56.26: bytes=4 time=219ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=227ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=220ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=219ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=220ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=231ms TTL=46
 Reply from 8.26.56.26: bytes=4 time=222ms TTL=46
 Reply from 8.26.56.26: bytes=4 time=220ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=221ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=219ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=219ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=219ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=25ms TTL=44
-Reply from 8.26.56.26: bytes=4 time=15ms TTL=44
-Reply from 8.26.56.26: bytes=4 time=14ms TTL=44
-Reply from 8.26.56.26: bytes=4 time=24ms TTL=44
+Reply from 8.26.56.26: bytes=4 time=220ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=218ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=220ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=220ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=218ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=16ms TTL=44
 Reply from 8.26.56.26: bytes=4 time=16ms TTL=44
 Reply from 8.26.56.26: bytes=4 time=17ms TTL=44
-Reply from 8.26.56.26: bytes=4 time=22ms TTL=44
-Reply from 8.26.56.26: bytes=4 time=23ms TTL=44
+Reply from 8.26.56.26: bytes=4 time=16ms TTL=44
+Reply from 8.26.56.26: bytes=4 time=16ms TTL=44
 
 Ping statistics for 8.26.56.26:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 14ms, Maximum = 227ms, Average = 140ms
+    Minimum = 16ms, Maximum = 231ms, Average = 169ms
 
-Saturday, March 2, 2024 12:13:06 PM
+Saturday, March 2, 2024 12:17:02 PM
 
