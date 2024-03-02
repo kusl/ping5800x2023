@@ -1,33 +1,33 @@
 
-Saturday, March 2, 2024 9:43:12 AM
+Saturday, March 2, 2024 9:47:36 AM
 
 
 Pinging 8.26.56.26 with 4 bytes of data:
+Reply from 8.26.56.26: bytes=4 time=242ms TTL=46
 Request timed out.
-Reply from 8.26.56.26: bytes=4 time=244ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=240ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=239ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=240ms TTL=46
 Reply from 8.26.56.26: bytes=4 time=242ms TTL=46
 Reply from 8.26.56.26: bytes=4 time=239ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=243ms TTL=46
 Request timed out.
-Reply from 8.26.56.26: bytes=4 time=252ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=248ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=238ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=238ms TTL=46
-Request timed out.
-Reply from 8.26.56.26: bytes=4 time=248ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=248ms TTL=46
-Reply from 8.26.56.26: bytes=4 time=238ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=241ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=237ms TTL=46
 Reply from 8.26.56.26: bytes=4 time=239ms TTL=46
+Request timed out.
+Reply from 8.26.56.26: bytes=4 time=17ms TTL=44
+Reply from 8.26.56.26: bytes=4 time=15ms TTL=44
+Reply from 8.26.56.26: bytes=4 time=17ms TTL=44
+Reply from 8.26.56.26: bytes=4 time=18ms TTL=44
+Reply from 8.26.56.26: bytes=4 time=34ms TTL=45
+Request timed out.
+Reply from 8.26.56.26: bytes=4 time=244ms TTL=46
 Reply from 8.26.56.26: bytes=4 time=245ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=240ms TTL=46
+Reply from 8.26.56.26: bytes=4 time=237ms TTL=46
 Request timed out.
 
 Ping statistics for 8.26.56.26:
-    Packets: Sent = 20, Received = 16, Lost = 4 (20% loss),
+    Packets: Sent = 20, Received = 15, Lost = 5 (25% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 238ms, Maximum = 252ms, Average = 242ms
+    Minimum = 15ms, Maximum = 245ms, Average = 167ms
 
-Saturday, March 2, 2024 9:43:47 AM
+Saturday, March 2, 2024 9:48:14 AM
 
