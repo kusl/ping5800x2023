@@ -1,33 +1,33 @@
 
-Saturday, March 2, 2024 3:37:09 AM
+Saturday, March 2, 2024 3:41:02 AM
 
 
 Pinging 1.1.1.1 with 4 bytes of data:
+Reply from 1.1.1.1: bytes=4 time=20ms TTL=50
+Reply from 1.1.1.1: bytes=4 time=14ms TTL=50
 Reply from 1.1.1.1: bytes=4 time=19ms TTL=50
-Reply from 1.1.1.1: bytes=4 time=15ms TTL=50
+Reply from 1.1.1.1: bytes=4 time=17ms TTL=50
 Reply from 1.1.1.1: bytes=4 time=19ms TTL=50
+Reply from 1.1.1.1: bytes=4 time=16ms TTL=50
 Reply from 1.1.1.1: bytes=4 time=22ms TTL=50
+Reply from 1.1.1.1: bytes=4 time=21ms TTL=50
+Reply from 1.1.1.1: bytes=4 time=17ms TTL=50
+Reply from 1.1.1.1: bytes=4 time=15ms TTL=50
 Reply from 1.1.1.1: bytes=4 time=13ms TTL=50
 Reply from 1.1.1.1: bytes=4 time=18ms TTL=50
-Reply from 1.1.1.1: bytes=4 time=18ms TTL=50
-Reply from 1.1.1.1: bytes=4 time=22ms TTL=50
-Reply from 1.1.1.1: bytes=4 time=27ms TTL=50
-Reply from 1.1.1.1: bytes=4 time=18ms TTL=50
-Reply from 1.1.1.1: bytes=4 time=16ms TTL=50
-Reply from 1.1.1.1: bytes=4 time=21ms TTL=50
-Reply from 1.1.1.1: bytes=4 time=25ms TTL=50
-Reply from 1.1.1.1: bytes=4 time=12ms TTL=50
-Reply from 1.1.1.1: bytes=4 time=18ms TTL=50
-Reply from 1.1.1.1: bytes=4 time=17ms TTL=50
-Reply from 1.1.1.1: bytes=4 time=11ms TTL=50
-Reply from 1.1.1.1: bytes=4 time=16ms TTL=50
-Reply from 1.1.1.1: bytes=4 time=23ms TTL=50
 Reply from 1.1.1.1: bytes=4 time=15ms TTL=50
+Reply from 1.1.1.1: bytes=4 time=17ms TTL=50
+Reply from 1.1.1.1: bytes=4 time=16ms TTL=50
+Reply from 1.1.1.1: bytes=4 time=17ms TTL=50
+Reply from 1.1.1.1: bytes=4 time=16ms TTL=50
+Reply from 1.1.1.1: bytes=4 time=16ms TTL=50
+Reply from 1.1.1.1: bytes=4 time=22ms TTL=50
+Reply from 1.1.1.1: bytes=4 time=17ms TTL=50
 
 Ping statistics for 1.1.1.1:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 11ms, Maximum = 27ms, Average = 18ms
+    Minimum = 13ms, Maximum = 22ms, Average = 17ms
 
-Saturday, March 2, 2024 3:37:28 AM
+Saturday, March 2, 2024 3:41:21 AM
 
