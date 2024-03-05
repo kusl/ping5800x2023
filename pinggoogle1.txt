@@ -1,33 +1,33 @@
 
-Monday, March 4, 2024 9:08:45 PM
+Monday, March 4, 2024 9:12:38 PM
 
 
 Pinging 8.8.8.8 with 4 bytes of data:
-Reply from 8.8.8.8: bytes=4 time=52ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=48ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=51ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=59ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=57ms TTL=53
 Reply from 8.8.8.8: bytes=4 time=58ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=64ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=68ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=73ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=72ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=69ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=48ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=58ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=65ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=41ms TTL=53
 Reply from 8.8.8.8: bytes=4 time=45ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=34ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=39ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=50ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=58ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=58ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=68ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=33ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=57ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=57ms TTL=53
 Reply from 8.8.8.8: bytes=4 time=66ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=63ms TTL=53
 Reply from 8.8.8.8: bytes=4 time=64ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=40ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=38ms TTL=53
 Reply from 8.8.8.8: bytes=4 time=47ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=53ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=64ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=73ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=55ms TTL=53
 
 Ping statistics for 8.8.8.8:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 34ms, Maximum = 73ms, Average = 57ms
+    Minimum = 33ms, Maximum = 68ms, Average = 53ms
 
-Monday, March 4, 2024 9:09:04 PM
+Monday, March 4, 2024 9:12:57 PM
 
