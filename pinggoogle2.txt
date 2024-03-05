@@ -1,33 +1,33 @@
 
-Monday, March 4, 2024 8:41:53 PM
+Monday, March 4, 2024 8:45:46 PM
 
 
 Pinging 8.8.4.4 with 4 bytes of data:
-Reply from 8.8.4.4: bytes=4 time=56ms TTL=112
-Reply from 8.8.4.4: bytes=4 time=34ms TTL=112
-Reply from 8.8.4.4: bytes=4 time=34ms TTL=112
-Reply from 8.8.4.4: bytes=4 time=52ms TTL=112
-Reply from 8.8.4.4: bytes=4 time=51ms TTL=112
-Reply from 8.8.4.4: bytes=4 time=52ms TTL=112
-Reply from 8.8.4.4: bytes=4 time=26ms TTL=112
-Reply from 8.8.4.4: bytes=4 time=50ms TTL=112
-Reply from 8.8.4.4: bytes=4 time=36ms TTL=112
-Reply from 8.8.4.4: bytes=4 time=52ms TTL=112
-Reply from 8.8.4.4: bytes=4 time=46ms TTL=112
-Reply from 8.8.4.4: bytes=4 time=50ms TTL=112
 Reply from 8.8.4.4: bytes=4 time=57ms TTL=112
-Reply from 8.8.4.4: bytes=4 time=59ms TTL=112
+Reply from 8.8.4.4: bytes=4 time=53ms TTL=112
+Reply from 8.8.4.4: bytes=4 time=23ms TTL=112
+Reply from 8.8.4.4: bytes=4 time=22ms TTL=112
+Reply from 8.8.4.4: bytes=4 time=44ms TTL=112
 Reply from 8.8.4.4: bytes=4 time=49ms TTL=112
-Reply from 8.8.4.4: bytes=4 time=49ms TTL=112
-Reply from 8.8.4.4: bytes=4 time=46ms TTL=112
-Reply from 8.8.4.4: bytes=4 time=36ms TTL=112
-Reply from 8.8.4.4: bytes=4 time=46ms TTL=112
+Reply from 8.8.4.4: bytes=4 time=44ms TTL=112
+Reply from 8.8.4.4: bytes=4 time=40ms TTL=112
+Reply from 8.8.4.4: bytes=4 time=54ms TTL=112
+Reply from 8.8.4.4: bytes=4 time=27ms TTL=112
+Reply from 8.8.4.4: bytes=4 time=26ms TTL=112
+Reply from 8.8.4.4: bytes=4 time=20ms TTL=112
 Reply from 8.8.4.4: bytes=4 time=37ms TTL=112
+Reply from 8.8.4.4: bytes=4 time=54ms TTL=112
+Reply from 8.8.4.4: bytes=4 time=35ms TTL=112
+Reply from 8.8.4.4: bytes=4 time=54ms TTL=112
+Reply from 8.8.4.4: bytes=4 time=54ms TTL=112
+Reply from 8.8.4.4: bytes=4 time=68ms TTL=112
+Reply from 8.8.4.4: bytes=4 time=47ms TTL=112
+Reply from 8.8.4.4: bytes=4 time=36ms TTL=112
 
 Ping statistics for 8.8.4.4:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 26ms, Maximum = 59ms, Average = 45ms
+    Minimum = 20ms, Maximum = 68ms, Average = 42ms
 
-Monday, March 4, 2024 8:42:12 PM
+Monday, March 4, 2024 8:46:05 PM
 
