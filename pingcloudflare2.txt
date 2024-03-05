@@ -1,33 +1,33 @@
 
-Monday, March 4, 2024 10:02:47 PM
+Monday, March 4, 2024 10:06:40 PM
 
 
 Pinging 1.0.0.1 with 4 bytes of data:
-Reply from 1.0.0.1: bytes=4 time=54ms TTL=49
-Reply from 1.0.0.1: bytes=4 time=16ms TTL=49
-Reply from 1.0.0.1: bytes=4 time=27ms TTL=49
-Reply from 1.0.0.1: bytes=4 time=28ms TTL=49
-Reply from 1.0.0.1: bytes=4 time=43ms TTL=49
-Reply from 1.0.0.1: bytes=4 time=48ms TTL=49
-Reply from 1.0.0.1: bytes=4 time=39ms TTL=49
-Reply from 1.0.0.1: bytes=4 time=18ms TTL=49
+Reply from 1.0.0.1: bytes=4 time=50ms TTL=49
+Reply from 1.0.0.1: bytes=4 time=45ms TTL=49
+Reply from 1.0.0.1: bytes=4 time=37ms TTL=49
 Reply from 1.0.0.1: bytes=4 time=46ms TTL=49
-Reply from 1.0.0.1: bytes=4 time=34ms TTL=49
-Reply from 1.0.0.1: bytes=4 time=42ms TTL=49
-Reply from 1.0.0.1: bytes=4 time=47ms TTL=49
-Reply from 1.0.0.1: bytes=4 time=44ms TTL=49
-Reply from 1.0.0.1: bytes=4 time=40ms TTL=49
+Reply from 1.0.0.1: bytes=4 time=53ms TTL=49
+Reply from 1.0.0.1: bytes=4 time=23ms TTL=49
+Reply from 1.0.0.1: bytes=4 time=37ms TTL=49
+Reply from 1.0.0.1: bytes=4 time=36ms TTL=49
+Reply from 1.0.0.1: bytes=4 time=43ms TTL=49
+Reply from 1.0.0.1: bytes=4 time=51ms TTL=49
+Reply from 1.0.0.1: bytes=4 time=63ms TTL=49
+Reply from 1.0.0.1: bytes=4 time=32ms TTL=49
+Reply from 1.0.0.1: bytes=4 time=33ms TTL=49
 Reply from 1.0.0.1: bytes=4 time=62ms TTL=49
-Reply from 1.0.0.1: bytes=4 time=74ms TTL=49
+Reply from 1.0.0.1: bytes=4 time=51ms TTL=49
+Reply from 1.0.0.1: bytes=4 time=45ms TTL=49
 Reply from 1.0.0.1: bytes=4 time=59ms TTL=49
+Reply from 1.0.0.1: bytes=4 time=37ms TTL=49
 Reply from 1.0.0.1: bytes=4 time=49ms TTL=49
-Reply from 1.0.0.1: bytes=4 time=59ms TTL=49
-Reply from 1.0.0.1: bytes=4 time=56ms TTL=49
+Reply from 1.0.0.1: bytes=4 time=50ms TTL=49
 
 Ping statistics for 1.0.0.1:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 16ms, Maximum = 74ms, Average = 44ms
+    Minimum = 23ms, Maximum = 63ms, Average = 45ms
 
-Monday, March 4, 2024 10:03:06 PM
+Monday, March 4, 2024 10:06:59 PM
 
