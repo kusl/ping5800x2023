@@ -1,33 +1,33 @@
 
-Monday, March 11, 2024 8:35:06 PM
+Monday, March 11, 2024 8:38:59 PM
 
 
 Pinging 8.8.8.8 with 4 bytes of data:
-Reply from 8.8.8.8: bytes=4 time=44ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=51ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=43ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=784ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=41ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=34ms TTL=53
 Reply from 8.8.8.8: bytes=4 time=36ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=34ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=31ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=60ms TTL=53
 Reply from 8.8.8.8: bytes=4 time=37ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=50ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=37ms TTL=53
 Reply from 8.8.8.8: bytes=4 time=34ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=40ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=42ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=34ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=34ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=46ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=44ms TTL=53
 Reply from 8.8.8.8: bytes=4 time=36ms TTL=53
 Reply from 8.8.8.8: bytes=4 time=35ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=34ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=35ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=40ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=37ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=36ms TTL=53
 Reply from 8.8.8.8: bytes=4 time=36ms TTL=53
 Reply from 8.8.8.8: bytes=4 time=34ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=43ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=45ms TTL=53
-Reply from 8.8.8.8: bytes=4 time=36ms TTL=53
+Reply from 8.8.8.8: bytes=4 time=35ms TTL=53
 
 Ping statistics for 8.8.8.8:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 34ms, Maximum = 51ms, Average = 39ms
+    Minimum = 31ms, Maximum = 784ms, Average = 74ms
 
-Monday, March 11, 2024 8:35:25 PM
+Monday, March 11, 2024 8:39:18 PM
 
