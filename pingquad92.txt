@@ -1,33 +1,33 @@
 
-Tuesday, March 12, 2024 9:29:04 PM
+Tuesday, March 12, 2024 9:32:56 PM
 
 
 Pinging 149.112.112.112 with 4 bytes of data:
-Reply from 149.112.112.112: bytes=4 time=18ms TTL=51
-Reply from 149.112.112.112: bytes=4 time=20ms TTL=51
-Reply from 149.112.112.112: bytes=4 time=18ms TTL=51
-Reply from 149.112.112.112: bytes=4 time=16ms TTL=51
-Reply from 149.112.112.112: bytes=4 time=18ms TTL=51
 Reply from 149.112.112.112: bytes=4 time=25ms TTL=51
+Reply from 149.112.112.112: bytes=4 time=15ms TTL=51
+Reply from 149.112.112.112: bytes=4 time=14ms TTL=51
+Reply from 149.112.112.112: bytes=4 time=30ms TTL=51
 Reply from 149.112.112.112: bytes=4 time=17ms TTL=51
+Reply from 149.112.112.112: bytes=4 time=16ms TTL=51
 Reply from 149.112.112.112: bytes=4 time=15ms TTL=51
 Reply from 149.112.112.112: bytes=4 time=19ms TTL=51
-Reply from 149.112.112.112: bytes=4 time=14ms TTL=51
-Reply from 149.112.112.112: bytes=4 time=23ms TTL=51
-Reply from 149.112.112.112: bytes=4 time=15ms TTL=51
-Reply from 149.112.112.112: bytes=4 time=18ms TTL=51
-Reply from 149.112.112.112: bytes=4 time=15ms TTL=51
-Reply from 149.112.112.112: bytes=4 time=17ms TTL=51
-Reply from 149.112.112.112: bytes=4 time=15ms TTL=51
-Reply from 149.112.112.112: bytes=4 time=17ms TTL=51
+Reply from 149.112.112.112: bytes=4 time=16ms TTL=51
+Reply from 149.112.112.112: bytes=4 time=28ms TTL=51
 Reply from 149.112.112.112: bytes=4 time=16ms TTL=51
 Reply from 149.112.112.112: bytes=4 time=16ms TTL=51
-Reply from 149.112.112.112: bytes=4 time=18ms TTL=51
+Reply from 149.112.112.112: bytes=4 time=15ms TTL=51
+Reply from 149.112.112.112: bytes=4 time=24ms TTL=51
+Reply from 149.112.112.112: bytes=4 time=25ms TTL=51
+Reply from 149.112.112.112: bytes=4 time=17ms TTL=51
+Reply from 149.112.112.112: bytes=4 time=25ms TTL=51
+Reply from 149.112.112.112: bytes=4 time=17ms TTL=51
+Reply from 149.112.112.112: bytes=4 time=17ms TTL=51
+Reply from 149.112.112.112: bytes=4 time=17ms TTL=51
 
 Ping statistics for 149.112.112.112:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 14ms, Maximum = 25ms, Average = 17ms
+    Minimum = 14ms, Maximum = 30ms, Average = 19ms
 
-Tuesday, March 12, 2024 9:29:23 PM
+Tuesday, March 12, 2024 9:33:15 PM
 
