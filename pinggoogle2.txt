@@ -1,33 +1,33 @@
 
-Thursday, March 14, 2024 12:21:13 AM
+Thursday, March 14, 2024 12:25:06 AM
 
 
 Pinging 8.8.4.4 with 4 bytes of data:
-Reply from 8.8.4.4: bytes=4 time=68ms TTL=112
-Reply from 8.8.4.4: bytes=4 time=56ms TTL=112
-Reply from 8.8.4.4: bytes=4 time=27ms TTL=112
-Reply from 8.8.4.4: bytes=4 time=25ms TTL=112
-Reply from 8.8.4.4: bytes=4 time=38ms TTL=112
-Reply from 8.8.4.4: bytes=4 time=61ms TTL=112
-Reply from 8.8.4.4: bytes=4 time=35ms TTL=112
+Reply from 8.8.4.4: bytes=4 time=57ms TTL=112
 Reply from 8.8.4.4: bytes=4 time=57ms TTL=112
 Reply from 8.8.4.4: bytes=4 time=54ms TTL=112
-Reply from 8.8.4.4: bytes=4 time=56ms TTL=112
+Reply from 8.8.4.4: bytes=4 time=66ms TTL=112
+Reply from 8.8.4.4: bytes=4 time=59ms TTL=112
+Reply from 8.8.4.4: bytes=4 time=40ms TTL=112
+Reply from 8.8.4.4: bytes=4 time=29ms TTL=112
+Reply from 8.8.4.4: bytes=4 time=36ms TTL=112
+Reply from 8.8.4.4: bytes=4 time=52ms TTL=112
+Reply from 8.8.4.4: bytes=4 time=36ms TTL=112
 Reply from 8.8.4.4: bytes=4 time=54ms TTL=112
-Reply from 8.8.4.4: bytes=4 time=52ms TTL=112
-Reply from 8.8.4.4: bytes=4 time=52ms TTL=112
-Reply from 8.8.4.4: bytes=4 time=52ms TTL=112
-Reply from 8.8.4.4: bytes=4 time=52ms TTL=112
-Reply from 8.8.4.4: bytes=4 time=55ms TTL=112
-Reply from 8.8.4.4: bytes=4 time=27ms TTL=112
-Reply from 8.8.4.4: bytes=4 time=38ms TTL=112
-Reply from 8.8.4.4: bytes=4 time=41ms TTL=112
+Reply from 8.8.4.4: bytes=4 time=62ms TTL=112
+Reply from 8.8.4.4: bytes=4 time=59ms TTL=112
+Reply from 8.8.4.4: bytes=4 time=40ms TTL=112
+Reply from 8.8.4.4: bytes=4 time=44ms TTL=112
+Reply from 8.8.4.4: bytes=4 time=60ms TTL=112
+Reply from 8.8.4.4: bytes=4 time=62ms TTL=112
+Reply from 8.8.4.4: bytes=4 time=51ms TTL=112
+Reply from 8.8.4.4: bytes=4 time=31ms TTL=112
 Reply from 8.8.4.4: bytes=4 time=42ms TTL=112
 
 Ping statistics for 8.8.4.4:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 25ms, Maximum = 68ms, Average = 47ms
+    Minimum = 29ms, Maximum = 66ms, Average = 49ms
 
-Thursday, March 14, 2024 12:21:33 AM
+Thursday, March 14, 2024 12:25:25 AM
 
