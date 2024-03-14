@@ -1,33 +1,33 @@
 
-Wednesday, March 13, 2024 9:02:01 PM
+Wednesday, March 13, 2024 9:05:54 PM
 
 
 Pinging 1.1.1.1 with 4 bytes of data:
-Reply from 1.1.1.1: bytes=4 time=51ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=43ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=41ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=39ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=28ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=42ms TTL=49
 Reply from 1.1.1.1: bytes=4 time=46ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=50ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=52ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=23ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=20ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=35ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=39ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=53ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=44ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=40ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=46ms TTL=49
 Reply from 1.1.1.1: bytes=4 time=39ms TTL=49
 Reply from 1.1.1.1: bytes=4 time=48ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=64ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=27ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=32ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=44ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=47ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=57ms TTL=49
-Reply from 1.1.1.1: bytes=4 time=53ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=46ms TTL=49
 Reply from 1.1.1.1: bytes=4 time=52ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=18ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=37ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=40ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=49ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=51ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=58ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=37ms TTL=49
+Reply from 1.1.1.1: bytes=4 time=56ms TTL=49
 
 Ping statistics for 1.1.1.1:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 20ms, Maximum = 64ms, Average = 43ms
+    Minimum = 18ms, Maximum = 58ms, Average = 43ms
 
-Wednesday, March 13, 2024 9:02:20 PM
+Wednesday, March 13, 2024 9:06:13 PM
 
