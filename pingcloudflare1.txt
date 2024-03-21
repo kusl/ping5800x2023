@@ -1,33 +1,33 @@
 
-Thursday, March 21, 2024 5:23:54 PM
+Thursday, March 21, 2024 5:27:48 PM
 
 
 Pinging 1.1.1.1 with 4 bytes of data:
-Reply from 1.1.1.1: bytes=4 time=44ms TTL=50
-Reply from 1.1.1.1: bytes=4 time=32ms TTL=50
-Reply from 1.1.1.1: bytes=4 time=38ms TTL=50
-Reply from 1.1.1.1: bytes=4 time=44ms TTL=50
-Reply from 1.1.1.1: bytes=4 time=45ms TTL=50
-Reply from 1.1.1.1: bytes=4 time=32ms TTL=50
-Reply from 1.1.1.1: bytes=4 time=42ms TTL=50
-Reply from 1.1.1.1: bytes=4 time=14ms TTL=50
-Reply from 1.1.1.1: bytes=4 time=77ms TTL=50
-Reply from 1.1.1.1: bytes=4 time=32ms TTL=50
-Reply from 1.1.1.1: bytes=4 time=48ms TTL=50
-Reply from 1.1.1.1: bytes=4 time=48ms TTL=50
-Reply from 1.1.1.1: bytes=4 time=22ms TTL=50
+Reply from 1.1.1.1: bytes=4 time=87ms TTL=50
+Reply from 1.1.1.1: bytes=4 time=20ms TTL=50
+Reply from 1.1.1.1: bytes=4 time=174ms TTL=50
+Reply from 1.1.1.1: bytes=4 time=228ms TTL=50
+Reply from 1.1.1.1: bytes=4 time=114ms TTL=50
+Reply from 1.1.1.1: bytes=4 time=109ms TTL=50
+Reply from 1.1.1.1: bytes=4 time=169ms TTL=50
 Reply from 1.1.1.1: bytes=4 time=34ms TTL=50
-Reply from 1.1.1.1: bytes=4 time=35ms TTL=50
-Reply from 1.1.1.1: bytes=4 time=52ms TTL=50
-Reply from 1.1.1.1: bytes=4 time=41ms TTL=50
-Reply from 1.1.1.1: bytes=4 time=31ms TTL=50
-Reply from 1.1.1.1: bytes=4 time=19ms TTL=50
-Reply from 1.1.1.1: bytes=4 time=37ms TTL=50
+Reply from 1.1.1.1: bytes=4 time=107ms TTL=50
+Reply from 1.1.1.1: bytes=4 time=161ms TTL=50
+Reply from 1.1.1.1: bytes=4 time=133ms TTL=50
+Reply from 1.1.1.1: bytes=4 time=63ms TTL=50
+Reply from 1.1.1.1: bytes=4 time=33ms TTL=50
+Reply from 1.1.1.1: bytes=4 time=30ms TTL=50
+Reply from 1.1.1.1: bytes=4 time=42ms TTL=50
+Reply from 1.1.1.1: bytes=4 time=45ms TTL=50
+Reply from 1.1.1.1: bytes=4 time=22ms TTL=50
+Reply from 1.1.1.1: bytes=4 time=51ms TTL=50
+Reply from 1.1.1.1: bytes=4 time=72ms TTL=50
+Reply from 1.1.1.1: bytes=4 time=20ms TTL=50
 
 Ping statistics for 1.1.1.1:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 14ms, Maximum = 77ms, Average = 38ms
+    Minimum = 20ms, Maximum = 228ms, Average = 85ms
 
-Thursday, March 21, 2024 5:24:14 PM
+Thursday, March 21, 2024 5:28:07 PM
 
