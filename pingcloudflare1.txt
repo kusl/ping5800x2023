@@ -1,33 +1,33 @@
 
-Monday, April 8, 2024 10:48:17 AM
+Monday, April 8, 2024 10:54:00 AM
 
 
 Pinging 1.1.1.1 with 4 bytes of data:
-Reply from 1.1.1.1: bytes=4 time=37ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=34ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=99ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=305ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=81ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=87ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=62ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=30ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=202ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=208ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=31ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=646ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=142ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=45ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=85ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=77ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=157ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=54ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=37ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=129ms TTL=59
+Request timed out.
+Request timed out.
+Reply from 1.1.1.1: bytes=4 time=1985ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=280ms TTL=59
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
 
 Ping statistics for 1.1.1.1:
-    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+    Packets: Sent = 20, Received = 2, Lost = 18 (90% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 30ms, Maximum = 646ms, Average = 127ms
+    Minimum = 280ms, Maximum = 1985ms, Average = 1132ms
 
-Monday, April 8, 2024 10:48:36 AM
+Monday, April 8, 2024 10:55:16 AM
 
