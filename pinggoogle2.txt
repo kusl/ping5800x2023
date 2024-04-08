@@ -1,31 +1,33 @@
 
-Monday, April 8, 2024 6:18:27 AM
+Monday, April 8, 2024 6:37:22 AM
 
 
 Pinging 8.8.4.4 with 4 bytes of data:
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
 Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
+Reply from 8.8.4.4: bytes=4 time=409ms TTL=119
+Reply from 8.8.4.4: bytes=4 time=83ms TTL=119
+Reply from 8.8.4.4: bytes=4 time=39ms TTL=119
+Reply from 8.8.4.4: bytes=4 time=274ms TTL=119
+Reply from 8.8.4.4: bytes=4 time=162ms TTL=119
+Reply from 8.8.4.4: bytes=4 time=74ms TTL=119
+Reply from 8.8.4.4: bytes=4 time=362ms TTL=119
+Reply from 8.8.4.4: bytes=4 time=100ms TTL=119
+Reply from 8.8.4.4: bytes=4 time=514ms TTL=119
+Reply from 8.8.4.4: bytes=4 time=47ms TTL=119
+Reply from 8.8.4.4: bytes=4 time=1167ms TTL=119
+Reply from 8.8.4.4: bytes=4 time=229ms TTL=119
+Reply from 8.8.4.4: bytes=4 time=42ms TTL=119
+Reply from 8.8.4.4: bytes=4 time=144ms TTL=119
+Reply from 8.8.4.4: bytes=4 time=510ms TTL=119
+Reply from 8.8.4.4: bytes=4 time=171ms TTL=119
 
 Ping statistics for 8.8.4.4:
-    Packets: Sent = 20, Received = 0, Lost = 20 (100% loss),
+    Packets: Sent = 20, Received = 16, Lost = 4 (20% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 39ms, Maximum = 1167ms, Average = 270ms
 
-Monday, April 8, 2024 6:19:50 AM
+Monday, April 8, 2024 6:37:58 AM
 

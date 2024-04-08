@@ -1,5 +1,5 @@
 
-Monday, April 8, 2024 6:16:39 AM
+Monday, April 8, 2024 6:34:04 AM
 
 
 Pinging 1.0.0.1 with 4 bytes of data:
@@ -11,21 +11,21 @@ Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
-General failure.
-General failure.
-General failure.
-Reply from 192.168.0.100: Destination host unreachable.
 Request timed out.
-Reply from 192.168.0.100: Destination host unreachable.
-Reply from 192.168.0.100: Destination host unreachable.
-Reply from 192.168.0.100: Destination host unreachable.
-Reply from 192.168.0.100: Destination host unreachable.
-Reply from 192.168.0.100: Destination host unreachable.
-Reply from 192.168.0.100: Destination host unreachable.
-Reply from 192.168.0.100: Destination host unreachable.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
 
 Ping statistics for 1.0.0.1:
-    Packets: Sent = 20, Received = 8, Lost = 12 (60% loss),
+    Packets: Sent = 20, Received = 0, Lost = 20 (100% loss),
 
-Monday, April 8, 2024 6:17:51 AM
+Monday, April 8, 2024 6:35:43 AM
 
