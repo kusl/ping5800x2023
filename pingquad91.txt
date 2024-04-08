@@ -1,33 +1,33 @@
 
-Monday, April 8, 2024 8:05:12 AM
+Monday, April 8, 2024 8:10:33 AM
 
 
 Pinging 9.9.9.9 with 4 bytes of data:
-Reply from 9.9.9.9: bytes=4 time=173ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=294ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=504ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=142ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=125ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=58ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=112ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=140ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=112ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=251ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=41ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=98ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=46ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=137ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=196ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=60ms TTL=59
 Reply from 9.9.9.9: bytes=4 time=63ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=246ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=176ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=201ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=116ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=73ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=62ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=40ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=22ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=230ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=154ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=389ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=31ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=59ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=22ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=142ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=254ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=25ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=73ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=399ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=102ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=16ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=193ms TTL=59
 
 Ping statistics for 9.9.9.9:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 41ms, Maximum = 504ms, Average = 161ms
+    Minimum = 16ms, Maximum = 399ms, Average = 120ms
 
-Monday, April 8, 2024 8:05:31 AM
+Monday, April 8, 2024 8:10:52 AM
 
