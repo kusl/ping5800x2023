@@ -1,33 +1,33 @@
 
-Monday, April 8, 2024 9:04:31 AM
+Monday, April 8, 2024 9:10:05 AM
 
 
 Pinging 8.8.8.8 with 4 bytes of data:
+Reply from 8.8.8.8: bytes=4 time=25ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=69ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=26ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=164ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=1075ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=67ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=475ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=29ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=13ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=25ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=244ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=87ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=171ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=155ms TTL=60
 Reply from 8.8.8.8: bytes=4 time=19ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=12ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=101ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=66ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=82ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=82ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=59ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=19ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=53ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=14ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=161ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=28ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=274ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=55ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=39ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=46ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=92ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=79ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=41ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=261ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=264ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=115ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=23ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=164ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=235ms TTL=60
 
 Ping statistics for 8.8.8.8:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 12ms, Maximum = 274ms, Average = 79ms
+    Minimum = 13ms, Maximum = 1075ms, Average = 172ms
 
-Monday, April 8, 2024 9:04:50 AM
+Monday, April 8, 2024 9:10:25 AM
 
