@@ -1,33 +1,33 @@
 
-Monday, April 8, 2024 9:54:02 AM
+Monday, April 8, 2024 9:59:45 AM
 
 
 Pinging 9.9.9.9 with 4 bytes of data:
-Reply from 9.9.9.9: bytes=4 time=130ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=121ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=61ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=166ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=398ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=33ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=354ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=29ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=22ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=35ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=144ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=432ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=71ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=271ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=436ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=344ms TTL=59
 Reply from 9.9.9.9: bytes=4 time=68ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=93ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=264ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=84ms TTL=59
-Request timed out.
-Reply from 9.9.9.9: bytes=4 time=1128ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=90ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=372ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=61ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=2366ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=561ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=24ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=527ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=75ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=254ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=47ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=73ms TTL=59
 Reply from 9.9.9.9: bytes=4 time=19ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=186ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=922ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=71ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=22ms TTL=59
 
 Ping statistics for 9.9.9.9:
-    Packets: Sent = 20, Received = 19, Lost = 1 (5% loss),
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 19ms, Maximum = 2366ms, Average = 345ms
+    Minimum = 19ms, Maximum = 922ms, Average = 194ms
 
-Monday, April 8, 2024 9:54:26 AM
+Monday, April 8, 2024 10:00:04 AM
 
