@@ -1,33 +1,33 @@
 
-Monday, April 8, 2024 10:17:07 AM
+Monday, April 8, 2024 10:22:29 AM
 
 
 Pinging 208.67.220.220 with 4 bytes of data:
-Reply from 208.67.220.220: bytes=4 time=98ms TTL=58
-Reply from 208.67.220.220: bytes=4 time=118ms TTL=58
-Reply from 208.67.220.220: bytes=4 time=70ms TTL=58
-Reply from 208.67.220.220: bytes=4 time=184ms TTL=58
-Reply from 208.67.220.220: bytes=4 time=38ms TTL=58
-Reply from 208.67.220.220: bytes=4 time=304ms TTL=58
-Reply from 208.67.220.220: bytes=4 time=35ms TTL=58
-Reply from 208.67.220.220: bytes=4 time=53ms TTL=58
+Reply from 208.67.220.220: bytes=4 time=62ms TTL=58
+Reply from 208.67.220.220: bytes=4 time=1519ms TTL=58
+Reply from 208.67.220.220: bytes=4 time=508ms TTL=58
+Reply from 208.67.220.220: bytes=4 time=1246ms TTL=58
 Reply from 208.67.220.220: bytes=4 time=50ms TTL=58
-Reply from 208.67.220.220: bytes=4 time=38ms TTL=58
-Reply from 208.67.220.220: bytes=4 time=198ms TTL=58
-Reply from 208.67.220.220: bytes=4 time=88ms TTL=58
-Reply from 208.67.220.220: bytes=4 time=55ms TTL=58
-Reply from 208.67.220.220: bytes=4 time=123ms TTL=58
-Reply from 208.67.220.220: bytes=4 time=37ms TTL=58
-Reply from 208.67.220.220: bytes=4 time=74ms TTL=58
-Reply from 208.67.220.220: bytes=4 time=91ms TTL=58
-Reply from 208.67.220.220: bytes=4 time=72ms TTL=58
-Request timed out.
-Reply from 208.67.220.220: bytes=4 time=85ms TTL=58
+Reply from 208.67.220.220: bytes=4 time=98ms TTL=58
+Reply from 208.67.220.220: bytes=4 time=175ms TTL=58
+Reply from 208.67.220.220: bytes=4 time=302ms TTL=58
+Reply from 208.67.220.220: bytes=4 time=42ms TTL=58
+Reply from 208.67.220.220: bytes=4 time=179ms TTL=58
+Reply from 208.67.220.220: bytes=4 time=48ms TTL=58
+Reply from 208.67.220.220: bytes=4 time=61ms TTL=58
+Reply from 208.67.220.220: bytes=4 time=36ms TTL=58
+Reply from 208.67.220.220: bytes=4 time=590ms TTL=58
+Reply from 208.67.220.220: bytes=4 time=397ms TTL=58
+Reply from 208.67.220.220: bytes=4 time=70ms TTL=58
+Reply from 208.67.220.220: bytes=4 time=56ms TTL=58
+Reply from 208.67.220.220: bytes=4 time=164ms TTL=58
+Reply from 208.67.220.220: bytes=4 time=170ms TTL=58
+Reply from 208.67.220.220: bytes=4 time=360ms TTL=58
 
 Ping statistics for 208.67.220.220:
-    Packets: Sent = 20, Received = 19, Lost = 1 (5% loss),
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 35ms, Maximum = 304ms, Average = 95ms
+    Minimum = 36ms, Maximum = 1519ms, Average = 306ms
 
-Monday, April 8, 2024 10:17:30 AM
+Monday, April 8, 2024 10:22:49 AM
 
