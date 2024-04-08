@@ -1,33 +1,33 @@
 
-Monday, April 8, 2024 7:25:19 AM
+Monday, April 8, 2024 7:30:44 AM
 
 
 Pinging 1.1.1.1 with 4 bytes of data:
-Request timed out.
-Reply from 1.1.1.1: bytes=4 time=50ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=34ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=155ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=20ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=147ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=262ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=145ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=44ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=53ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=70ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=163ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=47ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=375ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=184ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=49ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=101ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=111ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=221ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=32ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=140ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=138ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=193ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=283ms TTL=59
 Reply from 1.1.1.1: bytes=4 time=89ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=71ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=633ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=383ms TTL=59
 Reply from 1.1.1.1: bytes=4 time=67ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=275ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=53ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=807ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=28ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=586ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=404ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=118ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=46ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=192ms TTL=59
 
 Ping statistics for 1.1.1.1:
-    Packets: Sent = 20, Received = 19, Lost = 1 (5% loss),
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 20ms, Maximum = 633ms, Average = 157ms
+    Minimum = 28ms, Maximum = 807ms, Average = 196ms
 
-Monday, April 8, 2024 7:25:42 AM
+Monday, April 8, 2024 7:31:03 AM
 
