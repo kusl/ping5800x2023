@@ -1,33 +1,33 @@
 
-Monday, April 8, 2024 7:16:58 AM
+Monday, April 8, 2024 7:22:36 AM
 
 
 Pinging 8.26.56.26 with 4 bytes of data:
-Reply from 8.26.56.26: bytes=4 time=37ms TTL=55
-Reply from 8.26.56.26: bytes=4 time=34ms TTL=55
+Reply from 8.26.56.26: bytes=4 time=65ms TTL=55
 Reply from 8.26.56.26: bytes=4 time=82ms TTL=55
-Reply from 8.26.56.26: bytes=4 time=380ms TTL=55
-Reply from 8.26.56.26: bytes=4 time=127ms TTL=55
-Reply from 8.26.56.26: bytes=4 time=313ms TTL=55
-Reply from 8.26.56.26: bytes=4 time=217ms TTL=55
-Reply from 8.26.56.26: bytes=4 time=45ms TTL=55
-Reply from 8.26.56.26: bytes=4 time=454ms TTL=55
-Reply from 8.26.56.26: bytes=4 time=57ms TTL=55
-Reply from 8.26.56.26: bytes=4 time=370ms TTL=55
-Reply from 8.26.56.26: bytes=4 time=151ms TTL=55
-Reply from 8.26.56.26: bytes=4 time=50ms TTL=55
-Reply from 8.26.56.26: bytes=4 time=463ms TTL=55
-Reply from 8.26.56.26: bytes=4 time=567ms TTL=55
-Reply from 8.26.56.26: bytes=4 time=102ms TTL=55
-Reply from 8.26.56.26: bytes=4 time=279ms TTL=55
-Reply from 8.26.56.26: bytes=4 time=43ms TTL=55
+Reply from 8.26.56.26: bytes=4 time=196ms TTL=55
+Reply from 8.26.56.26: bytes=4 time=411ms TTL=55
+Reply from 8.26.56.26: bytes=4 time=195ms TTL=55
+Reply from 8.26.56.26: bytes=4 time=114ms TTL=55
 Reply from 8.26.56.26: bytes=4 time=48ms TTL=55
-Reply from 8.26.56.26: bytes=4 time=66ms TTL=55
+Reply from 8.26.56.26: bytes=4 time=52ms TTL=55
+Request timed out.
+Reply from 8.26.56.26: bytes=4 time=110ms TTL=55
+Reply from 8.26.56.26: bytes=4 time=77ms TTL=55
+Reply from 8.26.56.26: bytes=4 time=67ms TTL=55
+Reply from 8.26.56.26: bytes=4 time=34ms TTL=55
+Reply from 8.26.56.26: bytes=4 time=243ms TTL=55
+Reply from 8.26.56.26: bytes=4 time=34ms TTL=55
+Reply from 8.26.56.26: bytes=4 time=94ms TTL=55
+Reply from 8.26.56.26: bytes=4 time=293ms TTL=55
+Reply from 8.26.56.26: bytes=4 time=348ms TTL=55
+Reply from 8.26.56.26: bytes=4 time=137ms TTL=55
+Reply from 8.26.56.26: bytes=4 time=126ms TTL=55
 
 Ping statistics for 8.26.56.26:
-    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+    Packets: Sent = 20, Received = 19, Lost = 1 (5% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 34ms, Maximum = 567ms, Average = 194ms
+    Minimum = 34ms, Maximum = 411ms, Average = 143ms
 
-Monday, April 8, 2024 7:17:17 AM
+Monday, April 8, 2024 7:22:59 AM
 
