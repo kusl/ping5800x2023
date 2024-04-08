@@ -1,33 +1,33 @@
 
-Monday, April 8, 2024 8:59:41 AM
+Monday, April 8, 2024 9:05:13 AM
 
 
 Pinging 9.9.9.9 with 4 bytes of data:
-Reply from 9.9.9.9: bytes=4 time=37ms TTL=59
-Request timed out.
-Reply from 9.9.9.9: bytes=4 time=249ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=36ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=170ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=33ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=19ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=64ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=52ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=42ms TTL=59
-Request timed out.
-Reply from 9.9.9.9: bytes=4 time=85ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=272ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=107ms TTL=59
 Reply from 9.9.9.9: bytes=4 time=27ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=271ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=238ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=25ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=25ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=49ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=136ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=208ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=51ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=311ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=146ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=139ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=60ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=317ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=133ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=40ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=29ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=43ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=318ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=31ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=169ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=163ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=227ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=28ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=18ms TTL=59
 
 Ping statistics for 9.9.9.9:
-    Packets: Sent = 20, Received = 18, Lost = 2 (10% loss),
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 19ms, Maximum = 272ms, Average = 100ms
+    Minimum = 18ms, Maximum = 318ms, Average = 129ms
 
-Monday, April 8, 2024 9:00:08 AM
+Monday, April 8, 2024 9:05:32 AM
 
