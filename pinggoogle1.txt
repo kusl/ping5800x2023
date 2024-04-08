@@ -1,33 +1,33 @@
 
-Monday, April 8, 2024 9:15:42 AM
+Monday, April 8, 2024 9:21:07 AM
 
 
 Pinging 8.8.8.8 with 4 bytes of data:
-Reply from 8.8.8.8: bytes=4 time=760ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=55ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=22ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=52ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=82ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=43ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=26ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=76ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=41ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=141ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=13ms TTL=60
 Reply from 8.8.8.8: bytes=4 time=24ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=331ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=50ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=108ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=109ms TTL=60
-Request timed out.
-Reply from 8.8.8.8: bytes=4 time=324ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=602ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=73ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=57ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=83ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=17ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=163ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=165ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=26ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=22ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=23ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=58ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=334ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=23ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=155ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=250ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=136ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=249ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=26ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=32ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=265ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=41ms TTL=60
 
 Ping statistics for 8.8.8.8:
-    Packets: Sent = 20, Received = 19, Lost = 1 (5% loss),
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 22ms, Maximum = 760ms, Average = 153ms
+    Minimum = 13ms, Maximum = 334ms, Average = 108ms
 
-Monday, April 8, 2024 9:16:05 AM
+Monday, April 8, 2024 9:21:26 AM
 
