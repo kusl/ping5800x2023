@@ -1,33 +1,33 @@
 
-Tuesday, April 9, 2024 5:37:04 PM
+Tuesday, April 9, 2024 5:42:15 PM
 
 
 Pinging 8.8.8.8 with 4 bytes of data:
 Reply from 8.8.8.8: bytes=4 time=15ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=23ms TTL=60
 Reply from 8.8.8.8: bytes=4 time=15ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=18ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=55ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=16ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=37ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=23ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=35ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=15ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=14ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=17ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=15ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=14ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=37ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=17ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=14ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=15ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=23ms TTL=60
 Reply from 8.8.8.8: bytes=4 time=17ms TTL=60
 Reply from 8.8.8.8: bytes=4 time=16ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=19ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=36ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=28ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=15ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=56ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=17ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=15ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=90ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=62ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=15ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=14ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=15ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=24ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=14ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=18ms TTL=60
 
 Ping statistics for 8.8.8.8:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 14ms, Maximum = 90ms, Average = 26ms
+    Minimum = 14ms, Maximum = 55ms, Average = 21ms
 
-Tuesday, April 9, 2024 5:37:23 PM
+Tuesday, April 9, 2024 5:42:35 PM
 
