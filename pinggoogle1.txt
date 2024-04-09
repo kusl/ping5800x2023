@@ -1,33 +1,33 @@
 
-Tuesday, April 9, 2024 5:10:58 PM
+Tuesday, April 9, 2024 5:16:10 PM
 
 
 Pinging 8.8.8.8 with 4 bytes of data:
 Reply from 8.8.8.8: bytes=4 time=14ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=95ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=119ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=239ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=15ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=19ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=44ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=41ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=132ms TTL=60
 Reply from 8.8.8.8: bytes=4 time=197ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=177ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=14ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=96ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=81ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=85ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=101ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=50ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=68ms TTL=60
 Reply from 8.8.8.8: bytes=4 time=16ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=57ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=59ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=24ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=227ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=17ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=15ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=38ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=40ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=30ms TTL=60
 Reply from 8.8.8.8: bytes=4 time=18ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=123ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=48ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=15ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=137ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=16ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=22ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=15ms TTL=60
 
 Ping statistics for 8.8.8.8:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 14ms, Maximum = 239ms, Average = 75ms
+    Minimum = 14ms, Maximum = 197ms, Average = 62ms
 
-Tuesday, April 9, 2024 5:11:17 PM
+Tuesday, April 9, 2024 5:16:29 PM
 
