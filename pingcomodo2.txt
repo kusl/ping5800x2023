@@ -1,33 +1,33 @@
 
-Tuesday, April 9, 2024 4:26:22 PM
+Tuesday, April 9, 2024 4:31:34 PM
 
 
 Pinging 8.20.247.20 with 4 bytes of data:
-Reply from 8.20.247.20: bytes=4 time=86ms TTL=55
-Reply from 8.20.247.20: bytes=4 time=89ms TTL=55
-Reply from 8.20.247.20: bytes=4 time=59ms TTL=55
-Reply from 8.20.247.20: bytes=4 time=36ms TTL=55
-Reply from 8.20.247.20: bytes=4 time=36ms TTL=55
-Reply from 8.20.247.20: bytes=4 time=51ms TTL=55
-Reply from 8.20.247.20: bytes=4 time=48ms TTL=55
-Reply from 8.20.247.20: bytes=4 time=35ms TTL=55
+Reply from 8.20.247.20: bytes=4 time=91ms TTL=55
+Reply from 8.20.247.20: bytes=4 time=96ms TTL=55
+Reply from 8.20.247.20: bytes=4 time=49ms TTL=55
+Reply from 8.20.247.20: bytes=4 time=45ms TTL=55
+Reply from 8.20.247.20: bytes=4 time=111ms TTL=55
+Reply from 8.20.247.20: bytes=4 time=113ms TTL=55
 Reply from 8.20.247.20: bytes=4 time=53ms TTL=55
-Reply from 8.20.247.20: bytes=4 time=34ms TTL=55
-Reply from 8.20.247.20: bytes=4 time=39ms TTL=55
-Reply from 8.20.247.20: bytes=4 time=39ms TTL=55
-Reply from 8.20.247.20: bytes=4 time=64ms TTL=55
-Reply from 8.20.247.20: bytes=4 time=35ms TTL=55
-Reply from 8.20.247.20: bytes=4 time=66ms TTL=55
+Reply from 8.20.247.20: bytes=4 time=62ms TTL=55
+Reply from 8.20.247.20: bytes=4 time=44ms TTL=55
+Reply from 8.20.247.20: bytes=4 time=63ms TTL=55
+Reply from 8.20.247.20: bytes=4 time=79ms TTL=55
 Reply from 8.20.247.20: bytes=4 time=48ms TTL=55
-Reply from 8.20.247.20: bytes=4 time=35ms TTL=55
-Reply from 8.20.247.20: bytes=4 time=50ms TTL=55
-Reply from 8.20.247.20: bytes=4 time=46ms TTL=55
-Reply from 8.20.247.20: bytes=4 time=177ms TTL=55
+Reply from 8.20.247.20: bytes=4 time=142ms TTL=55
+Reply from 8.20.247.20: bytes=4 time=102ms TTL=55
+Reply from 8.20.247.20: bytes=4 time=76ms TTL=55
+Reply from 8.20.247.20: bytes=4 time=68ms TTL=55
+Reply from 8.20.247.20: bytes=4 time=72ms TTL=55
+Reply from 8.20.247.20: bytes=4 time=76ms TTL=55
+Reply from 8.20.247.20: bytes=4 time=53ms TTL=55
+Reply from 8.20.247.20: bytes=4 time=124ms TTL=55
 
 Ping statistics for 8.20.247.20:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 34ms, Maximum = 177ms, Average = 56ms
+    Minimum = 44ms, Maximum = 142ms, Average = 78ms
 
-Tuesday, April 9, 2024 4:26:42 PM
+Tuesday, April 9, 2024 4:31:54 PM
 
