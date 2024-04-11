@@ -1,33 +1,33 @@
 
-Wednesday, April 10, 2024 4:00:10 PM
+Thursday, April 11, 2024 10:45:36 AM
 
 
 Pinging 1.0.0.1 with 4 bytes of data:
-General failure.
-General failure.
-General failure.
-General failure.
-General failure.
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-Request timed out.
+Reply from 1.0.0.1: bytes=4 time=15ms TTL=59
+Reply from 1.0.0.1: bytes=4 time=17ms TTL=59
 Reply from 1.0.0.1: bytes=4 time=11ms TTL=59
 Reply from 1.0.0.1: bytes=4 time=11ms TTL=59
+Reply from 1.0.0.1: bytes=4 time=16ms TTL=59
+Reply from 1.0.0.1: bytes=4 time=19ms TTL=59
+Reply from 1.0.0.1: bytes=4 time=11ms TTL=59
+Reply from 1.0.0.1: bytes=4 time=12ms TTL=59
+Reply from 1.0.0.1: bytes=4 time=11ms TTL=59
+Reply from 1.0.0.1: bytes=4 time=33ms TTL=59
+Reply from 1.0.0.1: bytes=4 time=17ms TTL=59
+Reply from 1.0.0.1: bytes=4 time=19ms TTL=59
 Reply from 1.0.0.1: bytes=4 time=13ms TTL=59
+Reply from 1.0.0.1: bytes=4 time=14ms TTL=59
+Reply from 1.0.0.1: bytes=4 time=12ms TTL=59
+Reply from 1.0.0.1: bytes=4 time=33ms TTL=59
+Reply from 1.0.0.1: bytes=4 time=99ms TTL=59
+Reply from 1.0.0.1: bytes=4 time=39ms TTL=59
+Reply from 1.0.0.1: bytes=4 time=20ms TTL=59
+Reply from 1.0.0.1: bytes=4 time=18ms TTL=59
 
 Ping statistics for 1.0.0.1:
-    Packets: Sent = 20, Received = 3, Lost = 17 (85% loss),
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 11ms, Maximum = 13ms, Average = 11ms
+    Minimum = 11ms, Maximum = 99ms, Average = 22ms
 
-Thursday, April 11, 2024 10:40:39 AM
+Thursday, April 11, 2024 10:45:55 AM
 
