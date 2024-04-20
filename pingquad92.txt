@@ -1,33 +1,33 @@
 
-Saturday, April 20, 2024 4:44:14 PM
+Saturday, April 20, 2024 4:49:29 PM
 
 
 Pinging 149.112.112.112 with 4 bytes of data:
 Reply from 149.112.112.112: bytes=4 time=18ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=14ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=587ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=25ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=11ms TTL=59
 Reply from 149.112.112.112: bytes=4 time=18ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=20ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=15ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=15ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=22ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=63ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=13ms TTL=59
 Reply from 149.112.112.112: bytes=4 time=20ms TTL=59
 Reply from 149.112.112.112: bytes=4 time=17ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=14ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=29ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=38ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=55ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=19ms TTL=59
 Reply from 149.112.112.112: bytes=4 time=12ms TTL=59
 Reply from 149.112.112.112: bytes=4 time=19ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=17ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=23ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=16ms TTL=59
 Reply from 149.112.112.112: bytes=4 time=13ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=20ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=16ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=114ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=15ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=16ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=15ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=22ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=18ms TTL=59
 
 Ping statistics for 149.112.112.112:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 12ms, Maximum = 587ms, Average = 51ms
+    Minimum = 11ms, Maximum = 114ms, Average = 21ms
 
-Saturday, April 20, 2024 4:44:33 PM
+Saturday, April 20, 2024 4:49:48 PM
 
