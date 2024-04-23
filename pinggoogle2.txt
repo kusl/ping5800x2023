@@ -1,33 +1,33 @@
 
-Monday, April 22, 2024 8:18:57 PM
+Monday, April 22, 2024 8:24:09 PM
 
 
 Pinging 8.8.4.4 with 4 bytes of data:
-Reply from 8.8.4.4: bytes=4 time=40ms TTL=60
-Reply from 8.8.4.4: bytes=4 time=68ms TTL=60
-Reply from 8.8.4.4: bytes=4 time=27ms TTL=60
-Reply from 8.8.4.4: bytes=4 time=29ms TTL=60
-Reply from 8.8.4.4: bytes=4 time=80ms TTL=60
-Reply from 8.8.4.4: bytes=4 time=53ms TTL=60
-Reply from 8.8.4.4: bytes=4 time=104ms TTL=60
-Reply from 8.8.4.4: bytes=4 time=128ms TTL=60
-Reply from 8.8.4.4: bytes=4 time=86ms TTL=60
+Reply from 8.8.4.4: bytes=4 time=12ms TTL=60
+Reply from 8.8.4.4: bytes=4 time=19ms TTL=60
+Reply from 8.8.4.4: bytes=4 time=87ms TTL=60
+Reply from 8.8.4.4: bytes=4 time=19ms TTL=60
+Reply from 8.8.4.4: bytes=4 time=15ms TTL=60
+Reply from 8.8.4.4: bytes=4 time=67ms TTL=60
+Reply from 8.8.4.4: bytes=4 time=28ms TTL=60
+Reply from 8.8.4.4: bytes=4 time=215ms TTL=60
+Reply from 8.8.4.4: bytes=4 time=20ms TTL=60
+Reply from 8.8.4.4: bytes=4 time=61ms TTL=60
+Reply from 8.8.4.4: bytes=4 time=110ms TTL=60
+Reply from 8.8.4.4: bytes=4 time=229ms TTL=60
 Reply from 8.8.4.4: bytes=4 time=90ms TTL=60
-Reply from 8.8.4.4: bytes=4 time=137ms TTL=60
-Reply from 8.8.4.4: bytes=4 time=85ms TTL=60
-Reply from 8.8.4.4: bytes=4 time=86ms TTL=60
-Reply from 8.8.4.4: bytes=4 time=160ms TTL=60
-Reply from 8.8.4.4: bytes=4 time=66ms TTL=60
-Reply from 8.8.4.4: bytes=4 time=98ms TTL=60
-Reply from 8.8.4.4: bytes=4 time=112ms TTL=60
-Reply from 8.8.4.4: bytes=4 time=130ms TTL=60
-Reply from 8.8.4.4: bytes=4 time=115ms TTL=60
-Reply from 8.8.4.4: bytes=4 time=278ms TTL=60
+Reply from 8.8.4.4: bytes=4 time=107ms TTL=60
+Reply from 8.8.4.4: bytes=4 time=31ms TTL=60
+Reply from 8.8.4.4: bytes=4 time=178ms TTL=60
+Reply from 8.8.4.4: bytes=4 time=119ms TTL=60
+Reply from 8.8.4.4: bytes=4 time=60ms TTL=60
+Reply from 8.8.4.4: bytes=4 time=84ms TTL=60
+Reply from 8.8.4.4: bytes=4 time=141ms TTL=60
 
 Ping statistics for 8.8.4.4:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 27ms, Maximum = 278ms, Average = 98ms
+    Minimum = 12ms, Maximum = 229ms, Average = 84ms
 
-Monday, April 22, 2024 8:19:16 PM
+Monday, April 22, 2024 8:24:28 PM
 
