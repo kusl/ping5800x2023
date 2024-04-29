@@ -1,33 +1,33 @@
 
-Monday, April 29, 2024 8:27:11 AM
+Monday, April 29, 2024 8:33:54 AM
 
 
 Pinging 8.20.247.20 with 4 bytes of data:
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Reply from 8.20.247.20: bytes=4 time=240ms TTL=55
-Reply from 8.20.247.20: bytes=4 time=581ms TTL=55
-Reply from 8.20.247.20: bytes=4 time=231ms TTL=55
+Reply from 8.20.247.20: bytes=4 time=200ms TTL=55
+Reply from 8.20.247.20: bytes=4 time=76ms TTL=55
+Reply from 8.20.247.20: bytes=4 time=244ms TTL=55
+Reply from 8.20.247.20: bytes=4 time=177ms TTL=55
+Reply from 8.20.247.20: bytes=4 time=89ms TTL=55
+Reply from 8.20.247.20: bytes=4 time=28ms TTL=55
+Reply from 8.20.247.20: bytes=4 time=128ms TTL=55
+Reply from 8.20.247.20: bytes=4 time=164ms TTL=55
+Reply from 8.20.247.20: bytes=4 time=41ms TTL=55
+Reply from 8.20.247.20: bytes=4 time=80ms TTL=55
+Reply from 8.20.247.20: bytes=4 time=52ms TTL=55
+Reply from 8.20.247.20: bytes=4 time=47ms TTL=55
+Reply from 8.20.247.20: bytes=4 time=179ms TTL=55
+Reply from 8.20.247.20: bytes=4 time=136ms TTL=55
+Reply from 8.20.247.20: bytes=4 time=55ms TTL=55
+Reply from 8.20.247.20: bytes=4 time=70ms TTL=55
+Reply from 8.20.247.20: bytes=4 time=68ms TTL=55
+Reply from 8.20.247.20: bytes=4 time=574ms TTL=55
+Reply from 8.20.247.20: bytes=4 time=37ms TTL=55
+Reply from 8.20.247.20: bytes=4 time=106ms TTL=55
 
 Ping statistics for 8.20.247.20:
-    Packets: Sent = 20, Received = 3, Lost = 17 (85% loss),
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 231ms, Maximum = 581ms, Average = 350ms
+    Minimum = 28ms, Maximum = 574ms, Average = 127ms
 
-Monday, April 29, 2024 8:28:38 AM
+Monday, April 29, 2024 8:34:14 AM
 

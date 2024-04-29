@@ -1,5 +1,5 @@
 
-Monday, April 29, 2024 8:19:50 AM
+Monday, April 29, 2024 8:29:22 AM
 
 
 Pinging 192.168.1.1 with 4 bytes of data:
@@ -8,12 +8,12 @@ Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
-PING: transmit failed. General failure. 
 Request timed out.
 Request timed out.
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
-PING: transmit failed. General failure. 
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
 Request timed out.
 Request timed out.
 Request timed out.
@@ -27,5 +27,5 @@ Request timed out.
 Ping statistics for 192.168.1.1:
     Packets: Sent = 20, Received = 0, Lost = 20 (100% loss),
 
-Monday, April 29, 2024 8:21:13 AM
+Monday, April 29, 2024 8:31:01 AM
 

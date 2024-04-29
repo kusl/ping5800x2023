@@ -1,31 +1,33 @@
 
-Monday, April 29, 2024 8:21:13 AM
+Monday, April 29, 2024 8:31:01 AM
 
 
 Pinging 1.1.1.1 with 4 bytes of data:
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-General failure.
-General failure.
-General failure.
-General failure.
-Request timed out.
-Request timed out.
-Request timed out.
-Reply from 192.168.0.103: Destination host unreachable.
-Reply from 192.168.0.103: Destination host unreachable.
-Reply from 192.168.0.103: Destination host unreachable.
-Reply from 192.168.0.103: Destination host unreachable.
-Reply from 192.168.0.103: Destination host unreachable.
-Reply from 192.168.0.103: Destination host unreachable.
-Reply from 192.168.0.103: Destination host unreachable.
-Reply from 192.168.0.103: Destination host unreachable.
-Reply from 192.168.0.103: Destination host unreachable.
+Reply from 1.1.1.1: bytes=4 time=239ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=131ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=145ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=32ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=202ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=25ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=500ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=133ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=89ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=185ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=57ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=19ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=19ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=37ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=33ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=54ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=62ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=23ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=61ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=42ms TTL=59
 
 Ping statistics for 1.1.1.1:
-    Packets: Sent = 20, Received = 9, Lost = 11 (55% loss),
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 19ms, Maximum = 500ms, Average = 104ms
 
-Monday, April 29, 2024 8:22:19 AM
+Monday, April 29, 2024 8:31:20 AM
 

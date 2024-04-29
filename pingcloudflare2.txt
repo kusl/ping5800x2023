@@ -1,31 +1,33 @@
 
-Monday, April 29, 2024 8:22:19 AM
+Monday, April 29, 2024 8:31:20 AM
 
 
 Pinging 1.0.0.1 with 4 bytes of data:
-Reply from 192.168.0.103: Destination host unreachable.
-Reply from 192.168.0.103: Destination host unreachable.
-Reply from 192.168.0.103: Destination host unreachable.
-Reply from 192.168.0.103: Destination host unreachable.
-Reply from 192.168.0.103: Destination host unreachable.
-Reply from 192.168.0.103: Destination host unreachable.
-Reply from 192.168.0.103: Destination host unreachable.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
+Reply from 1.0.0.1: bytes=4 time=106ms TTL=59
+Reply from 1.0.0.1: bytes=4 time=62ms TTL=59
+Reply from 1.0.0.1: bytes=4 time=161ms TTL=59
+Reply from 1.0.0.1: bytes=4 time=177ms TTL=59
+Reply from 1.0.0.1: bytes=4 time=104ms TTL=59
+Reply from 1.0.0.1: bytes=4 time=26ms TTL=59
+Reply from 1.0.0.1: bytes=4 time=133ms TTL=59
+Reply from 1.0.0.1: bytes=4 time=73ms TTL=59
+Reply from 1.0.0.1: bytes=4 time=48ms TTL=59
+Reply from 1.0.0.1: bytes=4 time=75ms TTL=59
+Reply from 1.0.0.1: bytes=4 time=90ms TTL=59
+Reply from 1.0.0.1: bytes=4 time=211ms TTL=59
+Reply from 1.0.0.1: bytes=4 time=56ms TTL=59
+Reply from 1.0.0.1: bytes=4 time=186ms TTL=59
+Reply from 1.0.0.1: bytes=4 time=216ms TTL=59
+Reply from 1.0.0.1: bytes=4 time=219ms TTL=59
+Reply from 1.0.0.1: bytes=4 time=1177ms TTL=59
+Reply from 1.0.0.1: bytes=4 time=336ms TTL=59
+Reply from 1.0.0.1: bytes=4 time=27ms TTL=59
+Reply from 1.0.0.1: bytes=4 time=30ms TTL=59
 
 Ping statistics for 1.0.0.1:
-    Packets: Sent = 20, Received = 7, Lost = 13 (65% loss),
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 26ms, Maximum = 1177ms, Average = 175ms
 
-Monday, April 29, 2024 8:23:44 AM
+Monday, April 29, 2024 8:31:39 AM
 
