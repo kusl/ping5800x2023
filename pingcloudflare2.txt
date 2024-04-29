@@ -1,33 +1,31 @@
 
-Monday, April 29, 2024 8:16:36 AM
+Monday, April 29, 2024 8:22:19 AM
 
 
 Pinging 1.0.0.1 with 4 bytes of data:
-Reply from 1.0.0.1: bytes=4 time=21ms TTL=59
-Reply from 1.0.0.1: bytes=4 time=23ms TTL=59
-Reply from 1.0.0.1: bytes=4 time=17ms TTL=59
-Reply from 1.0.0.1: bytes=4 time=18ms TTL=59
-Reply from 1.0.0.1: bytes=4 time=18ms TTL=59
-Reply from 1.0.0.1: bytes=4 time=20ms TTL=59
-Reply from 1.0.0.1: bytes=4 time=23ms TTL=59
-Reply from 1.0.0.1: bytes=4 time=14ms TTL=59
-Reply from 1.0.0.1: bytes=4 time=15ms TTL=59
-Reply from 1.0.0.1: bytes=4 time=15ms TTL=59
-Reply from 1.0.0.1: bytes=4 time=23ms TTL=59
-Reply from 1.0.0.1: bytes=4 time=15ms TTL=59
-Reply from 1.0.0.1: bytes=4 time=18ms TTL=59
-Reply from 1.0.0.1: bytes=4 time=20ms TTL=59
-Reply from 1.0.0.1: bytes=4 time=21ms TTL=59
-Reply from 1.0.0.1: bytes=4 time=21ms TTL=59
-Reply from 1.0.0.1: bytes=4 time=16ms TTL=59
-Reply from 1.0.0.1: bytes=4 time=19ms TTL=59
-Reply from 1.0.0.1: bytes=4 time=20ms TTL=59
-Reply from 1.0.0.1: bytes=4 time=21ms TTL=59
+Reply from 192.168.0.103: Destination host unreachable.
+Reply from 192.168.0.103: Destination host unreachable.
+Reply from 192.168.0.103: Destination host unreachable.
+Reply from 192.168.0.103: Destination host unreachable.
+Reply from 192.168.0.103: Destination host unreachable.
+Reply from 192.168.0.103: Destination host unreachable.
+Reply from 192.168.0.103: Destination host unreachable.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
 
 Ping statistics for 1.0.0.1:
-    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
-Approximate round trip times in milli-seconds:
-    Minimum = 14ms, Maximum = 23ms, Average = 18ms
+    Packets: Sent = 20, Received = 7, Lost = 13 (65% loss),
 
-Monday, April 29, 2024 8:16:55 AM
+Monday, April 29, 2024 8:23:44 AM
 
