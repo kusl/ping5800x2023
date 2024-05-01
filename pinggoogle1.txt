@@ -1,27 +1,27 @@
 
-Tuesday, April 30, 2024 8:29:22 PM
+Tuesday, April 30, 2024 8:34:33 PM
 
 
 Pinging 8.8.8.8 with 4 bytes of data:
+Reply from 8.8.8.8: bytes=4 time=17ms TTL=119
 Reply from 8.8.8.8: bytes=4 time=16ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=17ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=25ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=22ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=20ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=20ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=12ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=16ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=17ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=20ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=17ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=17ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=19ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=17ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=17ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=17ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=13ms TTL=119
 Reply from 8.8.8.8: bytes=4 time=18ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=19ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=14ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=25ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=15ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=18ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=15ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=23ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=20ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=16ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=12ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=15ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=15ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=23ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=12ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=23ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=16ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=16ms TTL=119
 Reply from 8.8.8.8: bytes=4 time=13ms TTL=119
 
 Ping statistics for 8.8.8.8:
@@ -29,5 +29,5 @@ Ping statistics for 8.8.8.8:
 Approximate round trip times in milli-seconds:
     Minimum = 12ms, Maximum = 25ms, Average = 17ms
 
-Tuesday, April 30, 2024 8:29:41 PM
+Tuesday, April 30, 2024 8:34:52 PM
 
