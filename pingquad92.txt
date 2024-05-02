@@ -1,31 +1,33 @@
 
-Thursday, May 2, 2024 10:13:21 AM
+Thursday, May 2, 2024 10:30:59 AM
 
 
 Pinging 149.112.112.112 with 4 bytes of data:
 Request timed out.
 Request timed out.
 Request timed out.
+Reply from 149.112.112.112: bytes=4 time=41ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=24ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=13ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=16ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=19ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=18ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=19ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=14ms TTL=59
 Request timed out.
-Request timed out.
-Request timed out.
-Reply from 192.168.0.9: Destination host unreachable.
-Request timed out.
-Reply from 192.168.0.9: Destination host unreachable.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
+Reply from 149.112.112.112: bytes=4 time=12ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=16ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=19ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=22ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=15ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=20ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=14ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=18ms TTL=59
 
 Ping statistics for 149.112.112.112:
-    Packets: Sent = 20, Received = 2, Lost = 18 (90% loss),
+    Packets: Sent = 20, Received = 16, Lost = 4 (20% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 12ms, Maximum = 41ms, Average = 18ms
 
-Thursday, May 2, 2024 10:14:52 AM
+Thursday, May 2, 2024 10:31:34 AM
 
