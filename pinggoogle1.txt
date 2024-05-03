@@ -1,33 +1,33 @@
 
-Friday, May 3, 2024 7:15:51 PM
+Friday, May 3, 2024 7:19:58 PM
 
 
 Pinging 8.8.8.8 with 4 bytes of data:
-Reply from 8.8.8.8: bytes=4 time=36ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=16ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=97ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=91ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=13ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=16ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=288ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=139ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=151ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=150ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=59ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=150ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=144ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=69ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=154ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=132ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=23ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=56ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=50ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=41ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=77ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=109ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=126ms TTL=60
 Reply from 8.8.8.8: bytes=4 time=19ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=16ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=20ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=37ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=19ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=20ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=14ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=20ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=84ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=11ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=11ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=18ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=34ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=25ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=30ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=10ms TTL=60
 
 Ping statistics for 8.8.8.8:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 11ms, Maximum = 97ms, Average = 30ms
+    Minimum = 10ms, Maximum = 288ms, Average = 98ms
 
-Friday, May 3, 2024 7:16:11 PM
+Friday, May 3, 2024 7:20:17 PM
 
