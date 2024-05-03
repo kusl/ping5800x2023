@@ -3,7 +3,8 @@ Get-Date;
 $dns = [ordered]@{
     home = "127.0.0.1";
     # tmobile = "192.168.12.1";
-    spectrum = "192.168.1.1";
+    # spectrum = "192.168.1.1";
+    tplinkverizon = "192.168.1.1";
     cloudflare1 = "1.1.1.1"; 
     cloudflare2 = "1.0.0.1"; 
     google1 = "8.8.8.8"; 
