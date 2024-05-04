@@ -1,33 +1,33 @@
 
-Friday, May 3, 2024 9:47:05 PM
+Friday, May 3, 2024 9:51:53 PM
 
 
 Pinging 8.8.8.8 with 4 bytes of data:
-Reply from 8.8.8.8: bytes=4 time=18ms TTL=60
-Request timed out.
-Request timed out.
-Reply from 8.8.8.8: bytes=4 time=21ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=38ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=29ms TTL=60
 Reply from 8.8.8.8: bytes=4 time=20ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=12ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=38ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=24ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=198ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=17ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=27ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=48ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=131ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=93ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=27ms TTL=60
+Request timed out.
+Reply from 8.8.8.8: bytes=4 time=202ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=53ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=54ms TTL=60
 Reply from 8.8.8.8: bytes=4 time=31ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=22ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=22ms TTL=60
-Request timed out.
-Reply from 8.8.8.8: bytes=4 time=121ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=38ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=192ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=21ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=12ms TTL=60
-Request timed out.
+Reply from 8.8.8.8: bytes=4 time=40ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=148ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=166ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=97ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=25ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=41ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=53ms TTL=60
 
 Ping statistics for 8.8.8.8:
-    Packets: Sent = 20, Received = 16, Lost = 4 (20% loss),
+    Packets: Sent = 20, Received = 19, Lost = 1 (5% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 12ms, Maximum = 198ms, Average = 51ms
+    Minimum = 17ms, Maximum = 202ms, Average = 68ms
 
-Friday, May 3, 2024 9:47:40 PM
+Friday, May 3, 2024 9:52:16 PM
 
