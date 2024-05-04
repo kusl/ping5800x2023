@@ -1,33 +1,33 @@
 
-Saturday, May 4, 2024 7:53:20 PM
+Saturday, May 4, 2024 7:57:27 PM
 
 
 Pinging 9.9.9.9 with 4 bytes of data:
-Reply from 9.9.9.9: bytes=4 time=49ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=63ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=312ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=130ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=117ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=24ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=37ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=1166ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=48ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=41ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=173ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=150ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=14ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=20ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=9ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=19ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=17ms TTL=59
 Reply from 9.9.9.9: bytes=4 time=12ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=118ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=65ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=424ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=205ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=16ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=695ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=272ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=18ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=15ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=12ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=14ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=12ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=38ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=15ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=10ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=19ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=11ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=18ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=15ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=10ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=17ms TTL=59
 
 Ping statistics for 9.9.9.9:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 12ms, Maximum = 1166ms, Average = 205ms
+    Minimum = 9ms, Maximum = 38ms, Average = 15ms
 
-Saturday, May 4, 2024 7:53:40 PM
+Saturday, May 4, 2024 7:57:46 PM
 
