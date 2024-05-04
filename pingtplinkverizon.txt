@@ -1,33 +1,33 @@
 
-Saturday, May 4, 2024 6:20:08 AM
+Saturday, May 4, 2024 6:24:43 AM
 
 
 Pinging 192.168.0.1 with 4 bytes of data:
-Reply from 192.168.0.1: bytes=4 time=184ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=10ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=382ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=352ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=143ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=3ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=230ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=329ms TTL=64
-Request timed out.
-Request timed out.
-Reply from 192.168.0.1: bytes=4 time=119ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=290ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=72ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=113ms TTL=64
+Reply from 192.168.0.1: bytes=4 time<1ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=4ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=3ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=17ms TTL=64
-Request timed out.
-Reply from 192.168.0.1: bytes=4 time=151ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=82ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=162ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=15ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=2ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=3ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=2ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=2ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=106ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=2ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=15ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=3ms TTL=64
 
 Ping statistics for 192.168.0.1:
-    Packets: Sent = 20, Received = 17, Lost = 3 (15% loss),
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 3ms, Maximum = 382ms, Average = 155ms
+    Minimum = 0ms, Maximum = 106ms, Average = 8ms
 
-Saturday, May 4, 2024 6:20:39 AM
+Saturday, May 4, 2024 6:25:02 AM
 
