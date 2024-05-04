@@ -1,33 +1,33 @@
 
-Saturday, May 4, 2024 6:52:41 AM
+Saturday, May 4, 2024 6:57:51 AM
 
 
 Pinging 1.1.1.1 with 4 bytes of data:
-Reply from 1.1.1.1: bytes=4 time=24ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=23ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=17ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=21ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=208ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=165ms TTL=59
 Request timed out.
-Reply from 1.1.1.1: bytes=4 time=31ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=21ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=21ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=290ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=268ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=111ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=134ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=75ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=348ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=35ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=162ms TTL=59
+Request timed out.
+Reply from 1.1.1.1: bytes=4 time=117ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=97ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=54ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=95ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=50ms TTL=59
 Reply from 1.1.1.1: bytes=4 time=30ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=143ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=45ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=33ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=43ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=25ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=23ms TTL=59
+Request timed out.
+Request timed out.
+Reply from 1.1.1.1: bytes=4 time=282ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=104ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=29ms TTL=59
+Request timed out.
+Reply from 1.1.1.1: bytes=4 time=257ms TTL=59
 
 Ping statistics for 1.1.1.1:
-    Packets: Sent = 20, Received = 19, Lost = 1 (5% loss),
+    Packets: Sent = 20, Received = 15, Lost = 5 (25% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 17ms, Maximum = 290ms, Average = 81ms
+    Minimum = 29ms, Maximum = 348ms, Average = 124ms
 
-Saturday, May 4, 2024 6:53:05 AM
+Saturday, May 4, 2024 6:58:30 AM
 
