@@ -1,33 +1,33 @@
 
-Saturday, May 4, 2024 6:27:40 AM
+Saturday, May 4, 2024 6:32:46 AM
 
 
 Pinging 208.67.222.222 with 4 bytes of data:
-Reply from 208.67.222.222: bytes=4 time=59ms TTL=58
-Reply from 208.67.222.222: bytes=4 time=186ms TTL=58
-Reply from 208.67.222.222: bytes=4 time=135ms TTL=58
-Reply from 208.67.222.222: bytes=4 time=177ms TTL=58
-Reply from 208.67.222.222: bytes=4 time=43ms TTL=58
-Reply from 208.67.222.222: bytes=4 time=143ms TTL=58
-Reply from 208.67.222.222: bytes=4 time=17ms TTL=58
-Reply from 208.67.222.222: bytes=4 time=19ms TTL=58
-Reply from 208.67.222.222: bytes=4 time=17ms TTL=58
-Reply from 208.67.222.222: bytes=4 time=17ms TTL=58
-Reply from 208.67.222.222: bytes=4 time=16ms TTL=58
-Reply from 208.67.222.222: bytes=4 time=14ms TTL=58
 Reply from 208.67.222.222: bytes=4 time=12ms TTL=58
+Reply from 208.67.222.222: bytes=4 time=14ms TTL=58
+Reply from 208.67.222.222: bytes=4 time=20ms TTL=58
+Reply from 208.67.222.222: bytes=4 time=12ms TTL=58
+Reply from 208.67.222.222: bytes=4 time=15ms TTL=58
+Reply from 208.67.222.222: bytes=4 time=20ms TTL=58
 Reply from 208.67.222.222: bytes=4 time=18ms TTL=58
+Reply from 208.67.222.222: bytes=4 time=19ms TTL=58
+Reply from 208.67.222.222: bytes=4 time=22ms TTL=58
 Reply from 208.67.222.222: bytes=4 time=16ms TTL=58
-Reply from 208.67.222.222: bytes=4 time=545ms TTL=58
-Reply from 208.67.222.222: bytes=4 time=602ms TTL=58
+Reply from 208.67.222.222: bytes=4 time=13ms TTL=58
+Reply from 208.67.222.222: bytes=4 time=36ms TTL=58
 Request timed out.
-Reply from 208.67.222.222: bytes=4 time=38ms TTL=58
-Reply from 208.67.222.222: bytes=4 time=138ms TTL=58
+Reply from 208.67.222.222: bytes=4 time=56ms TTL=58
+Reply from 208.67.222.222: bytes=4 time=69ms TTL=58
+Request timed out.
+Reply from 208.67.222.222: bytes=4 time=401ms TTL=58
+Reply from 208.67.222.222: bytes=4 time=208ms TTL=58
+Reply from 208.67.222.222: bytes=4 time=931ms TTL=58
+Request timed out.
 
 Ping statistics for 208.67.222.222:
-    Packets: Sent = 20, Received = 19, Lost = 1 (5% loss),
+    Packets: Sent = 20, Received = 17, Lost = 3 (15% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 12ms, Maximum = 602ms, Average = 116ms
+    Minimum = 12ms, Maximum = 931ms, Average = 110ms
 
-Saturday, May 4, 2024 6:28:04 AM
+Saturday, May 4, 2024 6:33:17 AM
 
