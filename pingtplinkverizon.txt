@@ -1,33 +1,33 @@
 
-Sunday, May 5, 2024 8:03:18 AM
+Sunday, May 5, 2024 8:08:53 AM
 
 
 Pinging 192.168.0.1 with 4 bytes of data:
-Request timed out.
-Reply from 192.168.0.1: bytes=4 time=12ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=17ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=170ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=24ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=24ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=95ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=92ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=9ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=6ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=14ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=45ms TTL=64
+Request timed out.
+Request timed out.
+Request timed out.
 Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=8ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=10ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=166ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=20ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=5ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=136ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=12ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=102ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=55ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=104ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=3ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=35ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=115ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=19ms TTL=64
+Request timed out.
 
 Ping statistics for 192.168.0.1:
-    Packets: Sent = 20, Received = 19, Lost = 1 (5% loss),
+    Packets: Sent = 20, Received = 16, Lost = 4 (20% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 1ms, Maximum = 166ms, Average = 26ms
+    Minimum = 1ms, Maximum = 170ms, Average = 51ms
 
-Sunday, May 5, 2024 8:03:41 AM
+Sunday, May 5, 2024 8:09:28 AM
 
