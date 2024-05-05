@@ -1,33 +1,33 @@
 
-Sunday, May 5, 2024 10:50:38 AM
+Sunday, May 5, 2024 10:54:37 AM
 
 
 Pinging 9.9.9.9 with 4 bytes of data:
-Reply from 9.9.9.9: bytes=4 time=17ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=12ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=36ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=13ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=12ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=12ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=16ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=128ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=70ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=17ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=14ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=17ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=19ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=10ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=15ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=19ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=17ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=16ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=18ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=250ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=137ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=146ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=238ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=64ms TTL=59
+Request timed out.
+Reply from 9.9.9.9: bytes=4 time=87ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=85ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=71ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=76ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=114ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=171ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=150ms TTL=59
+Request timed out.
 Reply from 9.9.9.9: bytes=4 time=20ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=16ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=98ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=87ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=188ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=17ms TTL=59
 
 Ping statistics for 9.9.9.9:
-    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+    Packets: Sent = 20, Received = 18, Lost = 2 (10% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 10ms, Maximum = 128ms, Average = 24ms
+    Minimum = 17ms, Maximum = 250ms, Average = 112ms
 
-Sunday, May 5, 2024 10:50:57 AM
+Sunday, May 5, 2024 10:55:04 AM
 
