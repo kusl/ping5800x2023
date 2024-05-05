@@ -1,33 +1,33 @@
 
-Sunday, May 5, 2024 7:48:19 AM
+Sunday, May 5, 2024 7:52:54 AM
 
 
 Pinging 1.1.1.1 with 4 bytes of data:
-Reply from 1.1.1.1: bytes=4 time=22ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=155ms TTL=59
+Request timed out.
+Reply from 1.1.1.1: bytes=4 time=18ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=17ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=25ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=18ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=17ms TTL=59
 Reply from 1.1.1.1: bytes=4 time=16ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=41ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=22ms TTL=59
 Reply from 1.1.1.1: bytes=4 time=20ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=18ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=52ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=19ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=14ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=186ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=20ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=15ms TTL=59
 Reply from 1.1.1.1: bytes=4 time=13ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=1018ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=1252ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=122ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=28ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=127ms TTL=59
 Reply from 1.1.1.1: bytes=4 time=15ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=57ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=75ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=18ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=15ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=23ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=20ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=75ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=18ms TTL=59
 Reply from 1.1.1.1: bytes=4 time=22ms TTL=59
 
 Ping statistics for 1.1.1.1:
-    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+    Packets: Sent = 20, Received = 19, Lost = 1 (5% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 13ms, Maximum = 1252ms, Average = 145ms
+    Minimum = 13ms, Maximum = 186ms, Average = 40ms
 
-Sunday, May 5, 2024 7:48:39 AM
+Sunday, May 5, 2024 7:53:17 AM
 
