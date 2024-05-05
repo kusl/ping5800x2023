@@ -1,33 +1,33 @@
 
-Sunday, May 5, 2024 4:05:11 PM
+Sunday, May 5, 2024 4:09:45 PM
 
 
 Pinging 149.112.112.112 with 4 bytes of data:
-Reply from 149.112.112.112: bytes=4 time=10ms TTL=59
 Reply from 149.112.112.112: bytes=4 time=19ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=17ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=15ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=12ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=18ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=14ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=11ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=17ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=15ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=12ms TTL=59
-Request timed out.
-Reply from 149.112.112.112: bytes=4 time=94ms TTL=59
-Request timed out.
-Reply from 149.112.112.112: bytes=4 time=24ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=60ms TTL=59
-Request timed out.
-Reply from 149.112.112.112: bytes=4 time=18ms TTL=59
 Reply from 149.112.112.112: bytes=4 time=16ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=14ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=25ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=16ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=15ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=11ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=25ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=47ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=20ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=19ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=174ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=83ms TTL=59
 Request timed out.
+Reply from 149.112.112.112: bytes=4 time=19ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=30ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=17ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=13ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=12ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=18ms TTL=59
 
 Ping statistics for 149.112.112.112:
-    Packets: Sent = 20, Received = 16, Lost = 4 (20% loss),
+    Packets: Sent = 20, Received = 19, Lost = 1 (5% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 10ms, Maximum = 94ms, Average = 23ms
+    Minimum = 11ms, Maximum = 174ms, Average = 31ms
 
-Sunday, May 5, 2024 4:05:46 PM
+Sunday, May 5, 2024 4:10:08 PM
 
