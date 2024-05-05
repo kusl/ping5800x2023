@@ -1,33 +1,33 @@
 
-Sunday, May 5, 2024 6:10:31 AM
+Sunday, May 5, 2024 6:15:42 AM
 
 
 Pinging 8.8.4.4 with 4 bytes of data:
-Reply from 8.8.4.4: bytes=4 time=38ms TTL=119
-Reply from 8.8.4.4: bytes=4 time=30ms TTL=119
+Request timed out.
+Reply from 8.8.4.4: bytes=4 time=33ms TTL=119
+Reply from 8.8.4.4: bytes=4 time=47ms TTL=119
+Reply from 8.8.4.4: bytes=4 time=50ms TTL=119
 Reply from 8.8.4.4: bytes=4 time=28ms TTL=119
-Reply from 8.8.4.4: bytes=4 time=24ms TTL=119
-Reply from 8.8.4.4: bytes=4 time=31ms TTL=119
-Reply from 8.8.4.4: bytes=4 time=38ms TTL=119
-Reply from 8.8.4.4: bytes=4 time=37ms TTL=119
-Reply from 8.8.4.4: bytes=4 time=170ms TTL=119
-Reply from 8.8.4.4: bytes=4 time=28ms TTL=119
-Reply from 8.8.4.4: bytes=4 time=20ms TTL=119
-Reply from 8.8.4.4: bytes=4 time=73ms TTL=119
-Reply from 8.8.4.4: bytes=4 time=20ms TTL=119
-Reply from 8.8.4.4: bytes=4 time=19ms TTL=119
-Reply from 8.8.4.4: bytes=4 time=35ms TTL=119
-Reply from 8.8.4.4: bytes=4 time=34ms TTL=119
-Reply from 8.8.4.4: bytes=4 time=27ms TTL=119
-Reply from 8.8.4.4: bytes=4 time=32ms TTL=119
 Reply from 8.8.4.4: bytes=4 time=22ms TTL=119
-Reply from 8.8.4.4: bytes=4 time=27ms TTL=119
-Reply from 8.8.4.4: bytes=4 time=143ms TTL=119
+Reply from 8.8.4.4: bytes=4 time=29ms TTL=119
+Reply from 8.8.4.4: bytes=4 time=26ms TTL=119
+Reply from 8.8.4.4: bytes=4 time=22ms TTL=119
+Reply from 8.8.4.4: bytes=4 time=40ms TTL=119
+Reply from 8.8.4.4: bytes=4 time=20ms TTL=119
+Reply from 8.8.4.4: bytes=4 time=112ms TTL=119
+Reply from 8.8.4.4: bytes=4 time=48ms TTL=119
+Reply from 8.8.4.4: bytes=4 time=34ms TTL=119
+Reply from 8.8.4.4: bytes=4 time=178ms TTL=119
+Reply from 8.8.4.4: bytes=4 time=184ms TTL=119
+Request timed out.
+Reply from 8.8.4.4: bytes=4 time=32ms TTL=119
+Reply from 8.8.4.4: bytes=4 time=37ms TTL=119
+Request timed out.
 
 Ping statistics for 8.8.4.4:
-    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+    Packets: Sent = 20, Received = 17, Lost = 3 (15% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 19ms, Maximum = 170ms, Average = 43ms
+    Minimum = 20ms, Maximum = 184ms, Average = 55ms
 
-Sunday, May 5, 2024 6:10:51 AM
+Sunday, May 5, 2024 6:16:13 AM
 

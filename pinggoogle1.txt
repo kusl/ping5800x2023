@@ -1,33 +1,33 @@
 
-Sunday, May 5, 2024 6:09:52 AM
+Sunday, May 5, 2024 6:15:07 AM
 
 
 Pinging 8.8.8.8 with 4 bytes of data:
-Reply from 8.8.8.8: bytes=4 time=17ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=23ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=28ms TTL=60
-Request timed out.
-Reply from 8.8.8.8: bytes=4 time=82ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=125ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=138ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=38ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=19ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=18ms TTL=60
-Request timed out.
-Request timed out.
-Reply from 8.8.8.8: bytes=4 time=28ms TTL=60
-Request timed out.
-Request timed out.
-Reply from 8.8.8.8: bytes=4 time=178ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=37ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=31ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=53ms TTL=60
 Reply from 8.8.8.8: bytes=4 time=20ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=24ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=73ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=30ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=120ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=19ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=19ms TTL=60
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 8.8.8.8: bytes=4 time=22ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=37ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=123ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=48ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=37ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=99ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=111ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=56ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=87ms TTL=60
 
 Ping statistics for 8.8.8.8:
-    Packets: Sent = 20, Received = 15, Lost = 5 (25% loss),
+    Packets: Sent = 20, Received = 16, Lost = 4 (20% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 17ms, Maximum = 178ms, Average = 56ms
+    Minimum = 19ms, Maximum = 123ms, Average = 57ms
 
-Sunday, May 5, 2024 6:10:31 AM
+Sunday, May 5, 2024 6:15:42 AM
 
