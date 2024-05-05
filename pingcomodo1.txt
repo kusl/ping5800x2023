@@ -1,33 +1,33 @@
 
-Sunday, May 5, 2024 3:19:22 PM
+Sunday, May 5, 2024 3:23:18 PM
 
 
 Pinging 8.26.56.26 with 4 bytes of data:
-Reply from 8.26.56.26: bytes=4 time=221ms TTL=55
-Reply from 8.26.56.26: bytes=4 time=183ms TTL=55
-Reply from 8.26.56.26: bytes=4 time=95ms TTL=55
-Reply from 8.26.56.26: bytes=4 time=46ms TTL=55
-Reply from 8.26.56.26: bytes=4 time=206ms TTL=55
-Reply from 8.26.56.26: bytes=4 time=96ms TTL=55
-Reply from 8.26.56.26: bytes=4 time=270ms TTL=55
+Reply from 8.26.56.26: bytes=4 time=119ms TTL=55
+Reply from 8.26.56.26: bytes=4 time=848ms TTL=55
+Reply from 8.26.56.26: bytes=4 time=128ms TTL=55
+Reply from 8.26.56.26: bytes=4 time=1062ms TTL=55
+Reply from 8.26.56.26: bytes=4 time=168ms TTL=55
+Reply from 8.26.56.26: bytes=4 time=32ms TTL=55
+Reply from 8.26.56.26: bytes=4 time=40ms TTL=55
+Reply from 8.26.56.26: bytes=4 time=40ms TTL=55
+Reply from 8.26.56.26: bytes=4 time=55ms TTL=55
 Reply from 8.26.56.26: bytes=4 time=39ms TTL=55
-Reply from 8.26.56.26: bytes=4 time=123ms TTL=55
-Reply from 8.26.56.26: bytes=4 time=132ms TTL=55
-Reply from 8.26.56.26: bytes=4 time=452ms TTL=55
-Reply from 8.26.56.26: bytes=4 time=90ms TTL=55
-Reply from 8.26.56.26: bytes=4 time=71ms TTL=55
-Reply from 8.26.56.26: bytes=4 time=332ms TTL=55
-Reply from 8.26.56.26: bytes=4 time=47ms TTL=55
-Reply from 8.26.56.26: bytes=4 time=254ms TTL=55
-Reply from 8.26.56.26: bytes=4 time=51ms TTL=55
-Reply from 8.26.56.26: bytes=4 time=197ms TTL=55
-Reply from 8.26.56.26: bytes=4 time=137ms TTL=55
-Reply from 8.26.56.26: bytes=4 time=46ms TTL=55
+Reply from 8.26.56.26: bytes=4 time=34ms TTL=55
+Reply from 8.26.56.26: bytes=4 time=34ms TTL=55
+Reply from 8.26.56.26: bytes=4 time=34ms TTL=55
+Reply from 8.26.56.26: bytes=4 time=36ms TTL=55
+Reply from 8.26.56.26: bytes=4 time=29ms TTL=55
+Reply from 8.26.56.26: bytes=4 time=30ms TTL=55
+Reply from 8.26.56.26: bytes=4 time=30ms TTL=55
+Reply from 8.26.56.26: bytes=4 time=35ms TTL=55
+Reply from 8.26.56.26: bytes=4 time=34ms TTL=55
+Reply from 8.26.56.26: bytes=4 time=35ms TTL=55
 
 Ping statistics for 8.26.56.26:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 39ms, Maximum = 452ms, Average = 154ms
+    Minimum = 29ms, Maximum = 1062ms, Average = 143ms
 
-Sunday, May 5, 2024 3:19:41 PM
+Sunday, May 5, 2024 3:23:37 PM
 

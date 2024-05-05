@@ -1,33 +1,33 @@
 
-Sunday, May 5, 2024 3:18:05 PM
+Sunday, May 5, 2024 3:21:57 PM
 
 
 Pinging 9.9.9.9 with 4 bytes of data:
-Reply from 9.9.9.9: bytes=4 time=13ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=16ms TTL=59
 Reply from 9.9.9.9: bytes=4 time=15ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=17ms TTL=59
 Reply from 9.9.9.9: bytes=4 time=13ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=16ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=18ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=12ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=11ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=18ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=12ms TTL=59
 Reply from 9.9.9.9: bytes=4 time=17ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=15ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=19ms TTL=59
 Reply from 9.9.9.9: bytes=4 time=14ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=12ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=12ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=12ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=859ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=342ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=179ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=12ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=15ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=15ms TTL=59
 Reply from 9.9.9.9: bytes=4 time=13ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=11ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=10ms TTL=59
-Reply from 9.9.9.9: bytes=4 time=11ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=16ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=12ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=13ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=15ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=16ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=16ms TTL=59
+Reply from 9.9.9.9: bytes=4 time=481ms TTL=59
 
 Ping statistics for 9.9.9.9:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 10ms, Maximum = 859ms, Average = 80ms
+    Minimum = 11ms, Maximum = 481ms, Average = 38ms
 
-Sunday, May 5, 2024 3:18:24 PM
+Sunday, May 5, 2024 3:22:16 PM
 
