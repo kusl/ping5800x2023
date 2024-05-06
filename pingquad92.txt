@@ -1,33 +1,33 @@
 
-Monday, May 6, 2024 9:22:48 AM
+Monday, May 6, 2024 9:26:40 AM
 
 
 Pinging 149.112.112.112 with 4 bytes of data:
-Reply from 149.112.112.112: bytes=4 time=73ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=14ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=218ms TTL=59
 Reply from 149.112.112.112: bytes=4 time=17ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=122ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=14ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=14ms TTL=59
 Reply from 149.112.112.112: bytes=4 time=18ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=34ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=20ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=97ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=35ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=27ms TTL=59
 Reply from 149.112.112.112: bytes=4 time=13ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=15ms TTL=59
 Reply from 149.112.112.112: bytes=4 time=19ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=12ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=16ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=17ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=16ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=17ms TTL=59
 Reply from 149.112.112.112: bytes=4 time=19ms TTL=59
 Reply from 149.112.112.112: bytes=4 time=20ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=36ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=12ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=16ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=17ms TTL=59
 Reply from 149.112.112.112: bytes=4 time=14ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=14ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=22ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=23ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=11ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=18ms TTL=59
 
 Ping statistics for 149.112.112.112:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 11ms, Maximum = 73ms, Average = 21ms
+    Minimum = 13ms, Maximum = 218ms, Average = 37ms
 
-Monday, May 6, 2024 9:23:07 AM
+Monday, May 6, 2024 9:26:59 AM
 
