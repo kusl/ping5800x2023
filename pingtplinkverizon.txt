@@ -1,33 +1,33 @@
 
-Sunday, May 5, 2024 9:49:44 PM
+Sunday, May 5, 2024 9:54:38 PM
 
 
 Pinging 192.168.0.1 with 4 bytes of data:
 Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=32ms TTL=64
-Request timed out.
-Reply from 192.168.0.1: bytes=4 time=4ms TTL=64
-Request timed out.
-Reply from 192.168.0.1: bytes=4 time=728ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=16ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=101ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=78ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=68ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=11ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=2ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=21ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=3ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=44ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=148ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=4ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=14ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=17ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=2ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=3ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=3ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=2ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=89ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=168ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
 
 Ping statistics for 192.168.0.1:
-    Packets: Sent = 20, Received = 18, Lost = 2 (10% loss),
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 1ms, Maximum = 728ms, Average = 70ms
+    Minimum = 1ms, Maximum = 168ms, Average = 15ms
 
-Sunday, May 5, 2024 9:50:10 PM
+Sunday, May 5, 2024 9:54:57 PM
 
