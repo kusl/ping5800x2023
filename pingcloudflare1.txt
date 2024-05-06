@@ -1,33 +1,33 @@
 
-Monday, May 6, 2024 5:18:58 AM
+Monday, May 6, 2024 5:24:48 AM
 
 
 Pinging 1.1.1.1 with 4 bytes of data:
+Reply from 1.1.1.1: bytes=4 time=18ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=16ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=25ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=45ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=46ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=69ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=25ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=23ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=15ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=19ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=18ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=53ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=85ms TTL=59
 Request timed out.
-Reply from 1.1.1.1: bytes=4 time=220ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=146ms TTL=59
-Request timed out.
-Request timed out.
-Request timed out.
-Reply from 1.1.1.1: bytes=4 time=222ms TTL=59
-Request timed out.
-Request timed out.
-Reply from 1.1.1.1: bytes=4 time=392ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=429ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=888ms TTL=59
-Request timed out.
-Reply from 1.1.1.1: bytes=4 time=219ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=647ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=509ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=78ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=430ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=479ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=328ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=21ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=20ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=19ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=23ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=153ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=201ms TTL=59
 
 Ping statistics for 1.1.1.1:
-    Packets: Sent = 20, Received = 13, Lost = 7 (35% loss),
+    Packets: Sent = 20, Received = 19, Lost = 1 (5% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 78ms, Maximum = 888ms, Average = 383ms
+    Minimum = 15ms, Maximum = 201ms, Average = 47ms
 
-Monday, May 6, 2024 5:19:46 AM
+Monday, May 6, 2024 5:25:12 AM
 
