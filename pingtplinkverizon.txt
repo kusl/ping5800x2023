@@ -1,33 +1,33 @@
 
-Sunday, May 5, 2024 9:33:15 PM
+Sunday, May 5, 2024 9:37:38 PM
 
 
 Pinging 192.168.0.1 with 4 bytes of data:
+Reply from 192.168.0.1: bytes=4 time=10ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=144ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=18ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=2ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=2ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=2ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=6ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=45ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=2ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=5ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=52ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=14ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=126ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=33ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=91ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
 Request timed out.
 Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=60ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=40ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=8ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=166ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=9ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=143ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Request timed out.
-Reply from 192.168.0.1: bytes=4 time=4ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=2ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=46ms TTL=64
 
 Ping statistics for 192.168.0.1:
-    Packets: Sent = 20, Received = 18, Lost = 2 (10% loss),
+    Packets: Sent = 20, Received = 19, Lost = 1 (5% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 1ms, Maximum = 166ms, Average = 25ms
+    Minimum = 1ms, Maximum = 144ms, Average = 31ms
 
-Sunday, May 5, 2024 9:33:42 PM
+Sunday, May 5, 2024 9:38:01 PM
 
