@@ -1,33 +1,33 @@
 
-Monday, May 6, 2024 5:24:26 AM
+Monday, May 6, 2024 5:29:17 AM
 
 
 Pinging 192.168.0.1 with 4 bytes of data:
-Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=16ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=4ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=106ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=734ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=454ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=147ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=8ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=2ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=2ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=7ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=27ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Request timed out.
 Reply from 192.168.0.1: bytes=4 time=2ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=2ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=2ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=2ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=2ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=4ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=112ms TTL=64
 
 Ping statistics for 192.168.0.1:
-    Packets: Sent = 20, Received = 19, Lost = 1 (5% loss),
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 1ms, Maximum = 734ms, Average = 78ms
+    Minimum = 1ms, Maximum = 112ms, Average = 8ms
 
-Monday, May 6, 2024 5:24:48 AM
+Monday, May 6, 2024 5:29:36 AM
 
