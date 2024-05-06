@@ -1,33 +1,33 @@
 
-Monday, May 6, 2024 5:16:14 AM
+Monday, May 6, 2024 5:22:13 AM
 
 
 Pinging 208.67.222.222 with 4 bytes of data:
-Reply from 208.67.222.222: bytes=4 time=36ms TTL=58
-Reply from 208.67.222.222: bytes=4 time=94ms TTL=58
-Reply from 208.67.222.222: bytes=4 time=78ms TTL=58
-Reply from 208.67.222.222: bytes=4 time=373ms TTL=58
-Reply from 208.67.222.222: bytes=4 time=180ms TTL=58
+Reply from 208.67.222.222: bytes=4 time=16ms TTL=58
+Reply from 208.67.222.222: bytes=4 time=22ms TTL=58
+Reply from 208.67.222.222: bytes=4 time=22ms TTL=58
+Reply from 208.67.222.222: bytes=4 time=33ms TTL=58
+Reply from 208.67.222.222: bytes=4 time=18ms TTL=58
+Reply from 208.67.222.222: bytes=4 time=15ms TTL=58
+Reply from 208.67.222.222: bytes=4 time=151ms TTL=58
+Reply from 208.67.222.222: bytes=4 time=71ms TTL=58
+Request timed out.
 Reply from 208.67.222.222: bytes=4 time=20ms TTL=58
-Request timed out.
-Reply from 208.67.222.222: bytes=4 time=137ms TTL=58
-Reply from 208.67.222.222: bytes=4 time=118ms TTL=58
-Reply from 208.67.222.222: bytes=4 time=55ms TTL=58
-Reply from 208.67.222.222: bytes=4 time=36ms TTL=58
-Request timed out.
-Reply from 208.67.222.222: bytes=4 time=25ms TTL=58
-Reply from 208.67.222.222: bytes=4 time=242ms TTL=58
-Reply from 208.67.222.222: bytes=4 time=200ms TTL=58
-Reply from 208.67.222.222: bytes=4 time=217ms TTL=58
-Reply from 208.67.222.222: bytes=4 time=168ms TTL=58
-Reply from 208.67.222.222: bytes=4 time=154ms TTL=58
-Reply from 208.67.222.222: bytes=4 time=72ms TTL=58
-Reply from 208.67.222.222: bytes=4 time=423ms TTL=58
+Reply from 208.67.222.222: bytes=4 time=15ms TTL=58
+Reply from 208.67.222.222: bytes=4 time=20ms TTL=58
+Reply from 208.67.222.222: bytes=4 time=205ms TTL=58
+Reply from 208.67.222.222: bytes=4 time=98ms TTL=58
+Reply from 208.67.222.222: bytes=4 time=407ms TTL=58
+Reply from 208.67.222.222: bytes=4 time=408ms TTL=58
+Reply from 208.67.222.222: bytes=4 time=155ms TTL=58
+Reply from 208.67.222.222: bytes=4 time=17ms TTL=58
+Reply from 208.67.222.222: bytes=4 time=18ms TTL=58
+Reply from 208.67.222.222: bytes=4 time=14ms TTL=58
 
 Ping statistics for 208.67.222.222:
-    Packets: Sent = 20, Received = 18, Lost = 2 (10% loss),
+    Packets: Sent = 20, Received = 19, Lost = 1 (5% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 20ms, Maximum = 423ms, Average = 146ms
+    Minimum = 14ms, Maximum = 408ms, Average = 90ms
 
-Monday, May 6, 2024 5:16:41 AM
+Monday, May 6, 2024 5:22:36 AM
 
