@@ -1,33 +1,33 @@
 
-Monday, May 13, 2024 10:34:15 AM
+Monday, May 13, 2024 10:38:18 AM
 
 
 Pinging 149.112.112.112 with 4 bytes of data:
-Reply from 149.112.112.112: bytes=4 time=10ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=16ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=12ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=11ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=18ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=9ms TTL=59
 Reply from 149.112.112.112: bytes=4 time=15ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=13ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=15ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=14ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=14ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=20ms TTL=59
 Reply from 149.112.112.112: bytes=4 time=17ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=22ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=26ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=12ms TTL=59
 Reply from 149.112.112.112: bytes=4 time=14ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=10ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=18ms TTL=59
 Reply from 149.112.112.112: bytes=4 time=15ms TTL=59
 Reply from 149.112.112.112: bytes=4 time=18ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=16ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=18ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=16ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=13ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=14ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=16ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=18ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=16ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=18ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=14ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=13ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=12ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=11ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=10ms TTL=59
 
 Ping statistics for 149.112.112.112:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 10ms, Maximum = 26ms, Average = 16ms
+    Minimum = 9ms, Maximum = 20ms, Average = 13ms
 
-Monday, May 13, 2024 10:34:34 AM
+Monday, May 13, 2024 10:38:37 AM
 
