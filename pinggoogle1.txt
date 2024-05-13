@@ -1,33 +1,33 @@
 
-Monday, May 13, 2024 7:01:19 PM
+Monday, May 13, 2024 7:05:21 PM
 
 
 Pinging 8.8.8.8 with 4 bytes of data:
-Reply from 8.8.8.8: bytes=4 time=18ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=13ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=11ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=13ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=16ms TTL=60
 Reply from 8.8.8.8: bytes=4 time=15ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=12ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=18ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=19ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=12ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=15ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=23ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=20ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=14ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=13ms TTL=60
 Reply from 8.8.8.8: bytes=4 time=10ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=11ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=20ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=18ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=37ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=10ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=18ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=20ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=15ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=13ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=18ms TTL=60
 Reply from 8.8.8.8: bytes=4 time=16ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=14ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=11ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=13ms TTL=60
 Reply from 8.8.8.8: bytes=4 time=16ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=14ms TTL=60
 Reply from 8.8.8.8: bytes=4 time=12ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=19ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=14ms TTL=60
 
 Ping statistics for 8.8.8.8:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 10ms, Maximum = 19ms, Average = 14ms
+    Minimum = 10ms, Maximum = 37ms, Average = 16ms
 
-Monday, May 13, 2024 7:01:38 PM
+Monday, May 13, 2024 7:05:40 PM
 
