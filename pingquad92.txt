@@ -1,33 +1,33 @@
 
-Tuesday, May 14, 2024 6:43:32 AM
+Tuesday, May 14, 2024 6:47:57 AM
 
 
 Pinging 149.112.112.112 with 4 bytes of data:
-Reply from 149.112.112.112: bytes=4 time=10ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=11ms TTL=59
 Reply from 149.112.112.112: bytes=4 time=18ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=17ms TTL=59
 Reply from 149.112.112.112: bytes=4 time=9ms TTL=59
 Reply from 149.112.112.112: bytes=4 time=10ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=19ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=10ms TTL=59
-Request timed out.
-Reply from 149.112.112.112: bytes=4 time=12ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=15ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=14ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=32ms TTL=59
 Reply from 149.112.112.112: bytes=4 time=16ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=15ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=11ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=18ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=9ms TTL=59
 Reply from 149.112.112.112: bytes=4 time=12ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=23ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=11ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=11ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=11ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=12ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=15ms TTL=59
 Reply from 149.112.112.112: bytes=4 time=18ms TTL=59
 Reply from 149.112.112.112: bytes=4 time=17ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=18ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=15ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=12ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=18ms TTL=59
-Reply from 149.112.112.112: bytes=4 time=16ms TTL=59
+Reply from 149.112.112.112: bytes=4 time=25ms TTL=59
 
 Ping statistics for 149.112.112.112:
-    Packets: Sent = 20, Received = 19, Lost = 1 (5% loss),
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 9ms, Maximum = 19ms, Average = 14ms
+    Minimum = 9ms, Maximum = 32ms, Average = 15ms
 
-Tuesday, May 14, 2024 6:43:55 AM
+Tuesday, May 14, 2024 6:48:17 AM
 
