@@ -1,33 +1,33 @@
 
-Friday, May 17, 2024 5:47:27 PM
+Friday, May 17, 2024 6:34:02 PM
 
 
 Pinging 192.168.0.1 with 4 bytes of data:
-Reply from 192.168.0.1: bytes=4 time=38ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=51ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=67ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=52ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=37ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=35ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=29ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=143ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=140ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=77ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=152ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=53ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=43ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=91ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=67ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=12ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=8ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=6ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=6ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=12ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=12ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=16ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=8ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=16ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=22ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=30ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=11ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=59ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=19ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=16ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=15ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=54ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=109ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=19ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=46ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=12ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=20ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=13ms TTL=64
 
 Ping statistics for 192.168.0.1:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 6ms, Maximum = 152ms, Average = 58ms
+    Minimum = 8ms, Maximum = 109ms, Average = 23ms
 
-Friday, May 17, 2024 5:47:46 PM
+Friday, May 17, 2024 6:34:21 PM
 
