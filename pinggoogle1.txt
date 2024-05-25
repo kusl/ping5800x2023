@@ -1,27 +1,27 @@
 
-Saturday, May 25, 2024 6:20:27 AM
+Saturday, May 25, 2024 6:24:55 AM
 
 
 Pinging 8.8.8.8 with 4 bytes of data:
-Reply from 8.8.8.8: bytes=4 time=12ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=15ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=18ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=19ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=20ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=20ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=12ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=12ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=14ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=12ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=14ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=14ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=12ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=15ms TTL=119
 Reply from 8.8.8.8: bytes=4 time=17ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=16ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=14ms TTL=119
 Reply from 8.8.8.8: bytes=4 time=15ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=14ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=17ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=19ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=19ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=17ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=17ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=17ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=18ms TTL=119
 Reply from 8.8.8.8: bytes=4 time=11ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=13ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=12ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=13ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=11ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=20ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=11ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=12ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=13ms TTL=119
 Reply from 8.8.8.8: bytes=4 time=12ms TTL=119
 
 Ping statistics for 8.8.8.8:
@@ -29,5 +29,5 @@ Ping statistics for 8.8.8.8:
 Approximate round trip times in milli-seconds:
     Minimum = 11ms, Maximum = 20ms, Average = 14ms
 
-Saturday, May 25, 2024 6:20:46 AM
+Saturday, May 25, 2024 6:25:14 AM
 
