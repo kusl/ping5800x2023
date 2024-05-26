@@ -1,27 +1,27 @@
 
-Sunday, May 26, 2024 2:22:31 AM
+Sunday, May 26, 2024 2:26:37 AM
 
 
 Pinging 8.26.56.26 with 4 bytes of data:
 Reply from 8.26.56.26: bytes=4 time=35ms TTL=55
-Reply from 8.26.56.26: bytes=4 time=35ms TTL=55
-Reply from 8.26.56.26: bytes=4 time=34ms TTL=55
-Reply from 8.26.56.26: bytes=4 time=34ms TTL=55
-Reply from 8.26.56.26: bytes=4 time=35ms TTL=55
 Reply from 8.26.56.26: bytes=4 time=28ms TTL=55
-Reply from 8.26.56.26: bytes=4 time=32ms TTL=55
+Reply from 8.26.56.26: bytes=4 time=28ms TTL=55
+Reply from 8.26.56.26: bytes=4 time=30ms TTL=55
+Reply from 8.26.56.26: bytes=4 time=34ms TTL=55
+Reply from 8.26.56.26: bytes=4 time=33ms TTL=55
+Reply from 8.26.56.26: bytes=4 time=36ms TTL=55
+Reply from 8.26.56.26: bytes=4 time=35ms TTL=55
+Reply from 8.26.56.26: bytes=4 time=36ms TTL=55
+Reply from 8.26.56.26: bytes=4 time=35ms TTL=55
+Reply from 8.26.56.26: bytes=4 time=30ms TTL=55
+Reply from 8.26.56.26: bytes=4 time=28ms TTL=55
+Reply from 8.26.56.26: bytes=4 time=28ms TTL=55
+Reply from 8.26.56.26: bytes=4 time=27ms TTL=55
+Reply from 8.26.56.26: bytes=4 time=35ms TTL=55
 Reply from 8.26.56.26: bytes=4 time=35ms TTL=55
 Reply from 8.26.56.26: bytes=4 time=37ms TTL=55
-Reply from 8.26.56.26: bytes=4 time=30ms TTL=55
-Reply from 8.26.56.26: bytes=4 time=33ms TTL=55
-Reply from 8.26.56.26: bytes=4 time=32ms TTL=55
 Reply from 8.26.56.26: bytes=4 time=36ms TTL=55
 Reply from 8.26.56.26: bytes=4 time=36ms TTL=55
-Reply from 8.26.56.26: bytes=4 time=36ms TTL=55
-Reply from 8.26.56.26: bytes=4 time=29ms TTL=55
-Reply from 8.26.56.26: bytes=4 time=27ms TTL=55
-Reply from 8.26.56.26: bytes=4 time=29ms TTL=55
-Reply from 8.26.56.26: bytes=4 time=32ms TTL=55
 Reply from 8.26.56.26: bytes=4 time=33ms TTL=55
 
 Ping statistics for 8.26.56.26:
@@ -29,5 +29,5 @@ Ping statistics for 8.26.56.26:
 Approximate round trip times in milli-seconds:
     Minimum = 27ms, Maximum = 37ms, Average = 32ms
 
-Sunday, May 26, 2024 2:22:51 AM
+Sunday, May 26, 2024 2:26:56 AM
 
