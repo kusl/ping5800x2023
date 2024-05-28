@@ -1,33 +1,33 @@
 
-Tuesday, May 28, 2024 1:08:46 PM
+Tuesday, May 28, 2024 1:13:12 PM
 
 
 Pinging 8.8.8.8 with 4 bytes of data:
+Reply from 8.8.8.8: bytes=4 time=15ms TTL=119
 Reply from 8.8.8.8: bytes=4 time=14ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=12ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=15ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=17ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=16ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=16ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=17ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=15ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=19ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=18ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=17ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=16ms TTL=119
 Reply from 8.8.8.8: bytes=4 time=11ms TTL=119
 Reply from 8.8.8.8: bytes=4 time=14ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=16ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=17ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=18ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=17ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=17ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=16ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=18ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=27ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=18ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=16ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=14ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=17ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=38ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=10ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=16ms TTL=119
 Reply from 8.8.8.8: bytes=4 time=19ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=10ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=19ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=19ms TTL=119
+General failure.
+General failure.
 
 Ping statistics for 8.8.8.8:
-    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+    Packets: Sent = 20, Received = 18, Lost = 2 (10% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 10ms, Maximum = 38ms, Average = 17ms
+    Minimum = 10ms, Maximum = 19ms, Average = 15ms
 
-Tuesday, May 28, 2024 1:09:06 PM
+Tuesday, May 28, 2024 1:13:40 PM
 
