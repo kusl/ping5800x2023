@@ -1,33 +1,33 @@
 
-Tuesday, May 28, 2024 4:06:56 PM
+Tuesday, May 28, 2024 4:11:27 PM
 
 
 Pinging 8.8.8.8 with 4 bytes of data:
+Reply from 8.8.8.8: bytes=4 time=35ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=15ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=12ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=16ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=12ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=24ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=18ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=12ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=15ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=13ms TTL=119
 Reply from 8.8.8.8: bytes=4 time=14ms TTL=119
 Reply from 8.8.8.8: bytes=4 time=12ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=11ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=118ms TTL=119
 Reply from 8.8.8.8: bytes=4 time=16ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=110ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=12ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=85ms TTL=119
 Reply from 8.8.8.8: bytes=4 time=16ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=111ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=12ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=72ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=16ms TTL=119
 Reply from 8.8.8.8: bytes=4 time=15ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=55ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=10ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=41ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=10ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=89ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=10ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=14ms TTL=119
 Reply from 8.8.8.8: bytes=4 time=12ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=17ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=13ms TTL=119
 
 Ping statistics for 8.8.8.8:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 10ms, Maximum = 118ms, Average = 41ms
+    Minimum = 12ms, Maximum = 35ms, Average = 15ms
 
-Tuesday, May 28, 2024 4:07:15 PM
+Tuesday, May 28, 2024 4:11:46 PM
 
