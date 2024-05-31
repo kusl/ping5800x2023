@@ -1,33 +1,33 @@
 
-Thursday, May 30, 2024 8:58:32 PM
+Thursday, May 30, 2024 9:03:02 PM
 
 
 Pinging 1.1.1.1 with 4 bytes of data:
+Reply from 1.1.1.1: bytes=4 time=159ms TTL=59
 Reply from 1.1.1.1: bytes=4 time=95ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=53ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=47ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=35ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=25ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=60ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=44ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=19ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=267ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=95ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=41ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=25ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=22ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=42ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=82ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=40ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=38ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=27ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=49ms TTL=59
 Reply from 1.1.1.1: bytes=4 time=33ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=36ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=48ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=47ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=41ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=18ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=51ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=60ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=78ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=200ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=206ms TTL=59
 Reply from 1.1.1.1: bytes=4 time=44ms TTL=59
 Reply from 1.1.1.1: bytes=4 time=20ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=57ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=32ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=158ms TTL=59
 
 Ping statistics for 1.1.1.1:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 19ms, Maximum = 267ms, Average = 54ms
+    Minimum = 18ms, Maximum = 206ms, Average = 74ms
 
-Thursday, May 30, 2024 8:58:51 PM
+Thursday, May 30, 2024 9:03:21 PM
 
