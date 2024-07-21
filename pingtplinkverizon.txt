@@ -1,33 +1,33 @@
 
-Sunday, July 21, 2024 6:57:09 PM
+Sunday, July 21, 2024 7:01:16 PM
 
 
 Pinging 192.168.0.1 with 4 bytes of data:
-Reply from 192.168.0.1: bytes=4 time=119ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=245ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=445ms TTL=64
-Reply from 192.168.0.1: bytes=4 time<1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time<1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=4ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=2ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=4ms TTL=64
-Reply from 192.168.0.1: bytes=4 time<1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=17ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=32ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=51ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=77ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=33ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=126ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=3ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=93ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=2ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=8ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=16ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=22ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=44ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=96ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=67ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=43ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=70ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=168ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=130ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=224ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=101ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=151ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=826ms TTL=64
 
 Ping statistics for 192.168.0.1:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 0ms, Maximum = 445ms, Average = 62ms
+    Minimum = 1ms, Maximum = 826ms, Average = 98ms
 
-Sunday, July 21, 2024 6:57:28 PM
+Sunday, July 21, 2024 7:01:36 PM
 
