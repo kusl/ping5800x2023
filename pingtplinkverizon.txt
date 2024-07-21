@@ -1,23 +1,23 @@
 
-Sunday, July 21, 2024 7:34:23 PM
+Sunday, July 21, 2024 7:38:27 PM
 
 
 Pinging 192.168.0.1 with 4 bytes of data:
-Reply from 192.168.0.1: bytes=4 time=9ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=20ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=23ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=35ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=6ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=46ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=31ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=5ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=86ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=137ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=329ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=184ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=333ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=263ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=119ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=328ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=148ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=135ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=143ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=173ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=161ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=225ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=349ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=275ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=3ms TTL=64
+Reply from 192.168.0.1: bytes=4 time<1ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
@@ -27,7 +27,7 @@ Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
 Ping statistics for 192.168.0.1:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 1ms, Maximum = 349ms, Average = 85ms
+    Minimum = 0ms, Maximum = 333ms, Average = 93ms
 
-Sunday, July 21, 2024 7:34:42 PM
+Sunday, July 21, 2024 7:38:46 PM
 
