@@ -1,25 +1,25 @@
 
-Monday, July 22, 2024 5:04:25 PM
+Monday, July 22, 2024 5:08:31 PM
 
 
 Pinging 192.168.0.1 with 4 bytes of data:
-Reply from 192.168.0.1: bytes=4 time=41ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=43ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=45ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=94ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=255ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=197ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=158ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=320ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=367ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=376ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=2ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=100ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=133ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=111ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=128ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=169ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=101ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=109ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=68ms TTL=64
 Reply from 192.168.0.1: bytes=4 time<1ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=4 time<1ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=5ms TTL=64
+Reply from 192.168.0.1: bytes=4 time<1ms TTL=64
+Reply from 192.168.0.1: bytes=4 time<1ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
@@ -27,7 +27,7 @@ Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
 Ping statistics for 192.168.0.1:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 0ms, Maximum = 169ms, Average = 53ms
+    Minimum = 0ms, Maximum = 376ms, Average = 88ms
 
-Monday, July 22, 2024 5:04:44 PM
+Monday, July 22, 2024 5:08:50 PM
 
