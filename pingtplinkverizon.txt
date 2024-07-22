@@ -1,33 +1,33 @@
 
-Monday, July 22, 2024 7:36:04 PM
+Monday, July 22, 2024 7:40:09 PM
 
 
 Pinging 192.168.0.1 with 4 bytes of data:
 Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=4 time<1ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=4 time<1ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=2ms TTL=64
-Reply from 192.168.0.1: bytes=4 time<1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=6ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
 Reply from 192.168.0.1: bytes=4 time<1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time<1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=2ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=3ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time<1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=3ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=31ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=34ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=20ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=9ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=42ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=59ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=66ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=92ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=75ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=2ms TTL=64
 
 Ping statistics for 192.168.0.1:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 0ms, Maximum = 66ms, Average = 7ms
+    Minimum = 0ms, Maximum = 92ms, Average = 18ms
 
-Monday, July 22, 2024 7:36:24 PM
+Monday, July 22, 2024 7:40:28 PM
 
