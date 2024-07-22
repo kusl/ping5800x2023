@@ -1,33 +1,33 @@
 
-Monday, July 22, 2024 6:54:19 PM
+Monday, July 22, 2024 6:58:26 PM
 
 
 Pinging 192.168.0.1 with 4 bytes of data:
+Reply from 192.168.0.1: bytes=4 time=97ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=33ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=5ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=49ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=148ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=98ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=125ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=82ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=214ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=165ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=124ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=101ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
 Reply from 192.168.0.1: bytes=4 time<1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=7ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=18ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=50ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=55ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=57ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=66ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=88ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=5ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=97ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=118ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=229ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=222ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=279ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=181ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=261ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=318ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=4 time<1ms TTL=64
+Reply from 192.168.0.1: bytes=4 time<1ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
 
 Ping statistics for 192.168.0.1:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 0ms, Maximum = 318ms, Average = 102ms
+    Minimum = 0ms, Maximum = 214ms, Average = 62ms
 
-Monday, July 22, 2024 6:54:38 PM
+Monday, July 22, 2024 6:58:45 PM
 
