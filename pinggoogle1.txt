@@ -1,33 +1,33 @@
 
-Monday, July 22, 2024 3:26:25 PM
+Monday, July 22, 2024 3:30:29 PM
 
 
 Pinging 8.8.8.8 with 4 bytes of data:
-Reply from 8.8.8.8: bytes=4 time=115ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=99ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=96ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=24ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=70ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=115ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=177ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=256ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=144ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=72ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=245ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=358ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=241ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=15ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=13ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=13ms TTL=60
-Reply from 8.8.8.8: bytes=4 time=12ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=61ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=123ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=58ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=148ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=176ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=129ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=360ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=293ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=14ms TTL=60
 Reply from 8.8.8.8: bytes=4 time=17ms TTL=60
 Reply from 8.8.8.8: bytes=4 time=17ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=34ms TTL=60
 Reply from 8.8.8.8: bytes=4 time=15ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=14ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=16ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=15ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=16ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=19ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=15ms TTL=60
+Reply from 8.8.8.8: bytes=4 time=14ms TTL=60
 
 Ping statistics for 8.8.8.8:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 12ms, Maximum = 358ms, Average = 105ms
+    Minimum = 14ms, Maximum = 360ms, Average = 77ms
 
-Monday, July 22, 2024 3:26:44 PM
+Monday, July 22, 2024 3:30:48 PM
 
