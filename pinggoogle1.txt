@@ -1,33 +1,33 @@
 
-Sunday, August 18, 2024 9:39:51 PM
+Monday, August 19, 2024 3:22:33 PM
 
 
 Pinging 8.8.8.8 with 4 bytes of data:
-Reply from 8.8.8.8: bytes=4 time=10ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=10ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=28ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=46ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=343ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=42ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=36ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=22ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=93ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=42ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=23ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=46ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=12ms TTL=119
 Reply from 8.8.8.8: bytes=4 time=13ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=9ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=10ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=13ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=8ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=12ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=12ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=12ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=9ms TTL=119
 Reply from 8.8.8.8: bytes=4 time=14ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=10ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=15ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=11ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=15ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=12ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=11ms TTL=119
+Reply from 8.8.8.8: bytes=4 time=11ms TTL=119
 Reply from 8.8.8.8: bytes=4 time=9ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=11ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=11ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=8ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=10ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=8ms TTL=119
-Reply from 8.8.8.8: bytes=4 time=10ms TTL=119
 
 Ping statistics for 8.8.8.8:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 8ms, Maximum = 14ms, Average = 10ms
+    Minimum = 9ms, Maximum = 343ms, Average = 42ms
 
-Sunday, August 18, 2024 9:40:10 PM
+Monday, August 19, 2024 3:22:52 PM
 
