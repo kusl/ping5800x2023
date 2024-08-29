@@ -1,33 +1,33 @@
 
-Wednesday, August 28, 2024 8:42:21 PM
+Wednesday, August 28, 2024 8:46:30 PM
 
 
 Pinging 192.168.0.1 with 4 bytes of data:
 Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time<1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time<1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time<1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time<1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=5ms TTL=64
+General failure.
+General failure.
+General failure.
+General failure.
+General failure.
+General failure.
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+Request timed out.
 
 Ping statistics for 192.168.0.1:
-    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+    Packets: Sent = 20, Received = 2, Lost = 18 (90% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 0ms, Maximum = 5ms, Average = 1ms
+    Minimum = 1ms, Maximum = 1ms, Average = 1ms
 
-Wednesday, August 28, 2024 8:42:40 PM
+Thursday, August 29, 2024 5:07:44 AM
 
