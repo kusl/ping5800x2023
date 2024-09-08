@@ -1,33 +1,33 @@
 
-Sunday, September 8, 2024 4:17:29 AM
+Sunday, September 8, 2024 4:21:36 AM
 
 
 Pinging 8.20.247.20 with 4 bytes of data:
-Reply from 8.20.247.20: bytes=4 time=42ms TTL=56
-Reply from 8.20.247.20: bytes=4 time=39ms TTL=56
-Reply from 8.20.247.20: bytes=4 time=38ms TTL=56
-Reply from 8.20.247.20: bytes=4 time=41ms TTL=56
-Reply from 8.20.247.20: bytes=4 time=44ms TTL=56
-Reply from 8.20.247.20: bytes=4 time=44ms TTL=56
-Reply from 8.20.247.20: bytes=4 time=40ms TTL=56
-Reply from 8.20.247.20: bytes=4 time=33ms TTL=56
-Reply from 8.20.247.20: bytes=4 time=45ms TTL=56
-Reply from 8.20.247.20: bytes=4 time=35ms TTL=56
-Reply from 8.20.247.20: bytes=4 time=41ms TTL=56
+Reply from 8.20.247.20: bytes=4 time=97ms TTL=55
+Reply from 8.20.247.20: bytes=4 time=28ms TTL=54
+Reply from 8.20.247.20: bytes=4 time=25ms TTL=54
+Reply from 8.20.247.20: bytes=4 time=26ms TTL=54
+Reply from 8.20.247.20: bytes=4 time=24ms TTL=54
+Reply from 8.20.247.20: bytes=4 time=25ms TTL=54
+Reply from 8.20.247.20: bytes=4 time=25ms TTL=54
+Reply from 8.20.247.20: bytes=4 time=23ms TTL=54
 Request timed out.
+Reply from 8.20.247.20: bytes=4 time=83ms TTL=56
 Reply from 8.20.247.20: bytes=4 time=80ms TTL=56
-Reply from 8.20.247.20: bytes=4 time=188ms TTL=56
+Reply from 8.20.247.20: bytes=4 time=90ms TTL=56
+Reply from 8.20.247.20: bytes=4 time=80ms TTL=56
+Reply from 8.20.247.20: bytes=4 time=82ms TTL=56
+Reply from 8.20.247.20: bytes=4 time=83ms TTL=56
 Reply from 8.20.247.20: bytes=4 time=79ms TTL=56
+Reply from 8.20.247.20: bytes=4 time=77ms TTL=56
 Reply from 8.20.247.20: bytes=4 time=81ms TTL=56
-Reply from 8.20.247.20: bytes=4 time=80ms TTL=56
+Reply from 8.20.247.20: bytes=4 time=78ms TTL=56
 Reply from 8.20.247.20: bytes=4 time=83ms TTL=56
-Reply from 8.20.247.20: bytes=4 time=83ms TTL=56
-Reply from 8.20.247.20: bytes=4 time=193ms TTL=56
 
 Ping statistics for 8.20.247.20:
     Packets: Sent = 20, Received = 19, Lost = 1 (5% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 33ms, Maximum = 193ms, Average = 68ms
+    Minimum = 23ms, Maximum = 97ms, Average = 61ms
 
-Sunday, September 8, 2024 4:17:52 AM
+Sunday, September 8, 2024 4:22:00 AM
 
