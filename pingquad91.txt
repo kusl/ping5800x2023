@@ -1,11 +1,11 @@
 
-Friday, September 27, 2024 6:35:09 PM
+Friday, September 27, 2024 6:40:42 PM
 
 
 Pinging 9.9.9.9 with 4 bytes of data:
 Request timed out.
 Request timed out.
-Request timed out.
+Reply from 9.9.9.9: bytes=4 time=12ms TTL=56
 Request timed out.
 Request timed out.
 Request timed out.
@@ -25,7 +25,9 @@ Request timed out.
 Request timed out.
 
 Ping statistics for 9.9.9.9:
-    Packets: Sent = 20, Received = 0, Lost = 20 (100% loss),
+    Packets: Sent = 20, Received = 1, Lost = 19 (95% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 12ms, Maximum = 12ms, Average = 12ms
 
-Friday, September 27, 2024 6:36:48 PM
+Friday, September 27, 2024 6:42:17 PM
 
