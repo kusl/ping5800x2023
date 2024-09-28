@@ -1,5 +1,7 @@
 Set-Location "C:\src\ping\";
-Get-Date;
+Get-Date
+.\nasa.ps1
+Get-Date
 $dns = [ordered]@{
     home = "127.0.0.1";
     # tmobile = "192.168.12.1";
