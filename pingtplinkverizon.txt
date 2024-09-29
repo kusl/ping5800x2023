@@ -1,33 +1,33 @@
 
-Saturday, September 28, 2024 9:25:41 PM
+Saturday, September 28, 2024 9:30:41 PM
 
 
 Pinging 192.168.0.1 with 4 bytes of data:
-Reply from 192.168.0.1: bytes=4 time=13ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=7ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=24ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=2ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=3ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=16ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=26ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=30ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=36ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=13ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=4ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=10ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=27ms TTL=64
 Reply from 192.168.0.1: bytes=4 time<1ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=50ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=51ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=116ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=29ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=8ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=20ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=4ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=62ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=2ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=2ms TTL=64
+Reply from 192.168.0.1: bytes=4 time<1ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=37ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=34ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=50ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=18ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=19ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=16ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=4ms TTL=64
 
 Ping statistics for 192.168.0.1:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 0ms, Maximum = 50ms, Average = 17ms
+    Minimum = 0ms, Maximum = 116ms, Average = 23ms
 
-Saturday, September 28, 2024 9:26:00 PM
+Saturday, September 28, 2024 9:31:00 PM
 
