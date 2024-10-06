@@ -1,33 +1,33 @@
 
-Sunday, October 6, 2024 3:23:50 AM
+Sunday, October 6, 2024 3:28:15 AM
 
 
 Pinging 8.26.56.26 with 4 bytes of data:
-Reply from 8.26.56.26: bytes=4 time=256ms TTL=51
-Reply from 8.26.56.26: bytes=4 time=254ms TTL=51
-Reply from 8.26.56.26: bytes=4 time=252ms TTL=51
+Reply from 8.26.56.26: bytes=4 time=257ms TTL=51
 Reply from 8.26.56.26: bytes=4 time=251ms TTL=51
-Reply from 8.26.56.26: bytes=4 time=250ms TTL=51
-Reply from 8.26.56.26: bytes=4 time=252ms TTL=51
+Reply from 8.26.56.26: bytes=4 time=251ms TTL=51
+Reply from 8.26.56.26: bytes=4 time=258ms TTL=51
+Reply from 8.26.56.26: bytes=4 time=251ms TTL=51
+Reply from 8.26.56.26: bytes=4 time=251ms TTL=51
+Reply from 8.26.56.26: bytes=4 time=251ms TTL=51
+Reply from 8.26.56.26: bytes=4 time=254ms TTL=51
 Reply from 8.26.56.26: bytes=4 time=255ms TTL=51
-Reply from 8.26.56.26: bytes=4 time=257ms TTL=51
-Reply from 8.26.56.26: bytes=4 time=257ms TTL=51
-Reply from 8.26.56.26: bytes=4 time=257ms TTL=51
 Reply from 8.26.56.26: bytes=4 time=256ms TTL=51
-Reply from 8.26.56.26: bytes=4 time=283ms TTL=52
-Reply from 8.26.56.26: bytes=4 time=103ms TTL=52
-Reply from 8.26.56.26: bytes=4 time=96ms TTL=52
-Reply from 8.26.56.26: bytes=4 time=98ms TTL=52
-Reply from 8.26.56.26: bytes=4 time=96ms TTL=52
-Reply from 8.26.56.26: bytes=4 time=98ms TTL=52
-Reply from 8.26.56.26: bytes=4 time=117ms TTL=52
-Reply from 8.26.56.26: bytes=4 time=149ms TTL=52
-Reply from 8.26.56.26: bytes=4 time=183ms TTL=52
+Reply from 8.26.56.26: bytes=4 time=255ms TTL=51
+Reply from 8.26.56.26: bytes=4 time=254ms TTL=51
+Reply from 8.26.56.26: bytes=4 time=256ms TTL=51
+Reply from 8.26.56.26: bytes=4 time=257ms TTL=51
+Reply from 8.26.56.26: bytes=4 time=250ms TTL=51
+Reply from 8.26.56.26: bytes=4 time=258ms TTL=51
+Reply from 8.26.56.26: bytes=4 time=254ms TTL=51
+Reply from 8.26.56.26: bytes=4 time=254ms TTL=51
+Reply from 8.26.56.26: bytes=4 time=256ms TTL=51
+Reply from 8.26.56.26: bytes=4 time=257ms TTL=51
 
 Ping statistics for 8.26.56.26:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 96ms, Maximum = 283ms, Average = 201ms
+    Minimum = 250ms, Maximum = 258ms, Average = 254ms
 
-Sunday, October 6, 2024 3:24:10 AM
+Sunday, October 6, 2024 3:28:34 AM
 
