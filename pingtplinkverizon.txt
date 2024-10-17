@@ -1,33 +1,33 @@
 
-Wednesday, October 16, 2024 8:53:57 PM
+Wednesday, October 16, 2024 8:58:43 PM
 
 
 Pinging 192.168.0.1 with 4 bytes of data:
-Reply from 192.168.0.1: bytes=4 time=3ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=5ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=9ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=43ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=6ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=15ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=51ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=17ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=13ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=8ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=8ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=2ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=2ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=12ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=9ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=20ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
+General failure.
+General failure.
+General failure.
+General failure.
+General failure.
+General failure.
+General failure.
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
 
 Ping statistics for 192.168.0.1:
-    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+    Packets: Sent = 20, Received = 8, Lost = 12 (60% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 1ms, Maximum = 51ms, Average = 10ms
+    Minimum = 1ms, Maximum = 20ms, Average = 3ms
 
-Wednesday, October 16, 2024 8:54:16 PM
+Thursday, October 17, 2024 5:23:20 AM
 
