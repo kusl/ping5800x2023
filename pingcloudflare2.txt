@@ -1,33 +1,33 @@
 
-Friday, October 18, 2024 5:37:47 PM
+Friday, October 18, 2024 5:42:28 PM
 
 
 Pinging 1.0.0.1 with 4 bytes of data:
-Reply from 1.0.0.1: bytes=4 time=15ms TTL=59
-Reply from 1.0.0.1: bytes=4 time=44ms TTL=59
-Reply from 1.0.0.1: bytes=4 time=22ms TTL=59
-Reply from 1.0.0.1: bytes=4 time=14ms TTL=59
 Reply from 1.0.0.1: bytes=4 time=16ms TTL=59
-Reply from 1.0.0.1: bytes=4 time=39ms TTL=59
 Reply from 1.0.0.1: bytes=4 time=19ms TTL=59
-Reply from 1.0.0.1: bytes=4 time=18ms TTL=59
-Reply from 1.0.0.1: bytes=4 time=17ms TTL=59
-Reply from 1.0.0.1: bytes=4 time=16ms TTL=59
 Reply from 1.0.0.1: bytes=4 time=14ms TTL=59
-Reply from 1.0.0.1: bytes=4 time=15ms TTL=59
-Reply from 1.0.0.1: bytes=4 time=22ms TTL=59
-Reply from 1.0.0.1: bytes=4 time=20ms TTL=59
-Reply from 1.0.0.1: bytes=4 time=14ms TTL=59
+Reply from 1.0.0.1: bytes=4 time=58ms TTL=59
+Reply from 1.0.0.1: bytes=4 time=64ms TTL=59
+Reply from 1.0.0.1: bytes=4 time=254ms TTL=59
+Reply from 1.0.0.1: bytes=4 time=48ms TTL=59
+Reply from 1.0.0.1: bytes=4 time=102ms TTL=59
+Reply from 1.0.0.1: bytes=4 time=108ms TTL=59
+Reply from 1.0.0.1: bytes=4 time=72ms TTL=59
+Reply from 1.0.0.1: bytes=4 time=35ms TTL=59
+Reply from 1.0.0.1: bytes=4 time=140ms TTL=59
+Reply from 1.0.0.1: bytes=4 time=460ms TTL=59
+Reply from 1.0.0.1: bytes=4 time=19ms TTL=59
+Reply from 1.0.0.1: bytes=4 time=93ms TTL=59
+Reply from 1.0.0.1: bytes=4 time=103ms TTL=59
 Reply from 1.0.0.1: bytes=4 time=17ms TTL=59
-Reply from 1.0.0.1: bytes=4 time=38ms TTL=59
-Reply from 1.0.0.1: bytes=4 time=33ms TTL=59
-Reply from 1.0.0.1: bytes=4 time=17ms TTL=59
-Reply from 1.0.0.1: bytes=4 time=17ms TTL=59
+Reply from 1.0.0.1: bytes=4 time=45ms TTL=59
+Reply from 1.0.0.1: bytes=4 time=79ms TTL=59
+Reply from 1.0.0.1: bytes=4 time=54ms TTL=59
 
 Ping statistics for 1.0.0.1:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 14ms, Maximum = 44ms, Average = 21ms
+    Minimum = 14ms, Maximum = 460ms, Average = 90ms
 
-Friday, October 18, 2024 5:38:06 PM
+Friday, October 18, 2024 5:42:48 PM
 
