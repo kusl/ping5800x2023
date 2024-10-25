@@ -1,33 +1,33 @@
 
-Friday, October 25, 2024 7:50:49 AM
+Friday, October 25, 2024 7:55:27 AM
 
 
 Pinging 1.1.1.1 with 4 bytes of data:
-Reply from 1.1.1.1: bytes=4 time=19ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=17ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=20ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=20ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=23ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=17ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=19ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=23ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=23ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=14ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=29ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=16ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=40ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=19ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=22ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=32ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=22ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=17ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=20ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=23ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=38ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=65ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=81ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=78ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=78ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=82ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=83ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=81ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=84ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=77ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=83ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=75ms TTL=59
+Request timed out.
+Reply from 1.1.1.1: bytes=4 time=81ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=88ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=81ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=82ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=83ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=82ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=82ms TTL=59
 
 Ping statistics for 1.1.1.1:
-    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+    Packets: Sent = 20, Received = 19, Lost = 1 (5% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 14ms, Maximum = 40ms, Average = 21ms
+    Minimum = 38ms, Maximum = 88ms, Average = 78ms
 
-Friday, October 25, 2024 7:51:09 AM
+Friday, October 25, 2024 7:55:50 AM
 
