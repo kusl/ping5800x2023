@@ -1,33 +1,33 @@
 
-Monday, November 4, 2024 12:04:40 PM
+Monday, November 4, 2024 12:13:35 PM
 
 
 Pinging 9.9.9.9 with 4 bytes of data:
-Reply from 9.9.9.9: bytes=4 time=108ms TTL=56
-Reply from 9.9.9.9: bytes=4 time=44ms TTL=56
-Reply from 9.9.9.9: bytes=4 time=39ms TTL=56
-Reply from 9.9.9.9: bytes=4 time=36ms TTL=56
-Reply from 9.9.9.9: bytes=4 time=13ms TTL=56
-Reply from 9.9.9.9: bytes=4 time=38ms TTL=56
-Reply from 9.9.9.9: bytes=4 time=43ms TTL=56
-Reply from 9.9.9.9: bytes=4 time=49ms TTL=56
-Reply from 9.9.9.9: bytes=4 time=18ms TTL=56
-Reply from 9.9.9.9: bytes=4 time=110ms TTL=56
-Reply from 9.9.9.9: bytes=4 time=92ms TTL=56
-Reply from 9.9.9.9: bytes=4 time=77ms TTL=56
-Reply from 9.9.9.9: bytes=4 time=53ms TTL=56
-Reply from 9.9.9.9: bytes=4 time=85ms TTL=56
+Reply from 9.9.9.9: bytes=4 time=31ms TTL=56
+Reply from 9.9.9.9: bytes=4 time=15ms TTL=56
+Reply from 9.9.9.9: bytes=4 time=64ms TTL=56
+Reply from 9.9.9.9: bytes=4 time=35ms TTL=56
 Reply from 9.9.9.9: bytes=4 time=20ms TTL=56
-Reply from 9.9.9.9: bytes=4 time=70ms TTL=56
-Reply from 9.9.9.9: bytes=4 time=70ms TTL=56
+Reply from 9.9.9.9: bytes=4 time=59ms TTL=56
+Reply from 9.9.9.9: bytes=4 time=29ms TTL=56
+Reply from 9.9.9.9: bytes=4 time=12ms TTL=56
+Reply from 9.9.9.9: bytes=4 time=27ms TTL=56
+Reply from 9.9.9.9: bytes=4 time=31ms TTL=56
 Reply from 9.9.9.9: bytes=4 time=72ms TTL=56
-Reply from 9.9.9.9: bytes=4 time=43ms TTL=56
-Reply from 9.9.9.9: bytes=4 time=126ms TTL=56
+Reply from 9.9.9.9: bytes=4 time=23ms TTL=56
+Reply from 9.9.9.9: bytes=4 time=129ms TTL=56
+Reply from 9.9.9.9: bytes=4 time=16ms TTL=56
+Reply from 9.9.9.9: bytes=4 time=36ms TTL=56
+Reply from 9.9.9.9: bytes=4 time=64ms TTL=56
+Reply from 9.9.9.9: bytes=4 time=23ms TTL=56
+Reply from 9.9.9.9: bytes=4 time=38ms TTL=56
+Reply from 9.9.9.9: bytes=4 time=72ms TTL=56
+Reply from 9.9.9.9: bytes=4 time=27ms TTL=56
 
 Ping statistics for 9.9.9.9:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 13ms, Maximum = 126ms, Average = 60ms
+    Minimum = 12ms, Maximum = 129ms, Average = 41ms
 
-Monday, November 4, 2024 12:04:59 PM
+Monday, November 4, 2024 12:13:54 PM
 
