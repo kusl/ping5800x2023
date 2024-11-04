@@ -1,33 +1,33 @@
 
-Sunday, November 3, 2024 8:51:32 PM
+Sunday, November 3, 2024 9:03:20 PM
 
 
 Pinging 192.168.0.1 with 4 bytes of data:
-Reply from 192.168.0.1: bytes=4 time=39ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=33ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=40ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=19ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=25ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=37ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=20ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=9ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=33ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=70ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=162ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=67ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=17ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=2ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=117ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=13ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=13ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=51ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=47ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=18ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=36ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=6ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=3ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=3ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=3ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=124ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=42ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=92ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=18ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=64ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=126ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=26ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=102ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=54ms TTL=64
 
 Ping statistics for 192.168.0.1:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 1ms, Maximum = 162ms, Average = 41ms
+    Minimum = 1ms, Maximum = 124ms, Average = 36ms
 
-Sunday, November 3, 2024 8:51:51 PM
+Sunday, November 3, 2024 9:03:39 PM
 
