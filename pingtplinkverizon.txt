@@ -1,33 +1,33 @@
 
-Saturday, November 9, 2024 1:47:52 PM
+Saturday, November 9, 2024 1:53:43 PM
 
 
 Pinging 192.168.0.1 with 4 bytes of data:
-Reply from 192.168.0.1: bytes=4 time=3ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=51ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=39ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=61ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=57ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=4ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=3ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=305ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=112ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=138ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=226ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=126ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=32ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=274ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=62ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=4ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=4 time<1ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=2ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=2ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=2ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
 
 Ping statistics for 192.168.0.1:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 1ms, Maximum = 305ms, Average = 75ms
+    Minimum = 0ms, Maximum = 2ms, Average = 1ms
 
-Saturday, November 9, 2024 1:48:11 PM
+Saturday, November 9, 2024 1:54:02 PM
 
