@@ -1,33 +1,33 @@
 
-Thursday, November 21, 2024 8:18:49 PM
+Thursday, November 21, 2024 8:23:16 PM
 
 
 Pinging 192.168.0.1 with 4 bytes of data:
-Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=2ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=9ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=2ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=4ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=529ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=783ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=484ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=868ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=629ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=1768ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=968ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=285ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=896ms TTL=64
 Reply from 192.168.0.1: bytes=4 time=3ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=14ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=3ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=2ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=1ms TTL=64
-Reply from 192.168.0.1: bytes=4 time=4ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=26ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=935ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=236ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=334ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=203ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=109ms TTL=64
+Reply from 192.168.0.1: bytes=4 time=399ms TTL=64
 
 Ping statistics for 192.168.0.1:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 1ms, Maximum = 14ms, Average = 2ms
+    Minimum = 1ms, Maximum = 1768ms, Average = 472ms
 
-Thursday, November 21, 2024 8:19:08 PM
+Thursday, November 21, 2024 8:23:36 PM
 

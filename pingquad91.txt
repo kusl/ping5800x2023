@@ -1,33 +1,33 @@
 
-Thursday, November 21, 2024 8:20:25 PM
+Thursday, November 21, 2024 8:24:54 PM
 
 
 Pinging 9.9.9.9 with 4 bytes of data:
-Reply from 9.9.9.9: bytes=4 time=17ms TTL=56
-Reply from 9.9.9.9: bytes=4 time=38ms TTL=56
-Reply from 9.9.9.9: bytes=4 time=17ms TTL=56
-Reply from 9.9.9.9: bytes=4 time=15ms TTL=56
-Reply from 9.9.9.9: bytes=4 time=19ms TTL=56
-Reply from 9.9.9.9: bytes=4 time=16ms TTL=56
-Reply from 9.9.9.9: bytes=4 time=16ms TTL=56
-Reply from 9.9.9.9: bytes=4 time=19ms TTL=56
-Reply from 9.9.9.9: bytes=4 time=13ms TTL=56
 Reply from 9.9.9.9: bytes=4 time=18ms TTL=56
-Reply from 9.9.9.9: bytes=4 time=36ms TTL=56
-Reply from 9.9.9.9: bytes=4 time=58ms TTL=56
-Reply from 9.9.9.9: bytes=4 time=25ms TTL=56
-Reply from 9.9.9.9: bytes=4 time=28ms TTL=56
-Reply from 9.9.9.9: bytes=4 time=56ms TTL=56
-Reply from 9.9.9.9: bytes=4 time=50ms TTL=56
-Reply from 9.9.9.9: bytes=4 time=41ms TTL=56
-Reply from 9.9.9.9: bytes=4 time=28ms TTL=56
-Reply from 9.9.9.9: bytes=4 time=17ms TTL=56
-Reply from 9.9.9.9: bytes=4 time=27ms TTL=56
+Reply from 9.9.9.9: bytes=4 time=181ms TTL=56
+Reply from 9.9.9.9: bytes=4 time=105ms TTL=56
+Reply from 9.9.9.9: bytes=4 time=115ms TTL=56
+Reply from 9.9.9.9: bytes=4 time=162ms TTL=56
+Reply from 9.9.9.9: bytes=4 time=182ms TTL=56
+Reply from 9.9.9.9: bytes=4 time=87ms TTL=56
+Reply from 9.9.9.9: bytes=4 time=199ms TTL=56
+Reply from 9.9.9.9: bytes=4 time=450ms TTL=56
+Reply from 9.9.9.9: bytes=4 time=109ms TTL=56
+Reply from 9.9.9.9: bytes=4 time=195ms TTL=56
+Reply from 9.9.9.9: bytes=4 time=104ms TTL=56
+Reply from 9.9.9.9: bytes=4 time=187ms TTL=56
+Reply from 9.9.9.9: bytes=4 time=590ms TTL=56
+Reply from 9.9.9.9: bytes=4 time=57ms TTL=56
+Reply from 9.9.9.9: bytes=4 time=19ms TTL=56
+Reply from 9.9.9.9: bytes=4 time=39ms TTL=56
+Reply from 9.9.9.9: bytes=4 time=24ms TTL=56
+Reply from 9.9.9.9: bytes=4 time=216ms TTL=56
+Reply from 9.9.9.9: bytes=4 time=87ms TTL=56
 
 Ping statistics for 9.9.9.9:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 13ms, Maximum = 58ms, Average = 27ms
+    Minimum = 18ms, Maximum = 590ms, Average = 156ms
 
-Thursday, November 21, 2024 8:20:44 PM
+Thursday, November 21, 2024 8:25:13 PM
 
