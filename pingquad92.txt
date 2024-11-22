@@ -1,33 +1,33 @@
 
-Thursday, November 21, 2024 8:57:19 PM
+Thursday, November 21, 2024 9:01:32 PM
 
 
 Pinging 149.112.112.112 with 4 bytes of data:
-Reply from 149.112.112.112: bytes=4 time=17ms TTL=55
-Reply from 149.112.112.112: bytes=4 time=16ms TTL=55
-Reply from 149.112.112.112: bytes=4 time=10ms TTL=55
-Reply from 149.112.112.112: bytes=4 time=17ms TTL=55
-Reply from 149.112.112.112: bytes=4 time=12ms TTL=55
-Reply from 149.112.112.112: bytes=4 time=14ms TTL=55
-Reply from 149.112.112.112: bytes=4 time=13ms TTL=55
-Reply from 149.112.112.112: bytes=4 time=27ms TTL=55
-Reply from 149.112.112.112: bytes=4 time=13ms TTL=55
-Reply from 149.112.112.112: bytes=4 time=14ms TTL=55
-Reply from 149.112.112.112: bytes=4 time=14ms TTL=55
-Reply from 149.112.112.112: bytes=4 time=11ms TTL=55
-Reply from 149.112.112.112: bytes=4 time=18ms TTL=55
-Reply from 149.112.112.112: bytes=4 time=40ms TTL=55
-Reply from 149.112.112.112: bytes=4 time=20ms TTL=55
-Reply from 149.112.112.112: bytes=4 time=15ms TTL=55
-Reply from 149.112.112.112: bytes=4 time=39ms TTL=55
-Reply from 149.112.112.112: bytes=4 time=13ms TTL=55
-Reply from 149.112.112.112: bytes=4 time=14ms TTL=55
-Reply from 149.112.112.112: bytes=4 time=19ms TTL=55
+General failure.
+General failure.
+General failure.
+General failure.
+General failure.
+General failure.
+General failure.
+General failure.
+Request timed out.
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+Reply from 149.112.112.112: bytes=4 time=21ms TTL=55
+Reply from 149.112.112.112: bytes=4 time=43ms TTL=55
+Reply from 149.112.112.112: bytes=4 time=81ms TTL=55
+Reply from 149.112.112.112: bytes=4 time=102ms TTL=55
+Reply from 149.112.112.112: bytes=4 time=25ms TTL=55
+Reply from 149.112.112.112: bytes=4 time=43ms TTL=55
 
 Ping statistics for 149.112.112.112:
-    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+    Packets: Sent = 20, Received = 6, Lost = 14 (70% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 10ms, Maximum = 40ms, Average = 17ms
+    Minimum = 21ms, Maximum = 102ms, Average = 52ms
 
-Thursday, November 21, 2024 8:57:38 PM
+Friday, November 22, 2024 5:09:00 AM
 
