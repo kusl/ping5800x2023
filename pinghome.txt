@@ -1,5 +1,5 @@
 
-Monday, November 25, 2024 5:50:51 AM
+Monday, November 25, 2024 5:56:26 AM
 
 
 Pinging 127.0.0.1 with 4 bytes of data:
@@ -8,7 +8,7 @@ Reply from 127.0.0.1: bytes=4 time<1ms TTL=128
 Reply from 127.0.0.1: bytes=4 time<1ms TTL=128
 Reply from 127.0.0.1: bytes=4 time<1ms TTL=128
 Reply from 127.0.0.1: bytes=4 time<1ms TTL=128
-Reply from 127.0.0.1: bytes=4 time=5ms TTL=128
+Reply from 127.0.0.1: bytes=4 time<1ms TTL=128
 Reply from 127.0.0.1: bytes=4 time<1ms TTL=128
 Reply from 127.0.0.1: bytes=4 time<1ms TTL=128
 Reply from 127.0.0.1: bytes=4 time<1ms TTL=128
@@ -27,7 +27,7 @@ Reply from 127.0.0.1: bytes=4 time<1ms TTL=128
 Ping statistics for 127.0.0.1:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 0ms, Maximum = 5ms, Average = 0ms
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
 
-Monday, November 25, 2024 5:51:10 AM
+Monday, November 25, 2024 5:56:45 AM
 
