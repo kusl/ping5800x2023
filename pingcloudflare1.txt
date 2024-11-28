@@ -1,33 +1,33 @@
 
-Thursday, November 28, 2024 3:48:19 AM
+Thursday, November 28, 2024 3:52:33 AM
 
 
 Pinging 1.1.1.1 with 4 bytes of data:
-Reply from 1.1.1.1: bytes=4 time=18ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=17ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=38ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=34ms TTL=59
 Reply from 1.1.1.1: bytes=4 time=16ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=17ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=18ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=82ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=20ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=20ms TTL=59
 Reply from 1.1.1.1: bytes=4 time=23ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=13ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=25ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=36ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=20ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=14ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=22ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=24ms TTL=59
 Reply from 1.1.1.1: bytes=4 time=17ms TTL=59
-Reply from 1.1.1.1: bytes=4 time=14ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=20ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=20ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=22ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=27ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=179ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=15ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=28ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=15ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=20ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=20ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=38ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=16ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=43ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=20ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=17ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=39ms TTL=59
+Reply from 1.1.1.1: bytes=4 time=20ms TTL=59
 
 Ping statistics for 1.1.1.1:
     Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 13ms, Maximum = 82ms, Average = 24ms
+    Minimum = 15ms, Maximum = 179ms, Average = 30ms
 
-Thursday, November 28, 2024 3:48:38 AM
+Thursday, November 28, 2024 3:52:53 AM
 
